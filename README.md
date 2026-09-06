@@ -70,6 +70,7 @@ increase volume, but neither was requested by the brief, which asks for
 | `src/output/to_sheets.py` | ✅ Pushes `output/*.jsonl` to 6 Google Sheet tabs; row counts independently verified by reading back from the Sheet at the full 1,000/1,000/1,000/223/3 volume — see "Google Sheets push status" above |
 | `src/pipeline/run_all.py` | ✅ Orchestrates all of the above, prints a verification pass with spot-checked source URLs |
 | `architecture.md` / `architecture.pdf` | ✅ 3 pages, covers all 4 required talking points with real tested numbers |
+| `.github/workflows/scheduled_pipeline.yml` | Runs `run_all.py` + `to_sheets.py` every 6 hours via GitHub Actions, keyed off 6 encrypted repo secrets (4 API keys + service account JSON + Sheet ID). Manual "Run workflow" test pending — see PR/commit description for exact secret setup steps |
 
 Run the full pipeline yourself:
 ```bash
