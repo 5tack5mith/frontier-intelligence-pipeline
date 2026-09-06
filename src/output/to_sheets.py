@@ -95,15 +95,29 @@ def push_dataframe_to_tab(sheet: gspread.Spreadsheet, tab_name: str, df: pd.Data
     return len(values)
 
 
-def push_all_outputs() -> dict[str, int]:
+def push_all_outputs(only: list[str] | None = None) -> dict[str, int]:
+    """
+    Push output/*.jsonl to their Sheet tabs. `only` restricts this to a
+    subset of base names (e.g. ["startups", "products", "jobs", "news",
+    "entity_mapping_log"] for the fast CI workflow, or
+    ["research_papers"] for the slow one) — tabs not in `only` are never
+    touched (no .clear(), no .update()), so the two scheduled workflows
+    can push independently without one clobbering the other's tabs.
+    """
     key_path = os.environ["GOOGLE_SERVICE_ACCOUNT_JSON_PATH"]
     sheet_id = os.environ["GOOGLE_SHEET_ID"]
 
     gc = gspread.service_account(filename=key_path)
     sheet = gc.open_by_key(sheet_id)
 
+    tab_map = TAB_NAMES if only is None else {k: v for k, v in TAB_NAMES.items() if k in only}
+    if only is not None:
+        unknown = set(only) - set(TAB_NAMES)
+        if unknown:
+            raise ValueError(f"Unknown --only name(s): {sorted(unknown)}. Valid: {sorted(TAB_NAMES)}")
+
     results: dict[str, int] = {}
-    for base_name, tab_name in TAB_NAMES.items():
+    for base_name, tab_name in tab_map.items():
         jsonl_path = OUTPUT_DIR / f"{base_name}.jsonl"
         if not jsonl_path.exists():
             logger.warning("Missing output file, skipping: %s", jsonl_path)
@@ -120,8 +134,20 @@ def push_all_outputs() -> dict[str, int]:
 
 
 if __name__ == "__main__":
+    import argparse
+
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "--only",
+        type=str,
+        default=None,
+        help=f"Comma-separated subset of {sorted(TAB_NAMES)} to push (default: all 6)",
+    )
+    args = parser.parse_args()
+    only_list = [s.strip() for s in args.only.split(",")] if args.only else None
+
     logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
-    counts = push_all_outputs()
+    counts = push_all_outputs(only=only_list)
     print("\nPush complete. Rows written per tab:")
     for tab, n in counts.items():
         print(f"  {tab:22s} {n}")

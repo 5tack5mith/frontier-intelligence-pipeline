@@ -68,9 +68,11 @@ increase volume, but neither was requested by the brief, which asks for
 | `src/scrapers/jobs_remoteok.py` / `jobs_other.py` | ✅ Live, all JSON/RSS APIs, no HTML scraping needed |
 | `src/output/writer.py` | ✅ JSONL + CSV, schema-validates every record, rejects (doesn't drop) invalid ones |
 | `src/output/to_sheets.py` | ✅ Pushes `output/*.jsonl` to 6 Google Sheet tabs; row counts independently verified by reading back from the Sheet at the full 1,000/1,000/1,000/223/3 volume — see "Google Sheets push status" above |
-| `src/pipeline/run_all.py` | ✅ Orchestrates all of the above, prints a verification pass with spot-checked source URLs |
+| `src/pipeline/run_all.py` | ✅ Full local one-shot run — all 6 tabs, all sources. Delegates to `src/pipeline/steps.py`, the shared step functions also used by the two CI workflows below |
+| `src/pipeline/run_fast.py` / `run_papers.py` | ✅ Split CI entrypoints — `run_fast.py` does startups/products/jobs/news/entity-resolution (~1-2 min); `run_papers.py` does only the ~70min arXiv+GitHub leg. Neither touches the other's output files |
 | `architecture.md` / `architecture.pdf` | ✅ 3 pages, covers all 4 required talking points with real tested numbers |
-| `.github/workflows/scheduled_pipeline.yml` | Runs `run_all.py` + `to_sheets.py` every 6 hours via GitHub Actions, keyed off 6 encrypted repo secrets (4 API keys + service account JSON + Sheet ID). Manual "Run workflow" test pending — see PR/commit description for exact secret setup steps |
+| `.github/workflows/fast_pipeline.yml` | Runs `run_fast.py` + `to_sheets.py --only startups,products,jobs,news,entity_mapping_log` every 6 hours |
+| `.github/workflows/papers_pipeline.yml` | Runs `run_papers.py` + `to_sheets.py --only research_papers` every 2 days (`0 0 */2 * *` — see the workflow file's comment for the cron's known month-boundary drift) |
 
 Run the full pipeline yourself:
 ```bash

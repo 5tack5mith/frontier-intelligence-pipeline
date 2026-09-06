@@ -1,224 +1,224 @@
 schemaVersion,recordType,source.name,source.url,content.company,content.date,content.is_remote,content.role_family,collectedAt
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/axon/software-engineer-ii-c-rust-kassel-hesse-452567,Axon,2026-09-06T14:55:05Z,False,Engineering,2026-09-06T17:05:07.414406Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/cesiumastro/product-manager-munich-germany-492918,CesiumAstro,2026-09-06T14:24:39Z,False,Product,2026-09-06T17:05:07.414578Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/insider-one/product-manager-b2b-saas-martech-europe-berlin-germany-34094,Insider One,2026-09-06T14:24:27Z,False,Product,2026-09-06T17:05:07.414696Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/kiwigrid/product-manager-platform-dresden-32512,Kiwigrid,2026-09-06T14:09:58Z,False,Product,2026-09-06T17:05:07.414815Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/solvares/werkstudent-im-bereich-marketing-operations-munchen-25134,Solvares,2026-09-06T14:09:52Z,False,Marketing,2026-09-06T17:05:07.414923Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/solvares/ausbildung-fachinformatiker-fur-systemintegration-hamburg-313275,Solvares,2026-09-06T14:09:52Z,False,Other,2026-09-06T17:05:07.414953Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/steadforce/senior-software-engineer-teilprojektleitung-munchen-195012,Steadforce,2026-09-06T14:09:46Z,False,Engineering,2026-09-06T17:05:07.415073Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/tink-gmbh/e-commerce-product-ownerin-all-genders-berlin-359227,tink GmbH,2026-09-06T14:09:44Z,False,Product,2026-09-06T17:05:07.415186Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/zdf-digital-medienproduktion-gmbh/werkstudentin-community-management-mainz-oder-berlin-16948,ZDF Digital Medienproduktion GmbH,2026-09-06T14:09:42Z,False,Other,2026-09-06T17:05:07.415298Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/42watt/automation-engineer-gn-40-std-hybrid-munchen-90580,42Watt,2026-09-06T14:09:41Z,False,Engineering,2026-09-06T17:05:07.415407Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/skalbach-gmbh/senior-bauleiter-rohbau-stuttgart-229946,Skalbach GmbH,2026-09-06T14:09:39Z,False,Other,2026-09-06T17:05:07.415521Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/skalbach-gmbh/senior-bauleiter-stuttgart-munchen-karlsruhe-134938,Skalbach GmbH,2026-09-06T14:09:39Z,False,Other,2026-09-06T17:05:07.415549Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/skalbach-gmbh/senior-bauleiter-tiefbau-munchen-214808,Skalbach GmbH,2026-09-06T14:09:39Z,False,Other,2026-09-06T17:05:07.415573Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/skalbach-gmbh/senior-bauleiter-hochbau-munchen-392599,Skalbach GmbH,2026-09-06T14:09:39Z,False,Other,2026-09-06T17:05:07.415598Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/capmo/werkstudent-bauexperte-fur-saas-software-munich-46226,Capmo,2026-09-06T14:09:24Z,False,Sales,2026-09-06T17:05:07.415626Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/capmo/senior-security-engineer-all-genders-munich-5553,Capmo,2026-09-06T14:09:24Z,False,Engineering,2026-09-06T17:05:07.415649Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/ftapi-gmbh/senior-sales-strategy-operations-managerin-munchen-355743,FTAPI GmbH,2026-09-06T14:09:21Z,False,Sales,2026-09-06T17:05:07.415759Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/mayflower/senior-ai-architect-consultant-munchen-91359,Mayflower,2026-09-06T14:09:17Z,False,Engineering,2026-09-06T17:05:07.415886Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/fulfin/senior-engineer-on-site-vollzeit-munchen-379894,Fulfin,2026-09-06T14:09:09Z,False,Engineering,2026-09-06T17:05:07.416005Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/jedox-gmbh/product-manager-platform-experience-cloud-administration-freiburg-im-breisgau-76129,Jedox GmbH,2026-09-06T14:09:07Z,False,Product,2026-09-06T17:05:07.416111Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/jedox-gmbh/head-of-product-marketing-germany-235846,Jedox GmbH,2026-09-06T14:09:07Z,False,Marketing,2026-09-06T17:05:07.416128Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/superchat/tech-lead-berlin-berlin-420831,Superchat,2026-09-06T11:55:15Z,False,Engineering,2026-09-06T17:05:07.416240Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/gropyus/senior-architektin-lp2-lp4-befristet-bis-juli-2027-berlin-berlin-245212,gropyus,2026-09-06T11:55:11Z,False,Other,2026-09-06T17:05:07.416358Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/mewssystems/director-of-product-marketing-and-market-research-381380,mewssystems,2026-09-06T11:55:08Z,False,Marketing,2026-09-06T17:05:07.416464Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/prior-labs/technical-product-manager-integrations-berlin-379113,Prior Labs,2026-09-06T11:40:08Z,False,Product,2026-09-06T17:05:07.416684Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/hypertrics-gmbh/softwareentwickler-schutterwald-95592,Hypertrics GmbH,2026-09-06T11:30:37Z,False,Other,2026-09-06T17:05:07.416850Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/norman-ai-gmbh/customer-success-manager-berlin-250802,Norman AI GmbH,2026-09-06T11:30:30Z,True,Support,2026-09-06T17:05:07.416996Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/senior-performance-marketing-manager-mwd-css-berlin-73910,idealo internet GmbH,2026-09-06T11:30:21Z,False,Marketing,2026-09-06T17:05:07.417169Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/allbranded/senior-seo-onsite-manager-befristet-elternzeitvertretung-all-genders-hamburg-288975,Allbranded,2026-09-06T11:09:45Z,False,Marketing,2026-09-06T17:05:07.417351Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/360t/data-protection-officer-deputy-frankfurt-am-main-208223,360T,2026-09-06T11:09:40Z,False,Other,2026-09-06T17:05:07.417406Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/aer-group/senior-devops-engineer-berlin-boppstr-258760,Aer Group,2026-09-06T11:09:33Z,False,Engineering,2026-09-06T17:05:07.417592Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/hypatos-gmbh/working-student-it-germany-berlin-392490,Hypatos Gmbh,2026-09-06T11:09:32Z,False,Other,2026-09-06T17:05:07.417873Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/twaice/working-student-accounting-finance-munich-hybrid-314557,TWAICE,2026-09-06T11:09:27Z,False,Finance,2026-09-06T17:05:07.418159Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/xempus-ag/senior-java-engineer-munchen-171261,Xempus AG,2026-09-06T11:09:22Z,False,Engineering,2026-09-06T17:05:07.418437Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/redmimicry-gmbh/software-developer-go-security-analytics-berlin-146655,RedMimicry GmbH,2026-09-06T09:30:23Z,False,Data,2026-09-06T17:05:07.418593Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/sumup/senior-embedded-software-engineer-hardware-berlin-470158,sumup,2026-09-06T08:55:15Z,False,Engineering,2026-09-06T17:05:07.418643Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/jetbrains/remote-staff-software-developer-iam-383896,jetbrains,2026-09-06T08:55:12Z,False,Engineering,2026-09-06T17:05:07.418823Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/jetbrains/remote-developer-advocate-database-472871,jetbrains,2026-09-06T08:55:12Z,True,Engineering,2026-09-06T17:05:07.418852Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/hellofresh/senior-product-manager-ii-consumer-all-genders-berlin-berlin-215795,hellofresh,2026-09-06T08:55:07Z,False,Product,2026-09-06T17:05:07.418963Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/hellofresh/senior-data-platform-engineer-intelligent-platforms-all-genders-berlin-berlin-372321,hellofresh,2026-09-06T08:55:07Z,False,Engineering,2026-09-06T17:05:07.418986Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/heavenhr/sales-manager-software-vertrieb-berlin-104195,Heavenhr,2026-09-06T08:20:07Z,False,Sales,2026-09-06T17:05:07.419101Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/koro-handels-gmbh/senior-product-manager-outbound-logistics-returns-berlin-242768,KoRo Handels GmbH,2026-09-06T08:09:57Z,False,Product,2026-09-06T17:05:07.419294Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/koro-handels-gmbh/director-supply-chain-planning-berlin-218210,KoRo Handels GmbH,2026-09-06T08:09:57Z,False,Operations,2026-09-06T17:05:07.419340Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/platoapp/founding-gtm-engineer-berlin-490106,Platoapp,2026-09-06T08:09:54Z,False,Sales,2026-09-06T17:05:07.419519Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/wvm-immobilien-projektentwicklung-gmbh/werkstudent-im-unternehmensmarketing-wvm-koln-444640,Wvm Immobilien Projektentwicklung Gmbh,2026-09-06T08:09:51Z,False,Marketing,2026-09-06T17:05:07.419845Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/become-1-gmbh/werkstudent-operations-heidelberg-320796,Become 1 Gmbh,2026-09-06T08:09:46Z,False,Operations,2026-09-06T17:05:07.419983Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/zebragroup/senior-online-marketing-manager-fokus-media-und-performance-dresden-498805,Zebragroup,2026-09-06T08:09:45Z,False,Marketing,2026-09-06T17:05:07.420283Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/webgo-gmbh/senior-system-engineer-infrastructure-specialist-hamburg-372682,Webgo Gmbh,2026-09-06T08:09:44Z,False,Design,2026-09-06T17:05:07.420588Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/pmone/senior-managing-consultant-data-analytics-munchen-89412,Pmone,2026-09-06T08:09:39Z,False,Data,2026-09-06T17:05:07.421166Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/neuplaner/praktikant-werkstudent-im-ma-investment-team-berlin-165457,Neuplaner,2026-09-06T08:09:35Z,False,Other,2026-09-06T17:05:07.421468Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/neuplaner/praktikant-werkstudent-im-group-transformation-team-berlin-302552,Neuplaner,2026-09-06T08:09:35Z,False,Other,2026-09-06T17:05:07.421525Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/ip-dynamics-gmbh/cloud-platform-engineer-stuttgart-174177,IP Dynamics GmbH,2026-09-06T08:09:29Z,False,Engineering,2026-09-06T17:05:07.421751Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/ip-dynamics-gmbh/cloud-platform-engineer-hannover-397327,IP Dynamics GmbH,2026-09-06T08:09:29Z,False,Engineering,2026-09-06T17:05:07.421794Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/lpe-immobilien-management-gmbh/immobilienmakler-schwerpunkt-vermietung-werkstudent-oder-teilzeit-munchen-220652,Lpe Immobilien Management Gmbh,2026-09-06T08:09:28Z,False,Other,2026-09-06T17:05:07.422049Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/tractebel/senior-projektleitung-wasserbau-kusteningenieurwesen-hamburg-gotenstrasse-461784,Tractebel,2026-09-06T08:09:27Z,False,Other,2026-09-06T17:05:07.422254Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/deltavision/head-of-production-produktionsleiter-munchen-324031,Deltavision,2026-09-06T08:09:26Z,False,Other,2026-09-06T17:05:07.422416Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/deltavision/fluidic-system-engineer-architect-munchen-235120,Deltavision,2026-09-06T08:09:26Z,False,Engineering,2026-09-06T17:05:07.422452Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/3st-kommunikation/senior-konzeptioner-gn-mainz-452683,3St Kommunikation,2026-09-06T08:09:23Z,False,Other,2026-09-06T17:05:07.422625Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/yoursquares/account-executive-berlin-251473,Yoursquares,2026-09-06T08:09:15Z,False,Sales,2026-09-06T17:05:07.422760Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/proglove/senior-product-manager-software-solutions-munich-office-12203,Proglove,2026-09-06T08:09:11Z,False,Product,2026-09-06T17:05:07.422885Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/nuuenergy/praktikant-werkstudent-people-culture-munchen-330784,Nuuenergy,2026-09-06T08:09:09Z,False,Operations,2026-09-06T17:05:07.423020Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/fraser-gmbh/senior-finance-manager-all-genders-berlin-135153,Fraser Gmbh,2026-09-06T08:09:08Z,False,Finance,2026-09-06T17:05:07.423144Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/fraser-gmbh/senior-accountant-30h-all-genders-berlin-267243,Fraser Gmbh,2026-09-06T08:09:08Z,False,Finance,2026-09-06T17:05:07.423164Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/hoppe-marine-gmbh/software-developer-full-stack-hamburg-109254,Hoppe Marine Gmbh,2026-09-06T08:09:05Z,False,Engineering,2026-09-06T17:05:07.423283Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/talents2germany-gmbh/senior-product-manager-markt-trendanalyse-plattform-frankfurt-am-main-334830,Talents2Germany GmbH,2026-09-06T08:00:24Z,False,Product,2026-09-06T17:05:07.423394Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-eberswalde-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-234404,Taxtalente.de,2026-09-06T06:30:41Z,False,Other,2026-09-06T17:05:07.423533Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-oschatz-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-423248,Taxtalente.de,2026-09-06T06:30:41Z,False,Other,2026-09-06T17:05:07.423565Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-ebelsbach-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-392573,Taxtalente.de,2026-09-06T06:30:41Z,False,Other,2026-09-06T17:05:07.423595Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-ahausen-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-353346,Taxtalente.de,2026-09-06T06:30:41Z,False,Other,2026-09-06T17:05:07.423626Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-eibenstock-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-214318,Taxtalente.de,2026-09-06T06:30:40Z,False,Other,2026-09-06T17:05:07.423654Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-bottrop-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-362903,Taxtalente.de,2026-09-06T06:30:40Z,False,Other,2026-09-06T17:05:07.423682Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-cottbus-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-379655,Taxtalente.de,2026-09-06T06:30:40Z,False,Other,2026-09-06T17:05:07.423706Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-hoheinod-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-94312,Taxtalente.de,2026-09-06T06:30:39Z,False,Other,2026-09-06T17:05:07.423732Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/toogoodtogo/global-director-of-logistics-fulfilment-berlin-berlin-88507,toogoodtogo,2026-09-06T05:55:15Z,False,Operations,2026-09-06T17:05:07.423846Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/databricks/staff-forward-deployed-engineer-berlin-munich-227443,Databricks,2026-09-06T05:55:14Z,False,Operations,2026-09-06T17:05:07.423873Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/wppmedia/werkstudent-mensch-markt-und-mediaforschung-dusseldorf-136743,wppmedia,2026-09-06T05:55:07Z,False,Other,2026-09-06T17:05:07.423997Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/wppmedia/senior-digital-media-planner-mensch-dusseldorf-335573,wppmedia,2026-09-06T05:55:07Z,False,Other,2026-09-06T17:05:07.424021Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/wppmedia/senior-digital-campaign-manager-mensch-dusseldorf-46365,wppmedia,2026-09-06T05:55:07Z,False,Other,2026-09-06T17:05:07.424046Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/wppmedia/senior-digital-campaign-manager-mensch-frankfurt-150884,wppmedia,2026-09-06T05:55:07Z,False,Other,2026-09-06T17:05:07.424069Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/clovirtualfashion/working-student-brand-communications-munich-284962,Clovirtualfashion,2026-09-06T05:24:38Z,False,Marketing,2026-09-06T17:05:07.424181Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/apex-ai/software-engineer-software-platform-middleware-early-career-munich-409502,Apex Ai,2026-09-06T05:24:32Z,False,Engineering,2026-09-06T17:05:07.424297Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/apex-ai/senior-software-engineer-software-platform-middleware-munich-251904,Apex Ai,2026-09-06T05:24:32Z,False,Engineering,2026-09-06T17:05:07.424325Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/apex-ai/senior-application-engineer-munich-404648,Apex Ai,2026-09-06T05:24:32Z,False,Engineering,2026-09-06T17:05:07.424347Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/synvert/senior-bid-pursuit-manager-proposal-manager-cloud-data-ai-consulting-hamburg-258249,Synvert,2026-09-06T05:09:57Z,False,Sales,2026-09-06T17:05:07.424461Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/shyftplan/remote-werkstudent-vertrieb-stuttgart-411812,Shyftplan,2026-09-06T05:09:54Z,True,Sales,2026-09-06T17:05:07.424570Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/and-e/werkstudent-marketing-digital-experiences-koln-247411,And E,2026-09-06T05:09:27Z,False,Marketing,2026-09-06T17:05:07.424602Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/tawo-gmbh/werkstudent-b2b-sales-berlin-472606,Tawo Gmbh,2026-09-06T05:09:26Z,False,Sales,2026-09-06T17:05:07.424712Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/probis-software-gmbh/werkstudent-projektmanagement-operations-munchen-80459,Probis Software Gmbh,2026-09-06T05:09:25Z,False,Operations,2026-09-06T17:05:07.424829Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/athereon/technical-project-manager-software-development-saarbrucken-384502,Athereon,2026-09-06T05:09:19Z,False,Engineering,2026-09-06T17:05:07.424954Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/athereon/senior-software-developer-frontend-react-saarbrucken-42438,Athereon,2026-09-06T05:09:19Z,False,Engineering,2026-09-06T17:05:07.424980Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/feld-energy/talent-acquisition-manager-office-munchen-419040,Feld Energy,2026-09-06T05:09:14Z,False,HR,2026-09-06T17:05:07.425091Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/feld-energy/projektmanager-projektentwickler-pv-green-energy-office-munchen-120931,Feld Energy,2026-09-06T05:09:14Z,False,Other,2026-09-06T17:05:07.425117Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/syte-gmbh/werkstudent-data-qa-algorithm-benchmarking-munster-166697,Syte Gmbh,2026-09-06T05:09:08Z,False,Engineering,2026-09-06T17:05:07.425232Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/simovative/werkstudent-marketing-sales-b2b-software-munchen-central-tower-334369,Simovative,2026-09-06T05:09:04Z,False,Sales,2026-09-06T17:05:07.425350Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/celonis/lead-principal-deployment-engineer-munich-436883,celonis,2026-09-06T02:55:19Z,False,Engineering,2026-09-06T17:05:07.425462Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/celonis/lead-deployment-architect-munich-326905,celonis,2026-09-06T02:55:19Z,False,Engineering,2026-09-06T17:05:07.425484Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/gitlab/remote-strategic-account-executive-turkey-389960,gitlab,2026-09-06T02:55:08Z,True,Sales,2026-09-06T17:05:07.425592Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/zukunftsmotor-gmbh/senior-program-operations-managerin-berlin-51712,Zukunftsmotor Gmbh,2026-09-06T02:09:57Z,False,Operations,2026-09-06T17:05:07.425714Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/zukunftsmotor-gmbh/senior-course-operations-managerin-berlin-167926,Zukunftsmotor Gmbh,2026-09-06T02:09:57Z,False,Operations,2026-09-06T17:05:07.425753Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/doo/werkstudentin-finance-schwerpunkt-accounting-controlling-munchen-473621,Doo,2026-09-06T02:09:56Z,False,Finance,2026-09-06T17:05:07.425785Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.co.uk/jobs/companies/intercom/staff-engineer-web-platform-london-232412,intercom,2026-09-06T15:55:16Z,False,Marketing,2026-09-06T17:05:07.425918Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.co.uk/jobs/companies/intercom/senior-product-marketing-manager-london-237132,intercom,2026-09-06T15:55:16Z,False,Marketing,2026-09-06T17:05:07.425943Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.co.uk/jobs/companies/intercom/senior-product-marketing-manager-london-55894,intercom,2026-09-06T15:55:16Z,False,Marketing,2026-09-06T17:05:07.425963Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.co.uk/jobs/companies/hubspotjobs/staff-technical-lead-marketing-studio-intelligence-482884,hubspotjobs,2026-09-06T15:55:05Z,False,Marketing,2026-09-06T17:05:07.426071Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.co.uk/jobs/companies/sungrow-emea/senior-om-asset-manager-europe-uk-london-292920,Sungrow Emea,2026-09-06T12:09:41Z,False,Other,2026-09-06T17:05:07.426194Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.co.uk/jobs/companies/lab54-ltd/bookkeeper-london-339192,Lab54 LTD,2026-09-06T15:17:25Z,False,Finance,2026-09-06T17:05:07.426221Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.co.uk/jobs/companies/apothecom/senior-medical-writer-london-485009,Apothecom,2026-09-06T09:55:27Z,False,Other,2026-09-06T17:05:07.426336Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.co.uk/jobs/companies/anaplan/associate-backend-software-engineer-python-manchester-430147,Anaplan,2026-09-06T09:55:04Z,False,Engineering,2026-09-06T17:05:07.426447Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.co.uk/jobs/companies/harvey/head-of-mid-market-sales-london-301941,Harvey AI,2026-09-06T09:40:11Z,False,Sales,2026-09-06T17:05:07.426464Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.co.uk/jobs/companies/langchain/commercial-account-executive-uk-london-249058,LangChain,2026-09-06T09:40:02Z,False,Sales,2026-09-06T17:05:07.426480Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.co.uk/jobs/companies/schnell-global/long-term-youtube-host-on-camera-presenter-london-184975,Schnell Global,2026-09-06T09:30:24Z,True,Marketing,2026-09-06T17:05:07.426590Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.co.uk/jobs/companies/blab/data-governance-lead-sao-paulo-brasil-london-190716,Blab,2026-09-06T06:55:02Z,False,Other,2026-09-06T17:05:07.426625Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.co.uk/jobs/companies/blab/data-governance-lead-london-uk-214565,Blab,2026-09-06T06:55:02Z,False,Other,2026-09-06T17:05:07.426652Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.co.uk/jobs/companies/blab/data-governance-lead-amsterdam-nld-london-49939,Blab,2026-09-06T06:55:02Z,False,Other,2026-09-06T17:05:07.426675Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.co.uk/jobs/companies/heidi/finance-manager-london-23431,Heidi,2026-09-06T06:40:08Z,False,Finance,2026-09-06T17:05:07.426700Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.co.uk/jobs/companies/omaze/general-manager-new-product-london-380786,Omaze,2026-09-06T03:40:09Z,False,Other,2026-09-06T17:05:07.426731Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.co.uk/jobs/companies/illumio/remote-digital-marketing-manager-emea-apac-53593,Illumio,2026-09-06T03:40:08Z,False,Marketing,2026-09-06T17:05:07.426840Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.co.uk/jobs/companies/watershed/account-executive-enterprise-northern-europe-london-475191,Watershed,2026-09-06T03:40:07Z,False,Sales,2026-09-06T17:05:07.426948Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.co.uk/jobs/companies/perk/senior-frontend-engineer-london-423081,Perk,2026-09-06T03:40:06Z,False,Engineering,2026-09-06T17:05:07.426978Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.co.uk/jobs/companies/perk/director-of-go-to-market-engineering-london-457240,Perk,2026-09-06T03:40:06Z,False,Sales,2026-09-06T17:05:07.426995Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/principal-ceo-office-london-14315,Checkout.com,2026-09-06T03:40:03Z,False,Other,2026-09-06T17:05:07.427109Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.co.uk/jobs/companies/pno-group-europe/senior-innovation-consultant-uk-450905,Pno Group Europe,2026-09-06T00:09:12Z,False,Other,2026-09-06T17:05:07.427227Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.co.uk/jobs/companies/everway/senior-product-designer-21354,Everway,2026-09-05T21:55:11Z,False,Design,2026-09-06T17:05:07.427331Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.co.uk/jobs/companies/wppproduction/senior-account-manager-4-month-ftc-watford-456436,Wppproduction,2026-09-05T21:55:09Z,False,Other,2026-09-06T17:05:07.427444Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.co.uk/jobs/companies/form3/senior-software-engineer-go-402117,Form3,2026-09-05T21:55:06Z,False,Engineering,2026-09-06T17:05:07.427474Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.co.uk/jobs/companies/airwallex/account-manager-enterprise-london-140046,Airwallex,2026-09-05T21:40:06Z,False,Other,2026-09-06T17:05:07.427595Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.co.uk/jobs/companies/guidepoint/product-manager-ai-product-engineering-london-227150,Guidepoint,2026-09-05T18:55:16Z,False,Product,2026-09-06T17:05:07.427705Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.co.uk/jobs/companies/excelgens-consulting-sverige-ab/axiomsl-implementation-consultant-london-425025,Excelgens Consulting Sverige Ab,2026-09-05T17:30:32Z,True,Engineering,2026-09-06T17:05:07.427822Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/vmlenterprisesolutions/senior-manager-martech-sales-oriented-paris-112887,Vmlenterprisesolutions,2026-09-06T13:55:11Z,False,Sales,2026-09-06T17:05:07.428026Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/vmlenterprisesolutions/head-of-b2b-energy-f-h-senior-manager-paris-26468,Vmlenterprisesolutions,2026-09-06T13:55:11Z,False,Other,2026-09-06T17:05:07.428051Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/vmlenterprisesolutions/consultante-senior-transformation-marketing-experience-client-paris-35583,Vmlenterprisesolutions,2026-09-06T13:55:11Z,False,Marketing,2026-09-06T17:05:07.428071Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/vmlenterprisesolutions/consultant-developpeur-marketing-technology-crm-data-3-a-5-ans-dexperience-paris-295267,Vmlenterprisesolutions,2026-09-06T13:55:11Z,False,Marketing,2026-09-06T17:05:07.428092Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/vmlenterprisesolutions/consultant-data-analyst-marketing-f-h-paris-449933,Vmlenterprisesolutions,2026-09-06T13:55:11Z,False,Data,2026-09-06T17:05:07.428106Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/parity/remote-core-developer-platform-60113,Parity,2026-09-06T13:40:05Z,False,Engineering,2026-09-06T17:05:07.428220Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/parity/remote-chief-of-staff-for-engineering-1581,Parity,2026-09-06T13:40:05Z,False,Engineering,2026-09-06T17:05:07.428242Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/parity/remote-core-developer-node-28104,Parity,2026-09-06T13:40:05Z,False,Engineering,2026-09-06T17:05:07.428262Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/parity/remote-senior-experience-engineer-126529,Parity,2026-09-06T13:40:05Z,False,Engineering,2026-09-06T17:05:07.428282Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/parity/senior-security-engineer-remote-301763,Parity,2026-09-06T13:40:05Z,False,Engineering,2026-09-06T17:05:07.428303Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/livestorm/remote-account-executive-enterprise-paris-382462,Livestorm,2026-09-06T13:30:26Z,True,Sales,2026-09-06T17:05:07.428413Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/livestorm/remote-account-executive-enterprise-paris-149681,Livestorm,2026-09-06T13:30:26Z,True,Sales,2026-09-06T17:05:07.428429Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/searoutes/remote-chief-of-staff-business-ops-france-115880,Searoutes,2026-09-06T13:20:07Z,True,Operations,2026-09-06T17:05:07.428546Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/wundermanthompson/senior-manager-martech-sales-oriented-paris-54368,Wundermanthompson,2026-09-06T10:55:17Z,False,Sales,2026-09-06T17:05:07.428655Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/wundermanthompson/head-of-b2b-energy-f-h-senior-manager-paris-112873,Wundermanthompson,2026-09-06T10:55:16Z,False,Other,2026-09-06T17:05:07.428679Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/wundermanthompson/consultante-senior-transformation-marketing-experience-client-paris-156346,Wundermanthompson,2026-09-06T10:55:16Z,False,Marketing,2026-09-06T17:05:07.428696Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/wundermanthompson/consultant-developpeur-marketing-technology-crm-data-3-a-5-ans-dexperience-paris-120031,Wundermanthompson,2026-09-06T10:55:16Z,False,Marketing,2026-09-06T17:05:07.428715Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/wundermanthompson/consultant-data-analyst-marketing-f-h-paris-81857,Wundermanthompson,2026-09-06T10:55:16Z,False,Data,2026-09-06T17:05:07.428728Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/wundermanthompson/account-director-paris-300821,Wundermanthompson,2026-09-06T10:55:16Z,False,Other,2026-09-06T17:05:07.428750Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/cartesia/remote-language-lead-french-contract-424959,Cartesia,2026-09-06T10:40:14Z,False,Other,2026-09-06T17:05:07.428866Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/cartesia/remote-language-lead-japanese-contract-216713,Cartesia,2026-09-06T10:40:14Z,False,Other,2026-09-06T17:05:07.428886Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/cartesia/remote-language-lead-hindi-contract-151288,Cartesia,2026-09-06T10:40:14Z,False,Other,2026-09-06T17:05:07.428910Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/cartesia/remote-language-lead-english-contract-352989,Cartesia,2026-09-06T10:40:14Z,False,Other,2026-09-06T17:05:07.428931Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/deliveroo/head-of-partner-marketing-france-paris-51549,Deliveroo,2026-09-06T10:40:14Z,False,Marketing,2026-09-06T17:05:07.429039Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/deliveroo/account-manager-groceries-retail-paris-31060,Deliveroo,2026-09-06T10:40:14Z,False,Other,2026-09-06T17:05:07.429062Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/deliveroo/general-assistant-cdd-35h-st-ouen-372712,Deliveroo,2026-09-06T10:40:14Z,False,Other,2026-09-06T17:05:07.429082Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/deliveroo/business-development-manager-strasbourg-97916,Deliveroo,2026-09-06T10:40:14Z,False,Sales,2026-09-06T17:05:07.429097Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/deliveroo/business-development-manager-lyon-400262,Deliveroo,2026-09-06T10:40:14Z,False,Sales,2026-09-06T17:05:07.429112Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/deliveroo/business-development-manager-paris-cdd-6-mois-455063,Deliveroo,2026-09-06T10:40:14Z,False,Sales,2026-09-06T17:05:07.429128Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/deliveroo/senior-social-media-manager-france-paris-271102,Deliveroo,2026-09-06T10:40:14Z,False,Other,2026-09-06T17:05:07.429149Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/deliveroo/business-development-manager-montpellier-cdi-paris-65964,Deliveroo,2026-09-06T10:40:14Z,False,Sales,2026-09-06T17:05:07.429164Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/deliveroo/account-manager-paris-cdi-342766,Deliveroo,2026-09-06T10:40:14Z,False,Other,2026-09-06T17:05:07.429186Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/deliveroo/operations-manager-paris-311884,Deliveroo,2026-09-06T10:40:14Z,False,Operations,2026-09-06T17:05:07.429208Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/deliveroo/account-manager-paris-9850,Deliveroo,2026-09-06T10:40:14Z,False,Other,2026-09-06T17:05:07.429229Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/deliveroo/local-lead-creative-campaigns-8-month-ftc-paris-390979,Deliveroo,2026-09-06T10:40:14Z,False,Other,2026-09-06T17:05:07.429251Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/deliveroo/head-of-global-accounts-france-paris-394539,Deliveroo,2026-09-06T10:40:14Z,False,Other,2026-09-06T17:05:07.429272Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/deliveroo/senior-integrated-marketing-strategy-planning-manager-paris-58978,Deliveroo,2026-09-06T10:40:14Z,False,Marketing,2026-09-06T17:05:07.429290Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/deliveroo/business-development-manager-paris-272382,Deliveroo,2026-09-06T10:40:14Z,False,Sales,2026-09-06T17:05:07.429307Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/deliveroo/assistante-chef-de-projet-marketing-fidelisation-deliveroo-plus-alternance-12-mois-paris-106977,Deliveroo,2026-09-06T10:40:14Z,False,Marketing,2026-09-06T17:05:07.429325Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/deliveroo/chargee-onboarding-cdd-6-mois-paris-273764,Deliveroo,2026-09-06T10:40:14Z,False,Other,2026-09-06T17:05:07.429349Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/gismart/remote-email-marketing-manager-fitme-421444,Gismart,2026-09-06T10:40:11Z,False,Marketing,2026-09-06T17:05:07.429459Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/gismart/remote-billing-manager-fitme-281438,Gismart,2026-09-06T10:40:11Z,False,Other,2026-09-06T17:05:07.429481Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/gismart/remote-user-acquisition-manager-radiotech-407234,Gismart,2026-09-06T10:40:11Z,False,Other,2026-09-06T17:05:07.429502Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/gismart/remote-creative-marketing-manager-fitme-282873,Gismart,2026-09-06T10:40:11Z,False,Marketing,2026-09-06T17:05:07.429518Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/gismart/remote-product-marketing-manager-testora-383033,Gismart,2026-09-06T10:40:11Z,False,Marketing,2026-09-06T17:05:07.429535Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/gismart/remote-creative-production-lead-radiotech-185726,Gismart,2026-09-06T10:40:11Z,False,Other,2026-09-06T17:05:07.429558Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/gismart/remote-product-manager-radiotech-9082,Gismart,2026-09-06T10:40:11Z,False,Product,2026-09-06T17:05:07.429572Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/gismart/remote-creative-producer-radiotech-456495,Gismart,2026-09-06T10:40:11Z,False,Other,2026-09-06T17:05:07.429595Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/eleve-talent/remote-knit-research-manager-140456,Eleve Talent,2026-09-06T10:40:10Z,False,Other,2026-09-06T17:05:07.429716Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/eleve-talent/remote-knit-research-director-285983,Eleve Talent,2026-09-06T10:40:10Z,False,Other,2026-09-06T17:05:07.429738Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/eleve-talent/remote-knit-lead-product-manager-308888,Eleve Talent,2026-09-06T10:40:10Z,False,Product,2026-09-06T17:05:07.429755Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/eleve-talent/remote-endear-account-manager-179224,Eleve Talent,2026-09-06T10:40:10Z,False,Other,2026-09-06T17:05:07.429776Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/eleve-talent/remote-endear-onboarding-manager-47640,Eleve Talent,2026-09-06T10:40:10Z,False,Other,2026-09-06T17:05:07.429798Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/certa/remote-initiative-application-168473,Certa,2026-09-06T10:40:07Z,False,Other,2026-09-06T17:05:07.429828Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/exegy/ingenieur-fpga-fpga-engineer-paris-364670,Exegy,2026-09-06T10:40:03Z,False,Engineering,2026-09-06T17:05:07.429863Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/cribl/partner-solutions-engineer-southern-europe-305658,Cribl,2026-09-06T07:55:13Z,False,Sales,2026-09-06T17:05:07.429889Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/kaluza/senior-software-engineer-i-paris-paris-341689,Kaluza,2026-09-06T07:55:07Z,False,Engineering,2026-09-06T17:05:07.430012Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/kaluza/product-manager-energy-billing-fluent-french-english-paris-paris-410530,Kaluza,2026-09-06T07:55:07Z,False,Product,2026-09-06T17:05:07.430029Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/kaluza/product-manager-device-data-management-fluent-french-english-paris-paris-379161,Kaluza,2026-09-06T07:55:07Z,False,Product,2026-09-06T17:05:07.430044Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/kaluza/product-manager-data-fluent-french-english-paris-paris-416720,Kaluza,2026-09-06T07:55:07Z,False,Product,2026-09-06T17:05:07.430060Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/kaluza/product-manager-ccaas-french-speaking-paris-paris-105784,Kaluza,2026-09-06T07:55:07Z,False,Product,2026-09-06T17:05:07.430075Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/verkada/enterprise-account-executive-france-paris-301288,Verkada,2026-09-06T07:55:04Z,False,Sales,2026-09-06T17:05:07.430186Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/yext/director-enterprise-sales-paris-82584,Yext,2026-09-06T07:55:03Z,False,Sales,2026-09-06T17:05:07.430211Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/primerio/account-executive-mid-market-france-paris-318736,Primer.io,2026-09-06T07:40:04Z,False,Sales,2026-09-06T17:05:07.430323Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/axle-careers/energy-markets-france-cdd-paris-120734,Axle Careers,2026-09-06T07:40:03Z,False,Engineering,2026-09-06T17:05:07.430439Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/axle-careers/growth-france-cdd-paris-363484,Axle Careers,2026-09-06T07:40:03Z,False,Marketing,2026-09-06T17:05:07.430457Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/duck-duck-go/remote-senior-growth-marketing-manager-subscriptions-368722,Duck Duck Go,2026-09-06T07:40:03Z,False,Marketing,2026-09-06T17:05:07.430567Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/duck-duck-go/remote-senior-product-design-engineer-145790,Duck Duck Go,2026-09-06T07:40:03Z,False,Design,2026-09-06T17:05:07.430582Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/duck-duck-go/remote-staff-data-scientist-28394,Duck Duck Go,2026-09-06T07:40:03Z,False,Data,2026-09-06T17:05:07.430596Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/duck-duck-go/remote-creative-design-lead-marketing-campaigns-86272,Duck Duck Go,2026-09-06T07:40:03Z,False,Marketing,2026-09-06T17:05:07.430613Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/duck-duck-go/remote-privacy-engineering-director-460386,Duck Duck Go,2026-09-06T07:40:03Z,False,Engineering,2026-09-06T17:05:07.430633Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/duck-duck-go/remote-senior-privacy-engineer-65238,Duck Duck Go,2026-09-06T07:40:03Z,False,Engineering,2026-09-06T17:05:07.430655Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/whitecircle/remote-recruiter-research-108565,Whitecircle,2026-09-06T07:40:01Z,False,HR,2026-09-06T17:05:07.430773Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/whitecircle/senior-data-labeler-paris-63823,Whitecircle,2026-09-06T07:40:01Z,False,Other,2026-09-06T17:05:07.430795Z
-1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/whitecircle/research-scientist-engineer-agentic-systems-paris-217452,Whitecircle,2026-09-06T07:40:01Z,False,Data,2026-09-06T17:05:07.430809Z
-1.0,JOB,Himalayas,https://himalayas.app/companies/tripleten/jobs/ai-for-qa-teaching-experts-5673286170,TripleTen,2026-09-06T17:03:14Z,True,Engineering,2026-09-06T17:05:07.430934Z
-1.0,JOB,Himalayas,https://himalayas.app/companies/nvidia/jobs/senior-program-manager-odm-and-oem-partner-operations,NVIDIA,2026-09-06T17:02:37Z,True,Operations,2026-09-06T17:05:07.431062Z
-1.0,JOB,Himalayas,https://himalayas.app/companies/peoplegrove/jobs/automation-qa-engineer-9207438948,PeopleGrove,2026-09-06T17:02:32Z,True,Engineering,2026-09-06T17:05:07.431189Z
-1.0,JOB,Himalayas,https://himalayas.app/companies/kyivstar/jobs/business-analyst-microsoft-power-platform-7349176409,Kyivstar,2026-09-06T17:01:55Z,True,Engineering,2026-09-06T17:05:07.431317Z
-1.0,JOB,Himalayas,https://himalayas.app/companies/fxpro/jobs/lead-seo-5148988845,FxPro,2026-09-06T17:01:37Z,True,Marketing,2026-09-06T17:05:07.431347Z
-1.0,JOB,Himalayas,https://himalayas.app/companies/monnoyeur/jobs/bim-engineer-ii,Monnoyeur,2026-09-06T17:01:01Z,True,Engineering,2026-09-06T17:05:07.431470Z
-1.0,JOB,Himalayas,https://himalayas.app/companies/captivateiq/jobs/director-of-product-management-product-platform,CaptivateIQ,2026-09-06T17:01:01Z,True,Other,2026-09-06T17:05:07.431608Z
-1.0,JOB,Himalayas,https://himalayas.app/companies/bloom-equity-partners/jobs/enterprise-account-executive,Bloom Equity Partners,2026-09-06T17:00:41Z,True,Sales,2026-09-06T17:05:07.431725Z
-1.0,JOB,Himalayas,https://himalayas.app/companies/lifelancer/jobs/program-manager-ii-cell-lab-4604648229,Lifelancer,2026-09-06T16:59:54Z,True,Other,2026-09-06T17:05:07.431850Z
-1.0,JOB,Himalayas,https://himalayas.app/companies/lithic/jobs/senior-software-engineer-treasury-7377921816,Lithic,2026-09-06T16:59:01Z,True,Engineering,2026-09-06T17:05:07.431982Z
-1.0,JOB,Himalayas,https://himalayas.app/companies/stride-inc/jobs/ese-coordinator,"Stride, Inc.",2026-09-06T16:56:40Z,True,Other,2026-09-06T17:05:07.432110Z
-1.0,JOB,Himalayas,https://himalayas.app/companies/generation/jobs/global-c-i-curriculum-design-consultant,Generation UK & Ireland,2026-09-06T16:56:31Z,True,Design,2026-09-06T17:05:07.432322Z
-1.0,JOB,Himalayas,https://himalayas.app/companies/gameloft/jobs/manual-qa,Gameloft,2026-09-06T16:56:09Z,True,Engineering,2026-09-06T17:05:07.432461Z
-1.0,JOB,Himalayas,https://himalayas.app/companies/remote-talent-latam/jobs/seo-strategist-remote-latam-only-88143,Remote Talent LATAM,2026-09-06T16:55:55Z,True,Marketing,2026-09-06T17:05:07.432580Z
-1.0,JOB,Himalayas,https://himalayas.app/companies/insense/jobs/product-manager-platform-9571544808,Insense,2026-09-06T16:55:10Z,True,Product,2026-09-06T17:05:07.432692Z
-1.0,JOB,Himalayas,https://himalayas.app/companies/mercor/jobs/croatian-science-expert-fully-remote-upto-52-hr-part-time,mercor,2026-09-06T16:55:10Z,True,Other,2026-09-06T17:05:07.432820Z
-1.0,JOB,Himalayas,https://himalayas.app/companies/mooreco/jobs/business-development-manager-k-12-furniture-nc-sc-va-tn,MooreCo,2026-09-06T16:54:23Z,True,Sales,2026-09-06T17:05:07.432939Z
-1.0,JOB,Himalayas,https://himalayas.app/companies/tripleten/jobs/ai-for-business-transformation-teaching-experts-9703334638,TripleTen,2026-09-06T16:53:24Z,True,Other,2026-09-06T17:05:07.432982Z
-1.0,JOB,Himalayas,https://himalayas.app/companies/fundraise-up/jobs/product-manager-in-person-giving-7271446446,Fundraise Up,2026-09-06T16:52:39Z,True,Product,2026-09-06T17:05:07.433095Z
-1.0,JOB,Himalayas,https://himalayas.app/companies/caci-international-inc/jobs/procurement-policy-specialist,CACI International Inc,2026-09-06T16:52:08Z,True,Other,2026-09-06T17:05:07.433228Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/tech-advisory-senior-consultant-munchen-59206,Trusteq Gmbh,2026-09-06T20:09:57Z,False,Other,2026-09-06T23:02:44.744525Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/hr-management-intern-working-student-munchen-207018,Trusteq Gmbh,2026-09-06T20:09:57Z,False,Operations,2026-09-06T23:02:44.744558Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/digital-ecosystem-working-student-munchen-70812,Trusteq Gmbh,2026-09-06T20:09:57Z,False,Other,2026-09-06T23:02:44.744585Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/data-platform-engineer-working-student-munchen-56537,Trusteq Gmbh,2026-09-06T20:09:57Z,False,Data,2026-09-06T23:02:44.744601Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/cybersecurity-working-student-munchen-148613,Trusteq Gmbh,2026-09-06T20:09:57Z,False,Other,2026-09-06T23:02:44.744623Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/cybersecurity-manager-munchen-365778,Trusteq Gmbh,2026-09-06T20:09:57Z,False,Engineering,2026-09-06T23:02:44.744648Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/cybersecurity-intern-munchen-412190,Trusteq Gmbh,2026-09-06T20:09:57Z,False,Other,2026-09-06T23:02:44.744671Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/cybersecurity-risk-management-consultant-munchen-340436,Trusteq Gmbh,2026-09-06T20:09:57Z,False,Other,2026-09-06T23:02:44.744705Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/cybersecurity-senior-software-engineer-munchen-227484,Trusteq Gmbh,2026-09-06T20:09:57Z,False,Engineering,2026-09-06T23:02:44.744726Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/cybersecurity-senior-consultant-munchen-472757,Trusteq Gmbh,2026-09-06T20:09:57Z,False,Engineering,2026-09-06T23:02:44.744747Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/cloud-senior-engineer-architect-m-w-d-koln-168121,Trusteq Gmbh,2026-09-06T20:09:57Z,False,Engineering,2026-09-06T23:02:44.744767Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/ai-strategy-senior-consultant-munchen-167851,Trusteq Gmbh,2026-09-06T20:09:57Z,False,Other,2026-09-06T23:02:44.744788Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/ai-security-senior-consultant-munchen-1027,Trusteq Gmbh,2026-09-06T20:09:57Z,False,Other,2026-09-06T23:02:44.744809Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/ai-governance-senior-consultant-munchen-382841,Trusteq Gmbh,2026-09-06T20:09:57Z,False,Other,2026-09-06T23:02:44.744843Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/ai-seniorconsultant-munchen-56921,Trusteq Gmbh,2026-09-06T20:09:57Z,False,Data,2026-09-06T23:02:44.744857Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/ai-senior-developer-munchen-276811,Trusteq Gmbh,2026-09-06T20:09:57Z,False,Data,2026-09-06T23:02:44.744870Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/semdor-pharma-group-gmbh/fullstack-developer-koln-442845,Semdor Pharma Group GmbH,2026-09-06T20:09:54Z,False,Engineering,2026-09-06T23:02:44.744903Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/buendnis-90die-gruenen/praktikantin-fur-das-buro-der-bundesvorsitzenden-franziska-brantner-berlin-74976,Buendnis 90Die Gruenen,2026-09-06T20:09:49Z,False,Other,2026-09-06T23:02:44.744934Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/ottonova/werkstudent-compliance-management-munchen-11808,Ottonova,2026-09-06T20:09:47Z,False,Other,2026-09-06T23:02:44.744964Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/ottonova/junior-software-engineer-focus-on-ios-munchen-372407,Ottonova,2026-09-06T20:09:47Z,False,Engineering,2026-09-06T23:02:44.744982Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/unternehmertum-ggmbh/uvc-partners-data-ai-master-thesis-internship-munchen-kreativquartier-1648,UnternehmerTUM gGmbH,2026-09-06T20:09:45Z,False,Data,2026-09-06T23:02:44.745008Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/westwing-group-se/working-student-category-management-munich-office-344704,Westwing Group SE,2026-09-06T20:09:41Z,False,Sales,2026-09-06T23:02:44.745032Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/westwing-group-se/senior-tax-manager-konzernsteuerreferentin-munich-office-444014,Westwing Group SE,2026-09-06T20:09:41Z,False,Finance,2026-09-06T23:02:44.745051Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/westwing-group-se/product-manager-westwing-collection-munich-office-458345,Westwing Group SE,2026-09-06T20:09:41Z,False,Product,2026-09-06T23:02:44.745064Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/mynaric/senior-mechanical-design-engineer-munchen-102282,Mynaric,2026-09-06T20:09:38Z,False,Engineering,2026-09-06T23:02:44.745091Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/govradar/engineering-manager-mobiles-arbeiten-deutschland-270110,Govradar,2026-09-06T20:09:33Z,False,Engineering,2026-09-06T23:02:44.745116Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/govradar/senior-talent-acquisition-manager-standort-munchen-189120,Govradar,2026-09-06T20:09:33Z,False,HR,2026-09-06T23:02:44.745132Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/jungluck-gmbh/werkstudent-im-verkauf-dusseldorf-1978,junglück GmbH,2026-09-06T20:09:24Z,False,Other,2026-09-06T23:02:44.745168Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/jungluck-gmbh/head-of-finance-data-munchen-293651,junglück GmbH,2026-09-06T20:09:24Z,False,Finance,2026-09-06T23:02:44.745189Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/jungluck-gmbh/head-of-data-tech-e-com-munchen-429831,junglück GmbH,2026-09-06T20:09:24Z,False,Other,2026-09-06T23:02:44.745205Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/studysmarter/senior-accountant-finance-specialist-remote-56259,Studysmarter,2026-09-06T20:09:16Z,False,Finance,2026-09-06T23:02:44.745231Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/init-ag/senior-ui-ux-designer-all-genders-berlin-315766,Init Ag,2026-09-06T20:09:15Z,False,Design,2026-09-06T23:02:44.745253Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/init-ag/senior-sales-manager-infrastruktur-services-all-genders-hamburg-17609,Init Ag,2026-09-06T20:09:15Z,False,Sales,2026-09-06T23:02:44.745271Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/init-ag/senior-frontend-angular-developer-all-genders-hamburg-142014,Init Ag,2026-09-06T20:09:15Z,False,Engineering,2026-09-06T23:02:44.745292Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/init-ag/senior-frontend-angular-developer-all-genders-munchen-203451,Init Ag,2026-09-06T20:09:15Z,False,Engineering,2026-09-06T23:02:44.745309Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/init-ag/senior-frontend-angular-developer-all-genders-mainz-488215,Init Ag,2026-09-06T20:09:15Z,False,Engineering,2026-09-06T23:02:44.745325Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/init-ag/senior-frontend-angular-developer-all-genders-koln-435039,Init Ag,2026-09-06T20:09:15Z,False,Engineering,2026-09-06T23:02:44.745341Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/init-ag/senior-frontend-angular-developer-all-genders-berlin-201352,Init Ag,2026-09-06T20:09:15Z,False,Engineering,2026-09-06T23:02:44.745357Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/init-ag/senior-account-manager-all-genders-hamburg-22701,Init Ag,2026-09-06T20:09:15Z,False,Sales,2026-09-06T23:02:44.745376Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/init-ag/consultant-public-sector-all-genders-hamburg-310787,Init Ag,2026-09-06T20:09:15Z,False,Other,2026-09-06T23:02:44.745403Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/init-ag/consultant-public-sector-all-genders-berlin-493945,Init Ag,2026-09-06T20:09:15Z,False,Other,2026-09-06T23:02:44.745424Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/init-ag/consultant-public-sector-all-genders-mainz-209284,Init Ag,2026-09-06T20:09:15Z,False,Other,2026-09-06T23:02:44.745443Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/init-ag/consultant-public-sector-all-genders-koln-295447,Init Ag,2026-09-06T20:09:15Z,False,Other,2026-09-06T23:02:44.745461Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/tonies/working-student-it-strategy-governance-all-genders-berlin-171723,Tonies,2026-09-06T20:09:07Z,False,Other,2026-09-06T23:02:44.745489Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/hunderunde/crm-subscription-managerin-cologne-405658,Hunderunde,2026-09-06T18:30:24Z,False,Marketing,2026-09-06T23:02:44.745512Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/sofortinarbeitde/mitarbeiter-im-homeoffice-100-remote-monchengladbach-209557,SofortinArbeit.de,2026-09-06T18:00:23Z,True,Marketing,2026-09-06T23:02:44.745536Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/circonomit/forward-deployed-engineer-cologne-306325,Circonomit,2026-09-06T17:20:03Z,False,Engineering,2026-09-06T23:02:44.745563Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/jung-von-matt/senior-social-media-manager-stuttgart-291420,Jung von Matt,2026-09-06T17:09:53Z,False,Other,2026-09-06T23:02:44.745589Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/jung-von-matt/senior-project-manager-hamburg-139581,Jung von Matt,2026-09-06T17:09:53Z,False,Other,2026-09-06T23:02:44.745608Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/jung-von-matt/senior-art-director-stuttgart-10811,Jung von Matt,2026-09-06T17:09:53Z,False,Other,2026-09-06T23:02:44.745624Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/jung-von-matt/creative-director-art-hamburg-490148,Jung von Matt,2026-09-06T17:09:53Z,False,Other,2026-09-06T23:02:44.745640Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/jung-von-matt/account-director-stuttgart-2259,Jung von Matt,2026-09-06T17:09:53Z,False,Other,2026-09-06T23:02:44.745657Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/jung-von-matt/senior-social-media-manager-hamburg-386020,Jung von Matt,2026-09-06T17:09:53Z,False,Other,2026-09-06T23:02:44.745675Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/jung-von-matt/senior-concept-creative-social-media-hamburg-174481,Jung von Matt,2026-09-06T17:09:53Z,False,Other,2026-09-06T23:02:44.745693Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/gridx-gmbh/remote-senior-backend-engineer-energy-management-platform-all-genders-297211,gridX GmbH,2026-09-06T17:09:42Z,False,Engineering,2026-09-06T23:02:44.745719Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/gridx-gmbh/remote-junior-software-engineer-platforms-all-genders-57344,gridX GmbH,2026-09-06T17:09:42Z,False,Engineering,2026-09-06T23:02:44.745747Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/vulcan-energie-ressourcen-gmbh/werkstudent-hseq-karlsruhe-235621,Vulcan Energie Ressourcen GmbH,2026-09-06T17:09:40Z,False,Other,2026-09-06T23:02:44.745777Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/vulcan-energie-ressourcen-gmbh/teamleiter-elektro-und-msr-technik-frankfurt-hochst-413566,Vulcan Energie Ressourcen GmbH,2026-09-06T17:09:40Z,False,Other,2026-09-06T23:02:44.745801Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/vulcan-energie-ressourcen-gmbh/senior-project-integration-manager-karlsruhe-358004,Vulcan Energie Ressourcen GmbH,2026-09-06T17:09:40Z,False,Other,2026-09-06T23:02:44.745820Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/vulcan-energie-ressourcen-gmbh/it-systemadministrator-datacenter-infrastructure-karlsruhe-347437,Vulcan Energie Ressourcen GmbH,2026-09-06T17:09:40Z,False,Other,2026-09-06T23:02:44.745838Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/envelio/remote-working-student-market-intelligence-all-genders-158184,Envelio,2026-09-06T17:09:39Z,False,Other,2026-09-06T23:02:44.745866Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/envelio/remote-working-student-customer-success-all-genders-177500,Envelio,2026-09-06T17:09:39Z,False,Support,2026-09-06T23:02:44.745881Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/envelio/remote-senior-sales-consultant-smart-grids-all-genders-91686,Envelio,2026-09-06T17:09:39Z,False,Sales,2026-09-06T23:02:44.745893Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/stiftung-munchner-sicherheitskonferenz-gemeinnutzige/werkstudent-im-bereich-veranstaltungssicherheit-munchen-399486,Stiftung Münchner Sicherheitskonferenz (gemeinnützige ...,2026-09-06T17:09:19Z,False,Other,2026-09-06T23:02:44.745925Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/stiftung-munchner-sicherheitskonferenz-gemeinnutzige/werkstudent-im-bereich-it-munchen-247879,Stiftung Münchner Sicherheitskonferenz (gemeinnützige ...,2026-09-06T17:09:19Z,False,Other,2026-09-06T23:02:44.745947Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/stiftung-munchner-sicherheitskonferenz-gemeinnutzige/it-systemadministrator-in-vollzeit-munchen-227738,Stiftung Münchner Sicherheitskonferenz (gemeinnützige ...,2026-09-06T17:09:19Z,False,Other,2026-09-06T23:02:44.745971Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/holidaycheck-group-ag/senior-crm-automation-lifecycle-manager-all-genders-munchen-472955,HolidayCheck Group AG,2026-09-06T17:09:13Z,False,Marketing,2026-09-06T23:02:44.745997Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/sungrow-europe-welcome-traveler/talent-acquisition-team-leader-europe-germany-munich-307884,Sungrow Europe - Welcome traveler!,2026-09-06T17:09:12Z,False,HR,2026-09-06T23:02:44.746025Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/sungrow-europe-welcome-traveler/project-operations-rework-support-working-student-germany-germany-oberschleissheim-226211,Sungrow Europe - Welcome traveler!,2026-09-06T17:09:12Z,False,Operations,2026-09-06T23:02:44.746045Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/1komma5grad/werkstudentin-sales-operations-berlin-418884,1Komma5Grad,2026-09-06T17:09:08Z,False,Data,2026-09-06T23:02:44.746071Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/1komma5grad/werkstudentin-sales-operations-koln-324304,1Komma5Grad,2026-09-06T17:09:08Z,False,Data,2026-09-06T23:02:44.746085Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/1komma5grad/werkstudentin-projektkoordination-warmepumpe-berlin-remote-73143,1Komma5Grad,2026-09-06T17:09:08Z,False,Other,2026-09-06T23:02:44.746107Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/1komma5grad/werkstudentin-office-feelgood-management-1komma5-nurnberg-134127,1Komma5Grad,2026-09-06T17:09:08Z,False,Other,2026-09-06T23:02:44.746128Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/1komma5grad/werkstudentin-sales-strategy-operations-hamburg-105019,1Komma5Grad,2026-09-06T17:09:08Z,False,Sales,2026-09-06T23:02:44.746142Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/1komma5grad/praktikantin-sales-marketing-berlin-18963,1Komma5Grad,2026-09-06T17:09:08Z,False,Sales,2026-09-06T23:02:44.746154Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/1komma5grad/senior-staff-it-operations-specialist-berlin-456284,1Komma5Grad,2026-09-06T17:09:08Z,False,Operations,2026-09-06T23:02:44.746170Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/ommax/senior-consultant-digital-ai-strategy-pharma-healthcare-munchen-23040,Ommax,2026-09-06T17:09:04Z,False,Other,2026-09-06T23:02:44.746189Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/pcs-systemtechnik-gmbh/werkstudent-user-experience-wissensmanagement-mit-fokus-ki-munchen-41556,PCS Systemtechnik GmbH,2026-09-06T17:09:02Z,False,Design,2026-09-06T23:02:44.746212Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/axon/software-engineer-ii-c-rust-kassel-hesse-452567,Axon,2026-09-06T14:55:05Z,False,Engineering,2026-09-06T23:02:44.746230Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/cesiumastro/product-manager-munich-germany-492918,CesiumAstro,2026-09-06T14:24:39Z,False,Product,2026-09-06T23:02:44.746251Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/insider-one/product-manager-b2b-saas-martech-europe-berlin-germany-34094,Insider One,2026-09-06T14:24:27Z,False,Product,2026-09-06T23:02:44.746274Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/kiwigrid/product-manager-platform-dresden-32512,Kiwigrid,2026-09-06T14:09:58Z,False,Product,2026-09-06T23:02:44.746299Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/solvares/werkstudent-im-bereich-marketing-operations-munchen-25134,Solvares,2026-09-06T14:09:52Z,False,Marketing,2026-09-06T23:02:44.746323Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/solvares/ausbildung-fachinformatiker-fur-systemintegration-hamburg-313275,Solvares,2026-09-06T14:09:52Z,False,Other,2026-09-06T23:02:44.746343Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/steadforce/senior-software-engineer-teilprojektleitung-munchen-195012,Steadforce,2026-09-06T14:09:46Z,False,Engineering,2026-09-06T23:02:44.746373Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/tink-gmbh/e-commerce-product-ownerin-all-genders-berlin-359227,tink GmbH,2026-09-06T14:09:44Z,False,Product,2026-09-06T23:02:44.746397Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/zdf-digital-medienproduktion-gmbh/werkstudentin-community-management-mainz-oder-berlin-16948,ZDF Digital Medienproduktion GmbH,2026-09-06T14:09:42Z,False,Other,2026-09-06T23:02:44.746425Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/42watt/automation-engineer-gn-40-std-hybrid-munchen-90580,42Watt,2026-09-06T14:09:41Z,False,Engineering,2026-09-06T23:02:44.746452Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/skalbach-gmbh/senior-bauleiter-rohbau-stuttgart-229946,Skalbach GmbH,2026-09-06T14:09:39Z,False,Other,2026-09-06T23:02:44.746483Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/skalbach-gmbh/senior-bauleiter-stuttgart-munchen-karlsruhe-134938,Skalbach GmbH,2026-09-06T14:09:39Z,False,Other,2026-09-06T23:02:44.746503Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/skalbach-gmbh/senior-bauleiter-tiefbau-munchen-214808,Skalbach GmbH,2026-09-06T14:09:39Z,False,Other,2026-09-06T23:02:44.746520Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/skalbach-gmbh/senior-bauleiter-hochbau-munchen-392599,Skalbach GmbH,2026-09-06T14:09:39Z,False,Other,2026-09-06T23:02:44.746540Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/capmo/werkstudent-bauexperte-fur-saas-software-munich-46226,Capmo,2026-09-06T14:09:24Z,False,Sales,2026-09-06T23:02:44.746554Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/capmo/senior-security-engineer-all-genders-munich-5553,Capmo,2026-09-06T14:09:24Z,False,Engineering,2026-09-06T23:02:44.746572Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/ftapi-gmbh/senior-sales-strategy-operations-managerin-munchen-355743,FTAPI GmbH,2026-09-06T14:09:21Z,False,Sales,2026-09-06T23:02:44.746598Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/mayflower/senior-ai-architect-consultant-munchen-91359,Mayflower,2026-09-06T14:09:17Z,False,Engineering,2026-09-06T23:02:44.746627Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/fulfin/senior-engineer-on-site-vollzeit-munchen-379894,Fulfin,2026-09-06T14:09:09Z,False,Engineering,2026-09-06T23:02:44.746660Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/jedox-gmbh/product-manager-platform-experience-cloud-administration-freiburg-im-breisgau-76129,Jedox GmbH,2026-09-06T14:09:07Z,False,Product,2026-09-06T23:02:44.746685Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/jedox-gmbh/head-of-product-marketing-germany-235846,Jedox GmbH,2026-09-06T14:09:07Z,False,Marketing,2026-09-06T23:02:44.746697Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.com/jobs/companies/superchat/tech-lead-berlin-berlin-420831,Superchat,2026-09-06T11:55:15Z,False,Engineering,2026-09-06T23:02:44.746724Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.co.uk/jobs/companies/marqeta-inc/office-assistant-part-time-uk-london-448542,Marqeta Inc,2026-09-06T21:40:07Z,False,Other,2026-09-06T23:02:44.746753Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.co.uk/jobs/companies/marqeta-inc/office-assistant-part-time-uk-london-4559,Marqeta Inc,2026-09-06T21:40:07Z,False,Other,2026-09-06T23:02:44.746769Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.co.uk/jobs/companies/marqeta-inc/production-support-engineer-ii-uk-london-218867,Marqeta Inc,2026-09-06T21:40:07Z,False,Support,2026-09-06T23:02:44.746786Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-principal-security-researcher-92261,gitlab,2026-09-06T18:55:20Z,False,Other,2026-09-06T23:02:44.746814Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.co.uk/jobs/companies/samsara/staff-offensive-security-engineer-109752,Samsara,2026-09-06T18:55:06Z,False,Engineering,2026-09-06T23:02:44.746841Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.co.uk/jobs/companies/goodlord/enterprise-account-executive-london-131527,Goodlord,2026-09-06T18:40:13Z,False,Sales,2026-09-06T23:02:44.746863Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.co.uk/jobs/companies/intercom/staff-engineer-web-platform-london-232412,intercom,2026-09-06T15:55:16Z,False,Marketing,2026-09-06T23:02:44.746886Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.co.uk/jobs/companies/intercom/senior-product-marketing-manager-london-237132,intercom,2026-09-06T15:55:16Z,False,Marketing,2026-09-06T23:02:44.746900Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.co.uk/jobs/companies/intercom/senior-product-marketing-manager-london-55894,intercom,2026-09-06T15:55:16Z,False,Marketing,2026-09-06T23:02:44.746912Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.co.uk/jobs/companies/hubspotjobs/staff-technical-lead-marketing-studio-intelligence-482884,hubspotjobs,2026-09-06T15:55:05Z,False,Marketing,2026-09-06T23:02:44.746939Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.co.uk/jobs/companies/sungrow-emea/senior-om-asset-manager-europe-uk-london-292920,Sungrow Emea,2026-09-06T12:09:41Z,False,Other,2026-09-06T23:02:44.746973Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.co.uk/jobs/companies/lab54-ltd/bookkeeper-london-339192,Lab54 LTD,2026-09-06T15:17:25Z,False,Finance,2026-09-06T23:02:44.746990Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.co.uk/jobs/companies/apothecom/senior-medical-writer-london-485009,Apothecom,2026-09-06T09:55:27Z,False,Other,2026-09-06T23:02:44.747019Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.co.uk/jobs/companies/anaplan/associate-backend-software-engineer-python-manchester-430147,Anaplan,2026-09-06T09:55:04Z,False,Engineering,2026-09-06T23:02:44.747046Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.co.uk/jobs/companies/harvey/head-of-mid-market-sales-london-301941,Harvey AI,2026-09-06T09:40:11Z,False,Sales,2026-09-06T23:02:44.747058Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.co.uk/jobs/companies/langchain/commercial-account-executive-uk-london-249058,LangChain,2026-09-06T09:40:02Z,False,Sales,2026-09-06T23:02:44.747070Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.co.uk/jobs/companies/schnell-global/long-term-youtube-host-on-camera-presenter-london-184975,Schnell Global,2026-09-06T09:30:24Z,True,Marketing,2026-09-06T23:02:44.747096Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.co.uk/jobs/companies/blab/data-governance-lead-sao-paulo-brasil-london-190716,Blab,2026-09-06T06:55:02Z,False,Other,2026-09-06T23:02:44.747116Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.co.uk/jobs/companies/blab/data-governance-lead-london-uk-214565,Blab,2026-09-06T06:55:02Z,False,Other,2026-09-06T23:02:44.747134Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.co.uk/jobs/companies/blab/data-governance-lead-amsterdam-nld-london-49939,Blab,2026-09-06T06:55:02Z,False,Other,2026-09-06T23:02:44.747152Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.co.uk/jobs/companies/heidi/finance-manager-london-23431,Heidi,2026-09-06T06:40:08Z,False,Finance,2026-09-06T23:02:44.747167Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.co.uk/jobs/companies/omaze/general-manager-new-product-london-380786,Omaze,2026-09-06T03:40:09Z,False,Other,2026-09-06T23:02:44.747185Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.co.uk/jobs/companies/illumio/remote-digital-marketing-manager-emea-apac-53593,Illumio,2026-09-06T03:40:08Z,False,Marketing,2026-09-06T23:02:44.747209Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.co.uk/jobs/companies/watershed/account-executive-enterprise-northern-europe-london-475191,Watershed,2026-09-06T03:40:07Z,False,Sales,2026-09-06T23:02:44.747232Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.co.uk/jobs/companies/perk/senior-frontend-engineer-london-423081,Perk,2026-09-06T03:40:06Z,False,Engineering,2026-09-06T23:02:44.747249Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.co.uk/jobs/companies/perk/director-of-go-to-market-engineering-london-457240,Perk,2026-09-06T03:40:06Z,False,Sales,2026-09-06T23:02:44.747263Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/principal-ceo-office-london-14315,Checkout.com,2026-09-06T03:40:03Z,False,Other,2026-09-06T23:02:44.747291Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.co.uk/jobs/companies/pno-group-europe/senior-innovation-consultant-uk-450905,Pno Group Europe,2026-09-06T00:09:12Z,False,Other,2026-09-06T23:02:44.747325Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/the-exploration-company/supply-chain-quality-engineer-mait-bordeaux-313589,The Exploration Company,2026-09-06T19:40:07Z,False,Operations,2026-09-06T23:02:44.747416Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/rillet/remote-deployment-lead-erp-solutions-76108,Rillet,2026-09-06T19:40:03Z,False,Other,2026-09-06T23:02:44.747447Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/rillet/remote-accounting-solutions-consultant-342112,Rillet,2026-09-06T19:40:03Z,False,Other,2026-09-06T23:02:44.747464Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/rillet/remote-account-executive-164600,Rillet,2026-09-06T19:40:03Z,False,Sales,2026-09-06T23:02:44.747475Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/rillet/remote-solutions-consultant-352815,Rillet,2026-09-06T19:40:03Z,False,Other,2026-09-06T23:02:44.747490Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/rillet/remote-deployment-lead-accounting-solutions-195709,Rillet,2026-09-06T19:40:03Z,False,Other,2026-09-06T23:02:44.747506Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/transperfect/business-development-manager-ai-data-solutions-paris-117054,TransPerfect,2026-09-06T19:30:16Z,False,Sales,2026-09-06T23:02:44.747531Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/transperfect/business-development-manager-ai-data-solutions-paris-311534,TransPerfect,2026-09-06T19:30:16Z,False,Sales,2026-09-06T23:02:44.747543Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/transperfect/english-language-instructor-paris-21233,TransPerfect,2026-09-06T19:30:15Z,False,Other,2026-09-06T23:02:44.747559Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/transperfect/director-business-development-transperfect-life-sciences-paris-49842,TransPerfect,2026-09-06T19:30:15Z,False,Sales,2026-09-06T23:02:44.747571Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/transperfect/director-business-development-corporate-division-paris-124990,TransPerfect,2026-09-06T19:30:15Z,False,Sales,2026-09-06T23:02:44.747584Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/transperfect/sterling-account-executive-paris-20882,TransPerfect,2026-09-06T19:30:15Z,False,Sales,2026-09-06T23:02:44.747596Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/transperfect/sterling-account-executive-paris-222271,TransPerfect,2026-09-06T19:30:15Z,False,Sales,2026-09-06T23:02:44.747607Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/transperfect/director-of-strategic-accounts-paris-198706,TransPerfect,2026-09-06T19:30:15Z,False,Sales,2026-09-06T23:02:44.747618Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/transperfect/director-business-development-paris-78490,TransPerfect,2026-09-06T19:30:15Z,False,Sales,2026-09-06T23:02:44.747629Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/payflows/remote-senior-backend-engineer-paris-324081,Payflows,2026-09-06T19:30:08Z,True,Engineering,2026-09-06T23:02:44.747657Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/payflows/french-speaking-account-executive-paris-221840,Payflows,2026-09-06T19:30:08Z,False,Sales,2026-09-06T23:02:44.747668Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/payflows/devops-infra-lead-paris-54868,Payflows,2026-09-06T19:30:08Z,False,Engineering,2026-09-06T23:02:44.747928Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/proton/site-reliability-engineer-storage-geneva-switzerland-paris-367370,Proton,2026-09-06T16:55:07Z,False,Engineering,2026-09-06T23:02:44.747988Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/proton/senior-product-manager-geneva-switzerland-paris-215658,Proton,2026-09-06T16:55:07Z,False,Product,2026-09-06T23:02:44.748009Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/proton/senior-engineering-manager-geneva-switzerland-paris-267417,Proton,2026-09-06T16:55:07Z,False,Engineering,2026-09-06T23:02:44.748028Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/fanaticscommerce/senior-manager-retail-operations-paris-241277,Fanaticscommerce,2026-09-06T16:55:06Z,False,Operations,2026-09-06T23:02:44.748060Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/fanaticscommerce/licensing-director-paris-186920,Fanaticscommerce,2026-09-06T16:55:06Z,False,Other,2026-09-06T23:02:44.748080Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/scorewarrior/remote-recruitment-sourcer-302296,Scorewarrior,2026-09-06T16:40:09Z,False,Other,2026-09-06T23:02:44.748108Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/npv/devops-engineer-paris-13207,Npv,2026-09-06T16:40:04Z,False,Engineering,2026-09-06T23:02:44.748127Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/npv/product-engineer-backend-rust-paris-270716,Npv,2026-09-06T16:40:04Z,False,Engineering,2026-09-06T23:02:44.748143Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/npv/multimodal-ml-engineer-paris-67208,Npv,2026-09-06T16:40:04Z,False,Data,2026-09-06T23:02:44.748153Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/ixon-cloud/solutions-engineer-france-lyon-lyon-saint-priest-30828,IXON Cloud,2026-09-06T16:30:53Z,False,Sales,2026-09-06T23:02:44.748179Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/deephealth/data-manager-paris-478505,DeepHealth,2026-09-06T16:30:37Z,False,Other,2026-09-06T23:02:44.748215Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/n2jsoft/remote-developpeur-fullstack-confirme-h-f-c-net-angular-lyon-461414,N2JSoft,2026-09-06T16:30:03Z,True,Other,2026-09-06T23:02:44.748248Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/workana-premium/remote-seo-copywriter-french-market-france-129523,Workana Premium,2026-09-06T16:20:17Z,True,Marketing,2026-09-06T23:02:44.748275Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/sezane-3/stage-assistante-talent-acquisition-specialist-h-f-paris-186656,Sezane 3,2026-09-06T16:20:07Z,False,HR,2026-09-06T23:02:44.748305Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/vmlenterprisesolutions/senior-manager-martech-sales-oriented-paris-112887,Vmlenterprisesolutions,2026-09-06T13:55:11Z,False,Sales,2026-09-06T23:02:44.748331Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/vmlenterprisesolutions/head-of-b2b-energy-f-h-senior-manager-paris-26468,Vmlenterprisesolutions,2026-09-06T13:55:11Z,False,Other,2026-09-06T23:02:44.748351Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/vmlenterprisesolutions/consultante-senior-transformation-marketing-experience-client-paris-35583,Vmlenterprisesolutions,2026-09-06T13:55:11Z,False,Marketing,2026-09-06T23:02:44.748366Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/vmlenterprisesolutions/consultant-developpeur-marketing-technology-crm-data-3-a-5-ans-dexperience-paris-295267,Vmlenterprisesolutions,2026-09-06T13:55:11Z,False,Marketing,2026-09-06T23:02:44.748383Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/vmlenterprisesolutions/consultant-data-analyst-marketing-f-h-paris-449933,Vmlenterprisesolutions,2026-09-06T13:55:11Z,False,Data,2026-09-06T23:02:44.748395Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/parity/remote-core-developer-platform-60113,Parity,2026-09-06T13:40:05Z,False,Engineering,2026-09-06T23:02:44.748425Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/parity/remote-chief-of-staff-for-engineering-1581,Parity,2026-09-06T13:40:05Z,False,Engineering,2026-09-06T23:02:44.748442Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/parity/remote-core-developer-node-28104,Parity,2026-09-06T13:40:05Z,False,Engineering,2026-09-06T23:02:44.748459Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/parity/remote-senior-experience-engineer-126529,Parity,2026-09-06T13:40:05Z,False,Engineering,2026-09-06T23:02:44.748475Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/parity/senior-security-engineer-remote-301763,Parity,2026-09-06T13:40:05Z,False,Engineering,2026-09-06T23:02:44.748491Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/livestorm/remote-account-executive-enterprise-paris-382462,Livestorm,2026-09-06T13:30:26Z,True,Sales,2026-09-06T23:02:44.748517Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/livestorm/remote-account-executive-enterprise-paris-149681,Livestorm,2026-09-06T13:30:26Z,True,Sales,2026-09-06T23:02:44.748528Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/searoutes/remote-chief-of-staff-business-ops-france-115880,Searoutes,2026-09-06T13:20:07Z,True,Operations,2026-09-06T23:02:44.748560Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/wundermanthompson/senior-manager-martech-sales-oriented-paris-54368,Wundermanthompson,2026-09-06T10:55:17Z,False,Sales,2026-09-06T23:02:44.748589Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/wundermanthompson/head-of-b2b-energy-f-h-senior-manager-paris-112873,Wundermanthompson,2026-09-06T10:55:16Z,False,Other,2026-09-06T23:02:44.748607Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/wundermanthompson/consultante-senior-transformation-marketing-experience-client-paris-156346,Wundermanthompson,2026-09-06T10:55:16Z,False,Marketing,2026-09-06T23:02:44.748622Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/wundermanthompson/consultant-developpeur-marketing-technology-crm-data-3-a-5-ans-dexperience-paris-120031,Wundermanthompson,2026-09-06T10:55:16Z,False,Marketing,2026-09-06T23:02:44.748637Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/wundermanthompson/consultant-data-analyst-marketing-f-h-paris-81857,Wundermanthompson,2026-09-06T10:55:16Z,False,Data,2026-09-06T23:02:44.748648Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/wundermanthompson/account-director-paris-300821,Wundermanthompson,2026-09-06T10:55:16Z,False,Other,2026-09-06T23:02:44.748666Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/cartesia/remote-language-lead-french-contract-424959,Cartesia,2026-09-06T10:40:14Z,False,Other,2026-09-06T23:02:44.748697Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/cartesia/remote-language-lead-japanese-contract-216713,Cartesia,2026-09-06T10:40:14Z,False,Other,2026-09-06T23:02:44.748713Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/cartesia/remote-language-lead-hindi-contract-151288,Cartesia,2026-09-06T10:40:14Z,False,Other,2026-09-06T23:02:44.748729Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/cartesia/remote-language-lead-english-contract-352989,Cartesia,2026-09-06T10:40:14Z,False,Other,2026-09-06T23:02:44.748745Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/deliveroo/head-of-partner-marketing-france-paris-51549,Deliveroo,2026-09-06T10:40:14Z,False,Marketing,2026-09-06T23:02:44.748772Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/deliveroo/account-manager-groceries-retail-paris-31060,Deliveroo,2026-09-06T10:40:14Z,False,Other,2026-09-06T23:02:44.748789Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/deliveroo/general-assistant-cdd-35h-st-ouen-372712,Deliveroo,2026-09-06T10:40:14Z,False,Other,2026-09-06T23:02:44.748806Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/deliveroo/business-development-manager-strasbourg-97916,Deliveroo,2026-09-06T10:40:14Z,False,Sales,2026-09-06T23:02:44.748818Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/deliveroo/business-development-manager-lyon-400262,Deliveroo,2026-09-06T10:40:14Z,False,Sales,2026-09-06T23:02:44.748830Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/deliveroo/business-development-manager-paris-cdd-6-mois-455063,Deliveroo,2026-09-06T10:40:14Z,False,Sales,2026-09-06T23:02:44.748843Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/deliveroo/senior-social-media-manager-france-paris-271102,Deliveroo,2026-09-06T10:40:14Z,False,Other,2026-09-06T23:02:44.748859Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/deliveroo/business-development-manager-montpellier-cdi-paris-65964,Deliveroo,2026-09-06T10:40:14Z,False,Sales,2026-09-06T23:02:44.748870Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/deliveroo/account-manager-paris-cdi-342766,Deliveroo,2026-09-06T10:40:14Z,False,Other,2026-09-06T23:02:44.748888Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/deliveroo/operations-manager-paris-311884,Deliveroo,2026-09-06T10:40:14Z,False,Operations,2026-09-06T23:02:44.748903Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/deliveroo/account-manager-paris-9850,Deliveroo,2026-09-06T10:40:14Z,False,Other,2026-09-06T23:02:44.748919Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/deliveroo/local-lead-creative-campaigns-8-month-ftc-paris-390979,Deliveroo,2026-09-06T10:40:14Z,False,Other,2026-09-06T23:02:44.748936Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/deliveroo/head-of-global-accounts-france-paris-394539,Deliveroo,2026-09-06T10:40:14Z,False,Other,2026-09-06T23:02:44.748952Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/deliveroo/senior-integrated-marketing-strategy-planning-manager-paris-58978,Deliveroo,2026-09-06T10:40:14Z,False,Marketing,2026-09-06T23:02:44.748965Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/deliveroo/business-development-manager-paris-272382,Deliveroo,2026-09-06T10:40:14Z,False,Sales,2026-09-06T23:02:44.748977Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/deliveroo/assistante-chef-de-projet-marketing-fidelisation-deliveroo-plus-alternance-12-mois-paris-106977,Deliveroo,2026-09-06T10:40:14Z,False,Marketing,2026-09-06T23:02:44.748993Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/deliveroo/chargee-onboarding-cdd-6-mois-paris-273764,Deliveroo,2026-09-06T10:40:14Z,False,Other,2026-09-06T23:02:44.749010Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/gismart/remote-email-marketing-manager-fitme-421444,Gismart,2026-09-06T10:40:11Z,False,Marketing,2026-09-06T23:02:44.749037Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/gismart/remote-billing-manager-fitme-281438,Gismart,2026-09-06T10:40:11Z,False,Other,2026-09-06T23:02:44.749054Z
+1.0,JOB,Arbeitnow,https://www.arbeitnow.fr/jobs/companies/gismart/remote-user-acquisition-manager-radiotech-407234,Gismart,2026-09-06T10:40:11Z,False,Other,2026-09-06T23:02:44.749071Z
+1.0,JOB,Himalayas,https://himalayas.app/companies/oura-health-ltd/jobs/senior-product-manager-new-experiences-5408938568,Oura Health Ltd,2026-09-06T21:04:11Z,True,Product,2026-09-06T23:02:44.749100Z
+1.0,JOB,Himalayas,https://himalayas.app/companies/ttec-digital/jobs/principal-client-advisory,TTEC Digital,2026-09-06T21:03:56Z,True,Operations,2026-09-06T23:02:44.749140Z
+1.0,JOB,Himalayas,https://himalayas.app/companies/toloka-ai/jobs/freelance-annotator-english-ai-trainer-6400065888,Toloka AI,2026-09-06T21:03:47Z,True,Other,2026-09-06T23:02:44.749183Z
+1.0,JOB,Himalayas,https://himalayas.app/companies/fresh-prints/jobs/campus-recruiter,Fresh Prints,2026-09-06T21:03:24Z,True,Sales,2026-09-06T23:02:44.749213Z
+1.0,JOB,Himalayas,https://himalayas.app/companies/appen/jobs/project-associate-qualification-night-shift-remote,Appen Butler Hill Inc,2026-09-06T21:03:24Z,True,Operations,2026-09-06T23:02:44.749249Z
+1.0,JOB,Himalayas,https://himalayas.app/companies/redbee/jobs/salesforce-developer-semi-senior,redbee,2026-09-06T21:03:13Z,True,Sales,2026-09-06T23:02:44.749276Z
+1.0,JOB,Himalayas,https://himalayas.app/companies/pharmavise-corporation/jobs/business-development-representative-life-sciences-consulting-philippines-rem-2913622131,Pharmavise Corporation,2026-09-06T21:02:50Z,True,Sales,2026-09-06T23:02:44.749311Z
+1.0,JOB,Himalayas,https://himalayas.app/companies/mercor/jobs/admin-support-specialist-fully-remote-upto-80-hr-9867049083,mercor,2026-09-06T21:00:18Z,True,Other,2026-09-06T23:02:44.749353Z
+1.0,JOB,Himalayas,https://himalayas.app/companies/morphius-corp/jobs/remote-customer-care-representative,Morphius Corp,2026-09-06T21:00:10Z,True,Other,2026-09-06T23:02:44.749399Z
+1.0,JOB,Himalayas,https://himalayas.app/companies/hinduja-global-solutions-ltd/jobs/utah-work-at-home-customer-service-representative-us-5672886718,Hinduja Global Solutions Ltd,2026-09-06T20:59:57Z,True,Other,2026-09-06T23:02:44.749457Z
+1.0,JOB,Himalayas,https://himalayas.app/companies/bright-vision-technologies/jobs/software-security-engineer-3453472696,Bright Vision Technologies,2026-09-06T20:59:23Z,True,Engineering,2026-09-06T23:02:44.749501Z
+1.0,JOB,Himalayas,https://himalayas.app/companies/valid/jobs/analista-de-devops-pleno,Valid,2026-09-06T20:57:35Z,True,Engineering,2026-09-06T23:02:44.749527Z
+1.0,JOB,Himalayas,https://himalayas.app/companies/sawhorse-productions/jobs/roblox-thumbnail-artist-3799767722,Sawhorse Productions,2026-09-06T20:57:35Z,True,Design,2026-09-06T23:02:44.749555Z
+1.0,JOB,Himalayas,https://himalayas.app/companies/ratehawk/jobs/service-manager-south-korea-6416627912,RateHawk,2026-09-06T20:56:56Z,True,Operations,2026-09-06T23:02:44.749591Z
+1.0,JOB,Himalayas,https://himalayas.app/companies/hirehawk/jobs/ai-solutions-architect-908964902,HireHawk,2026-09-06T20:56:56Z,True,Engineering,2026-09-06T23:02:44.749632Z
+1.0,JOB,Himalayas,https://himalayas.app/companies/telstra-health/jobs/support-specialist-expression-of-interest-leaving-violence-program,Telstra Health,2026-09-06T20:56:36Z,True,Other,2026-09-06T23:02:44.749671Z
+1.0,JOB,Himalayas,https://himalayas.app/companies/insense/jobs/sr-product-designer-6-months-2328550580,Insense,2026-09-06T20:56:36Z,True,Design,2026-09-06T23:02:44.749698Z
+1.0,JOB,Himalayas,https://himalayas.app/companies/simplex-health/jobs/telehealth-dietitian-women-s-health-pacific-time-9568978167,Simplex Health,2026-09-06T20:55:43Z,True,Other,2026-09-06T23:02:44.749744Z
+1.0,JOB,Himalayas,https://himalayas.app/companies/centro-team/jobs/ai-first-product-manager,Centro.team,2026-09-06T20:55:43Z,True,Product,2026-09-06T23:02:44.749773Z
+1.0,JOB,Himalayas,https://himalayas.app/companies/sequoia-connect/jobs/solution-architect-4155764753,Sequoia Connect,2026-09-06T20:54:56Z,True,Engineering,2026-09-06T23:02:44.749817Z

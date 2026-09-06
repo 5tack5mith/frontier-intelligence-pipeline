@@ -1,16 +1,18 @@
 """
-Full local orchestrator: runs every scraper (concurrently where the
-sources are independent of each other), resolves every startup/company
-name through EntityCanonicalizer, validates every record against its
-schema, and writes all 6 output tabs as JSONL + CSV.
+Fast path: Startups + Products + Jobs + News only — no research-paper
+GitHub enrichment, so this finishes in ~1-2 minutes instead of ~70.
+Meant to run every 6 hours in CI (see .github/workflows/fast_pipeline.yml).
 
-For scheduled CI runs, use run_fast.py (startups/products/jobs/news,
-every 6h) and run_papers.py (research papers, every 2 days) instead —
-they compose the same steps.py functions this module uses, split so
-the ~70-minute paper-enrichment leg doesn't have to run every 6 hours.
-This module remains the one-shot "run everything locally" entrypoint.
+Writes/overwrites exactly 5 output files: startups.jsonl/csv,
+products.jsonl/csv, jobs.jsonl/csv, news.jsonl/csv, and
+entity_mapping_log.jsonl/csv (the entity mapping log is entirely a
+byproduct of startup/job name resolution — research papers never touch
+EntityCanonicalizer, so this file is the log's sole producer). Does
+NOT touch research_papers.jsonl/csv — that's run_papers.py's job, on
+its own slower schedule, and to_sheets.py --only keeps the two Sheet
+pushes from clobbering each other's tabs.
 
-Run with:  python -m src.pipeline.run_all
+Run with:  python -m src.pipeline.run_fast
 """
 
 from __future__ import annotations
@@ -30,13 +32,12 @@ from src.pipeline.steps import (
     print_spot_check,
     run_jobs,
     run_news,
-    run_research_papers,
     run_startups_and_products,
 )
 from src.resolution.canonicalizer import EntityCanonicalizer
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(name)s: %(message)s")
-logger = logging.getLogger("run_all")
+logger = logging.getLogger("run_fast")
 
 
 async def main():
@@ -44,10 +45,6 @@ async def main():
     substitution_notes: list[tuple[str, str]] = []
 
     async with httpx.AsyncClient(follow_redirects=True) as client:
-        # Startups/Products and News/Jobs are independent of each other
-        # and of the (slow) arXiv+GitHub pipeline, so run them
-        # concurrently; each source internally respects its own rate
-        # limit via asyncio.sleep between its own requests.
         (startups, products), (news_records, news_subs), (job_records, job_subs) = await asyncio.gather(
             run_startups_and_products(client, resolver),
             run_news(client),
@@ -56,26 +53,20 @@ async def main():
         substitution_notes.extend(news_subs)
         substitution_notes.extend(job_subs)
 
-        # GitHub enrichment is itself rate-limited to ~30 req/min on its
-        # search endpoint; running it concurrently with the above would
-        # only add contention, not speed, so it runs after.
-        paper_records = await run_research_papers(client)
-
     entity_log = resolver.export_log()
 
-    logger.info("=== Writing outputs ===")
+    logger.info("=== Writing outputs (startups/products/jobs/news/entity_mapping_log only) ===")
     OUTPUT_DIR.mkdir(exist_ok=True)
     summaries = {
         "startups": validate_and_write("startups", startups, OUTPUT_DIR),
         "products": validate_and_write("products", products, OUTPUT_DIR),
-        "research_papers": validate_and_write("research_papers", paper_records, OUTPUT_DIR),
         "jobs": validate_and_write("jobs", job_records, OUTPUT_DIR),
         "news": validate_and_write("news", news_records, OUTPUT_DIR),
         "entity_mapping_log": write_plain_dicts("entity_mapping_log", entity_log, OUTPUT_DIR),
     }
 
     print("\n" + "=" * 70)
-    print("FINAL SUMMARY")
+    print("FAST PATH SUMMARY (research_papers.* untouched — see run_papers.py)")
     print("=" * 70)
     for name, summary in summaries.items():
         print(f"  {name:20s} total={summary['total']:5d}  valid={summary['valid']:5d}  rejected={summary['rejected']:4d}")
@@ -85,19 +76,18 @@ async def main():
         for name, reason in substitution_notes:
             print(f"  - {name}: {reason}")
     else:
-        print("\nNo source substitutions were necessary — all TRD-listed sources verified live.")
+        print("\nNo source substitutions were necessary.")
 
-    print("\nSpot-checking ~5 random source.url values per entity type:")
+    print("\nSpot-checking source.url values:")
     print_spot_check("startups", [r.source.url for r in startups], "ycombinator.com")
     print_spot_check("products", [r.source.url for r in products], "ycombinator.com")
-    print_spot_check("research_papers", [r.source.url for r in paper_records], "arxiv.org")
     print_spot_check("jobs", [r.source.url for r in job_records])
     print_spot_check("news", [r.source.url for r in news_records])
 
-    if not (startups and products and paper_records and job_records):
+    if not (startups and products and job_records):
         print("\n** WARNING: one or more entity types produced zero records. **")
 
-    print("\nRun complete.")
+    print("\nFast path run complete.")
 
 
 if __name__ == "__main__":
