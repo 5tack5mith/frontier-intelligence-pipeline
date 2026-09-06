@@ -1,0 +1,426 @@
+{"raw_name": "Cruise", "canonical_name": "Cruise", "source_record_id": "yc-590", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Casetext", "canonical_name": "Casetext", "source_record_id": "yc-542", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Checkr", "canonical_name": "Checkr", "source_record_id": "yc-662", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Caper", "canonical_name": "Caper", "source_record_id": "yc-1058", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Podium", "canonical_name": "Podium", "source_record_id": "yc-1042", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Scale AI", "canonical_name": "Scale AI", "source_record_id": "yc-1294", "match_method": "exact", "confidence": null}
+{"raw_name": "Daily", "canonical_name": "Daily", "source_record_id": "yc-996", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "iSono Health", "canonical_name": "iSono Health", "source_record_id": "yc-988", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Deepgram", "canonical_name": "Deepgram", "source_record_id": "yc-977", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Microhealth", "canonical_name": "Microhealth", "source_record_id": "yc-923", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "SnapMagic", "canonical_name": "SnapMagic", "source_record_id": "yc-878", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Mashgin", "canonical_name": "Mashgin", "source_record_id": "yc-856", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Tara AI", "canonical_name": "Mistral AI", "source_record_id": "yc-848", "match_method": "fuzzy", "confidence": 85.5}
+{"raw_name": "Resolve", "canonical_name": "Resolve", "source_record_id": "yc-797", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Zeitview", "canonical_name": "Zeitview", "source_record_id": "yc-762", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Akido Labs", "canonical_name": "Akido Labs", "source_record_id": "yc-748", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Qventus", "canonical_name": "Qventus", "source_record_id": "yc-740", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "OpenCurriculum", "canonical_name": "OpenCurriculum", "source_record_id": "yc-642", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "MixerBox", "canonical_name": "MixerBox", "source_record_id": "yc-641", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "CareMessage", "canonical_name": "CareMessage", "source_record_id": "yc-577", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "RADAR", "canonical_name": "RADAR", "source_record_id": "yc-493", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Plivo", "canonical_name": "Plivo", "source_record_id": "yc-464", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Redoubt Insurance", "canonical_name": "Redoubt Insurance", "source_record_id": "yc-37600", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "antimattr", "canonical_name": "antimattr", "source_record_id": "yc-36348", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Dreamscale Labs", "canonical_name": "Scale AI", "source_record_id": "yc-35850", "match_method": "fuzzy", "confidence": 90.0}
+{"raw_name": "Vorelios", "canonical_name": "Vorelios", "source_record_id": "yc-35784", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Workers IO", "canonical_name": "Workers IO", "source_record_id": "yc-35395", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Hopper", "canonical_name": "Hopper", "source_record_id": "yc-35265", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "OnePatch", "canonical_name": "OnePatch", "source_record_id": "yc-35260", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Nodus Compute", "canonical_name": "Nodus Compute", "source_record_id": "yc-35257", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Lantern AI", "canonical_name": "Meta AI", "source_record_id": "yc-35190", "match_method": "fuzzy", "confidence": 85.5}
+{"raw_name": "Forward", "canonical_name": "Forward", "source_record_id": "yc-35094", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Qokedas", "canonical_name": "Qokedas", "source_record_id": "yc-34794", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Veeza AI", "canonical_name": "Mistral AI", "source_record_id": "yc-34761", "match_method": "fuzzy", "confidence": 85.5}
+{"raw_name": "Simulithic", "canonical_name": "Simulithic", "source_record_id": "yc-34629", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Sentient OS", "canonical_name": "Sentient OS", "source_record_id": "yc-34597", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "herdr", "canonical_name": "herdr", "source_record_id": "yc-34464", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Lambda Robotics", "canonical_name": "Lambda", "source_record_id": "yc-34365", "match_method": "fuzzy", "confidence": 90.0}
+{"raw_name": "OpenTag", "canonical_name": "OpenTag", "source_record_id": "yc-33969", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Conifer", "canonical_name": "Conifer", "source_record_id": "yc-33936", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Simantic", "canonical_name": "Simantic", "source_record_id": "yc-33838", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Experiential Labs", "canonical_name": "ElevenLabs", "source_record_id": "yc-33806", "match_method": "fuzzy", "confidence": 85.5}
+{"raw_name": "CoArena", "canonical_name": "CoArena", "source_record_id": "yc-33738", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Magma", "canonical_name": "Magma", "source_record_id": "yc-33639", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Billow AI Labs", "canonical_name": "OpenAI", "source_record_id": "yc-33606", "match_method": "fuzzy", "confidence": 85.5}
+{"raw_name": "hardware intelligence", "canonical_name": "hardware intelligence", "source_record_id": "yc-33573", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Osseus", "canonical_name": "Osseus", "source_record_id": "yc-33540", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Allia Health", "canonical_name": "Allia Health", "source_record_id": "yc-33441", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Robocurve", "canonical_name": "Robocurve", "source_record_id": "yc-33349", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "hiloop", "canonical_name": "hiloop", "source_record_id": "yc-33348", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Dawn Industries", "canonical_name": "Dawn Industries", "source_record_id": "yc-33344", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "OneCLI", "canonical_name": "OneCLI", "source_record_id": "yc-33320", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Wondering", "canonical_name": "Wondering", "source_record_id": "yc-33317", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Tracer", "canonical_name": "Tracer", "source_record_id": "yc-33316", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Locke", "canonical_name": "Locke", "source_record_id": "yc-33283", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Florin", "canonical_name": "Florin", "source_record_id": "yc-33282", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Hebbian Robotics", "canonical_name": "Hebbian Robotics", "source_record_id": "yc-33279", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "PRINCEPS", "canonical_name": "PRINCEPS", "source_record_id": "yc-33278", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Agent FM", "canonical_name": "Agent FM", "source_record_id": "yc-33250", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "OpenRelay", "canonical_name": "OpenRelay", "source_record_id": "yc-33249", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Dock", "canonical_name": "Dock", "source_record_id": "yc-33248", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Verdict Machine", "canonical_name": "Verdict Machine", "source_record_id": "yc-33179", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "TovenAI", "canonical_name": "TovenAI", "source_record_id": "yc-33178", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "HyperProbe", "canonical_name": "HyperProbe", "source_record_id": "yc-33177", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Skymerse", "canonical_name": "Skymerse", "source_record_id": "yc-33111", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Palisade", "canonical_name": "Palisade", "source_record_id": "yc-33059", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "83 Sciences", "canonical_name": "83 Sciences", "source_record_id": "yc-33056", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Lamb Labs", "canonical_name": "Lambda", "source_record_id": "yc-33054", "match_method": "fuzzy", "confidence": 90.0}
+{"raw_name": "Mireye", "canonical_name": "Mireye", "source_record_id": "yc-33052", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Touchy", "canonical_name": "Touchy", "source_record_id": "yc-33051", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Pennant", "canonical_name": "Pennant", "source_record_id": "yc-33048", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Decawork", "canonical_name": "Decawork", "source_record_id": "yc-33047", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "CarSignal", "canonical_name": "CarSignal", "source_record_id": "yc-33046", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Axelrod", "canonical_name": "Axelrod", "source_record_id": "yc-33045", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Care GP", "canonical_name": "Care GP", "source_record_id": "yc-33021", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Agnost AI", "canonical_name": "Mistral AI", "source_record_id": "yc-33019", "match_method": "fuzzy", "confidence": 85.5}
+{"raw_name": "Gamgee", "canonical_name": "Gamgee", "source_record_id": "yc-33016", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Inkbox", "canonical_name": "Inkbox", "source_record_id": "yc-33014", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Familiar", "canonical_name": "Familiar", "source_record_id": "yc-32987", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Lumeria", "canonical_name": "Lumeria", "source_record_id": "yc-32985", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Marengo", "canonical_name": "Marengo", "source_record_id": "yc-32981", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Waybill", "canonical_name": "Waybill", "source_record_id": "yc-32948", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Executor", "canonical_name": "Executor", "source_record_id": "yc-32947", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Last Accounting Company", "canonical_name": "Last Accounting Company", "source_record_id": "yc-32914", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Pacific", "canonical_name": "Pacific", "source_record_id": "yc-32913", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Luca IQ", "canonical_name": "Luca IQ", "source_record_id": "yc-32848", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Financial Datasets", "canonical_name": "Financial Datasets", "source_record_id": "yc-32816", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Computable", "canonical_name": "Computable", "source_record_id": "yc-32814", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Denta", "canonical_name": "Denta", "source_record_id": "yc-32782", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Isengard Industries Inc", "canonical_name": "Isengard Industries Inc", "source_record_id": "yc-32781", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Moving Atoms", "canonical_name": "Moving Atoms", "source_record_id": "yc-32752", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Arbital", "canonical_name": "Arbital", "source_record_id": "yc-32749", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Neuromorphic", "canonical_name": "Neuromorphic", "source_record_id": "yc-32716", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "LATO", "canonical_name": "LATO", "source_record_id": "yc-32682", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Risklytics", "canonical_name": "Risklytics", "source_record_id": "yc-32650", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Daqstra", "canonical_name": "Daqstra", "source_record_id": "yc-32649", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Tenor", "canonical_name": "Tenor", "source_record_id": "yc-32627", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Qlo", "canonical_name": "Qlo", "source_record_id": "yc-32625", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Fabraix", "canonical_name": "Fabraix", "source_record_id": "yc-32624", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Omanta", "canonical_name": "Omanta", "source_record_id": "yc-32623", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Rational", "canonical_name": "Rational", "source_record_id": "yc-32622", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Vendo", "canonical_name": "Vendo", "source_record_id": "yc-32620", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Akon Labs", "canonical_name": "Akido Labs", "source_record_id": "yc-32619", "match_method": "fuzzy", "confidence": 84.21052631578947}
+{"raw_name": "Click", "canonical_name": "Click", "source_record_id": "yc-32618", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Whitespace", "canonical_name": "Whitespace", "source_record_id": "yc-32617", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Almanac", "canonical_name": "Almanac", "source_record_id": "yc-32588", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Ooak Data", "canonical_name": "Ooak Data", "source_record_id": "yc-32554", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Bloomy", "canonical_name": "Bloomy", "source_record_id": "yc-32551", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Pluto", "canonical_name": "Pluto", "source_record_id": "yc-32526", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Stratum Industries", "canonical_name": "Stratum Industries", "source_record_id": "yc-32523", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Standard Machines", "canonical_name": "Standard Machines", "source_record_id": "yc-32517", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Traceforce", "canonical_name": "Traceforce", "source_record_id": "yc-32418", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Callbook AI", "canonical_name": "OpenAI", "source_record_id": "yc-32288", "match_method": "fuzzy", "confidence": 85.5}
+{"raw_name": "Definite", "canonical_name": "Definite", "source_record_id": "yc-32286", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Alkera AI", "canonical_name": "Mistral AI", "source_record_id": "yc-32262", "match_method": "fuzzy", "confidence": 85.5}
+{"raw_name": "Rasyn", "canonical_name": "Rasyn", "source_record_id": "yc-32261", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "screenpipe", "canonical_name": "screenpipe", "source_record_id": "yc-32259", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Zaplar", "canonical_name": "Zaplar", "source_record_id": "yc-32256", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Prodigy Research", "canonical_name": "Prodigy Research", "source_record_id": "yc-32254", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Touchmark", "canonical_name": "Touchmark", "source_record_id": "yc-32253", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Exosat", "canonical_name": "Exosat", "source_record_id": "yc-32233", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Context.dev", "canonical_name": "Context.dev", "source_record_id": "yc-32227", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Glen", "canonical_name": "Glean", "source_record_id": "yc-32226", "match_method": "fuzzy", "confidence": 88.88888888888889}
+{"raw_name": "Stoa", "canonical_name": "Stoa", "source_record_id": "yc-32225", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Marble", "canonical_name": "Marble", "source_record_id": "yc-32223", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Audun", "canonical_name": "Audun", "source_record_id": "yc-32222", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Grocalo", "canonical_name": "Grocalo", "source_record_id": "yc-32221", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "COACH", "canonical_name": "COACH", "source_record_id": "yc-32220", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "DeepReach Inc.", "canonical_name": "DeepReach Inc.", "source_record_id": "yc-32206", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "MOCHI.TV", "canonical_name": "MOCHI.TV", "source_record_id": "yc-32205", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Alloovium", "canonical_name": "Alloovium", "source_record_id": "yc-32204", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Mosaic", "canonical_name": "Mosaic", "source_record_id": "yc-32201", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Bizmark", "canonical_name": "Bizmark", "source_record_id": "yc-32200", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Riften", "canonical_name": "Riften", "source_record_id": "yc-32198", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Buildbox", "canonical_name": "Buildbox", "source_record_id": "yc-32197", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "RealPact", "canonical_name": "RealPact", "source_record_id": "yc-32195", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "GUILD", "canonical_name": "GUILD", "source_record_id": "yc-32194", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Instaplay", "canonical_name": "Instaplay", "source_record_id": "yc-32190", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "IMPACT Drones", "canonical_name": "IMPACT Drones", "source_record_id": "yc-32188", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Insurf", "canonical_name": "Insurf", "source_record_id": "yc-32187", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Jcode", "canonical_name": "Jcode", "source_record_id": "yc-32172", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "LemonLime", "canonical_name": "LemonLime", "source_record_id": "yc-32171", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Speko", "canonical_name": "Speko", "source_record_id": "yc-32169", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Synapse Semiconductor", "canonical_name": "Synapse Semiconductor", "source_record_id": "yc-32168", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Understudy Labs", "canonical_name": "Modal", "source_record_id": "yc-32167", "match_method": "fuzzy", "confidence": 85.5}
+{"raw_name": "Studio", "canonical_name": "Studio", "source_record_id": "yc-32162", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Bernard", "canonical_name": "Bernard", "source_record_id": "yc-32161", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Maingen", "canonical_name": "Maingen", "source_record_id": "yc-32157", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Enact", "canonical_name": "Enact", "source_record_id": "yc-32156", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Rex", "canonical_name": "Brex", "source_record_id": "yc-32155", "match_method": "fuzzy", "confidence": 90.0}
+{"raw_name": "Zomma", "canonical_name": "Zomma", "source_record_id": "yc-32154", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Nebula Security", "canonical_name": "Nebula Security", "source_record_id": "yc-32138", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Palisade", "canonical_name": "Palisade", "source_record_id": "yc-32136", "match_method": "exact", "confidence": null}
+{"raw_name": "Trope", "canonical_name": "Trope", "source_record_id": "yc-32135", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Parasma", "canonical_name": "Parasma", "source_record_id": "yc-32134", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Olam Labs", "canonical_name": "Olam Labs", "source_record_id": "yc-32130", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Egoist Machines", "canonical_name": "Egoist Machines", "source_record_id": "yc-32129", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Perceptron ML", "canonical_name": "Perceptron ML", "source_record_id": "yc-32127", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Erinys", "canonical_name": "Erinys", "source_record_id": "yc-32124", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Donkey", "canonical_name": "Donkey", "source_record_id": "yc-32122", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Hoplite", "canonical_name": "Hoplite", "source_record_id": "yc-32089", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Pango", "canonical_name": "Pango", "source_record_id": "yc-31989", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Torus", "canonical_name": "Torus", "source_record_id": "yc-31858", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Kebra", "canonical_name": "Kebra", "source_record_id": "yc-31825", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "GitCafe", "canonical_name": "GitCafe", "source_record_id": "yc-31592", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Rindler", "canonical_name": "Rindler", "source_record_id": "yc-31570", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Proprio Robotics", "canonical_name": "Proprio Robotics", "source_record_id": "yc-31569", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Amorphic Labs", "canonical_name": "Amorphic Labs", "source_record_id": "yc-31557", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "rekursiv.ai", "canonical_name": "rekursiv.ai", "source_record_id": "yc-31555", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Playabl.ai", "canonical_name": "Playabl.ai", "source_record_id": "yc-31550", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Enjamb Labs", "canonical_name": "Enjamb Labs", "source_record_id": "yc-31549", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Trident", "canonical_name": "Trident", "source_record_id": "yc-31537", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Revnu", "canonical_name": "Revnu", "source_record_id": "yc-31527", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Uno Wallet", "canonical_name": "Uno Wallet", "source_record_id": "yc-31526", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Tolmo", "canonical_name": "Tolmo", "source_record_id": "yc-31506", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Pops", "canonical_name": "Pops", "source_record_id": "yc-31480", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Armature", "canonical_name": "Armature", "source_record_id": "yc-31463", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Collar", "canonical_name": "Collar", "source_record_id": "yc-31461", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Degla Inc", "canonical_name": "Degla Inc", "source_record_id": "yc-31452", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Archer", "canonical_name": "Archer", "source_record_id": "yc-31451", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Infera", "canonical_name": "Infera", "source_record_id": "yc-31441", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Keyframe Labs", "canonical_name": "Keyframe Labs", "source_record_id": "yc-31432", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Ontora", "canonical_name": "Ontora", "source_record_id": "yc-31428", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Lab0", "canonical_name": "Lab0", "source_record_id": "yc-31424", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Kimpton", "canonical_name": "Kimpton", "source_record_id": "yc-31420", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "StableBrowse", "canonical_name": "StableBrowse", "source_record_id": "yc-31419", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Userlens", "canonical_name": "Userlens", "source_record_id": "yc-31404", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Superlog", "canonical_name": "Superlog", "source_record_id": "yc-31380", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "GodHands", "canonical_name": "GodHands", "source_record_id": "yc-31378", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Light Anchor", "canonical_name": "Light Anchor", "source_record_id": "yc-31376", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Hub", "canonical_name": "Hub", "source_record_id": "yc-31375", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Zenbu", "canonical_name": "Zenbu", "source_record_id": "yc-31368", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Discovered Materials", "canonical_name": "Discovered Materials", "source_record_id": "yc-31362", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Twolabs", "canonical_name": "Twolabs", "source_record_id": "yc-31359", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Marker", "canonical_name": "Marker", "source_record_id": "yc-31352", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Palette", "canonical_name": "Palette", "source_record_id": "yc-31349", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Multiplier", "canonical_name": "Multiplier", "source_record_id": "yc-31343", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Osmaura", "canonical_name": "Osmaura", "source_record_id": "yc-31342", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Most Robotic", "canonical_name": "Most Robotic", "source_record_id": "yc-31341", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Illume Labs", "canonical_name": "Illume Labs", "source_record_id": "yc-31340", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Superchat", "canonical_name": "Superchat", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/superchat/tech-lead-berlin-berlin-420831", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "gropyus", "canonical_name": "gropyus", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/gropyus/senior-architektin-lp2-lp4-befristet-bis-juli-2027-berlin-berlin-245212", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "mewssystems", "canonical_name": "mewssystems", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/mewssystems/director-of-product-marketing-and-market-research-381380", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Prior Labs", "canonical_name": "Prior Labs", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/prior-labs/technical-product-manager-integrations-berlin-379113", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Hypertrics GmbH", "canonical_name": "Hypertrics GmbH", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/hypertrics-gmbh/softwareentwickler-schutterwald-95592", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Norman AI GmbH", "canonical_name": "OpenAI", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/norman-ai-gmbh/customer-success-manager-berlin-250802", "match_method": "fuzzy", "confidence": 85.5}
+{"raw_name": "idealo internet GmbH", "canonical_name": "idealo internet GmbH", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/senior-performance-marketing-manager-mwd-css-berlin-73910", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Allbranded", "canonical_name": "Allbranded", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/allbranded/senior-seo-onsite-manager-befristet-elternzeitvertretung-all-genders-hamburg-288975", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "360T", "canonical_name": "360T", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/360t/data-protection-officer-deputy-frankfurt-am-main-208223", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Aer Group", "canonical_name": "Aer Group", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/aer-group/senior-devops-engineer-berlin-boppstr-258760", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Hypatos Gmbh", "canonical_name": "idealo internet GmbH", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/hypatos-gmbh/working-student-it-germany-berlin-392490", "match_method": "fuzzy", "confidence": 85.5}
+{"raw_name": "TWAICE", "canonical_name": "TWAICE", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/twaice/working-student-accounting-finance-munich-hybrid-314557", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Xempus AG", "canonical_name": "Xempus AG", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/xempus-ag/senior-java-engineer-munchen-171261", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "RedMimicry GmbH", "canonical_name": "RedMimicry GmbH", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/redmimicry-gmbh/software-developer-go-security-analytics-berlin-146655", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "sumup", "canonical_name": "sumup", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/sumup/senior-embedded-software-engineer-hardware-berlin-470158", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "jetbrains", "canonical_name": "jetbrains", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/jetbrains/remote-staff-software-developer-iam-383896", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "jetbrains", "canonical_name": "jetbrains", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/jetbrains/remote-developer-advocate-database-472871", "match_method": "exact", "confidence": null}
+{"raw_name": "hellofresh", "canonical_name": "hellofresh", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/hellofresh/senior-product-manager-ii-consumer-all-genders-berlin-berlin-215795", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "hellofresh", "canonical_name": "hellofresh", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/hellofresh/senior-data-platform-engineer-intelligent-platforms-all-genders-berlin-berlin-372321", "match_method": "exact", "confidence": null}
+{"raw_name": "Heavenhr", "canonical_name": "Heavenhr", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/heavenhr/sales-manager-software-vertrieb-berlin-104195", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "KoRo Handels GmbH", "canonical_name": "KoRo Handels GmbH", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/koro-handels-gmbh/senior-product-manager-outbound-logistics-returns-berlin-242768", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "KoRo Handels GmbH", "canonical_name": "KoRo Handels GmbH", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/koro-handels-gmbh/director-supply-chain-planning-berlin-218210", "match_method": "exact", "confidence": null}
+{"raw_name": "Platoapp", "canonical_name": "LATO", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/platoapp/founding-gtm-engineer-berlin-490106", "match_method": "fuzzy", "confidence": 90.0}
+{"raw_name": "Wvm Immobilien Projektentwicklung Gmbh", "canonical_name": "Hypertrics GmbH", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/wvm-immobilien-projektentwicklung-gmbh/werkstudent-im-unternehmensmarketing-wvm-koln-444640", "match_method": "fuzzy", "confidence": 85.5}
+{"raw_name": "Become 1 Gmbh", "canonical_name": "idealo internet GmbH", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/become-1-gmbh/werkstudent-operations-heidelberg-320796", "match_method": "fuzzy", "confidence": 85.5}
+{"raw_name": "Zebragroup", "canonical_name": "Zebragroup", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/zebragroup/senior-online-marketing-manager-fokus-media-und-performance-dresden-498805", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Webgo Gmbh", "canonical_name": "Hypertrics GmbH", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/webgo-gmbh/senior-system-engineer-infrastructure-specialist-hamburg-372682", "match_method": "fuzzy", "confidence": 85.5}
+{"raw_name": "Pmone", "canonical_name": "Pmone", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/pmone/senior-managing-consultant-data-analytics-munchen-89412", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Neuplaner", "canonical_name": "Neuplaner", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/neuplaner/praktikant-werkstudent-im-ma-investment-team-berlin-165457", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Neuplaner", "canonical_name": "Neuplaner", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/neuplaner/praktikant-werkstudent-im-group-transformation-team-berlin-302552", "match_method": "exact", "confidence": null}
+{"raw_name": "IP Dynamics GmbH", "canonical_name": "IP Dynamics GmbH", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/ip-dynamics-gmbh/cloud-platform-engineer-stuttgart-174177", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "IP Dynamics GmbH", "canonical_name": "IP Dynamics GmbH", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/ip-dynamics-gmbh/cloud-platform-engineer-hannover-397327", "match_method": "exact", "confidence": null}
+{"raw_name": "Lpe Immobilien Management Gmbh", "canonical_name": "Hypertrics GmbH", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/lpe-immobilien-management-gmbh/immobilienmakler-schwerpunkt-vermietung-werkstudent-oder-teilzeit-munchen-220652", "match_method": "fuzzy", "confidence": 85.5}
+{"raw_name": "Tractebel", "canonical_name": "Tractebel", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/tractebel/senior-projektleitung-wasserbau-kusteningenieurwesen-hamburg-gotenstrasse-461784", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Deltavision", "canonical_name": "Deltavision", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/deltavision/head-of-production-produktionsleiter-munchen-324031", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Deltavision", "canonical_name": "Deltavision", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/deltavision/fluidic-system-engineer-architect-munchen-235120", "match_method": "exact", "confidence": null}
+{"raw_name": "3St Kommunikation", "canonical_name": "3St Kommunikation", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/3st-kommunikation/senior-konzeptioner-gn-mainz-452683", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Yoursquares", "canonical_name": "Yoursquares", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/yoursquares/account-executive-berlin-251473", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Proglove", "canonical_name": "Proglove", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/proglove/senior-product-manager-software-solutions-munich-office-12203", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Nuuenergy", "canonical_name": "Nuuenergy", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/nuuenergy/praktikant-werkstudent-people-culture-munchen-330784", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Fraser Gmbh", "canonical_name": "idealo internet GmbH", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/fraser-gmbh/senior-finance-manager-all-genders-berlin-135153", "match_method": "fuzzy", "confidence": 85.5}
+{"raw_name": "Fraser Gmbh", "canonical_name": "idealo internet GmbH", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/fraser-gmbh/senior-accountant-30h-all-genders-berlin-267243", "match_method": "fuzzy", "confidence": 85.5}
+{"raw_name": "Hoppe Marine Gmbh", "canonical_name": "Hoppe Marine Gmbh", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/hoppe-marine-gmbh/software-developer-full-stack-hamburg-109254", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Talents2Germany GmbH", "canonical_name": "Talents2Germany GmbH", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/talents2germany-gmbh/senior-product-manager-markt-trendanalyse-plattform-frankfurt-am-main-334830", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Taxtalente.de", "canonical_name": "Taxtalente.de", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-eberswalde-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-234404", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Taxtalente.de", "canonical_name": "Taxtalente.de", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-oschatz-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-423248", "match_method": "exact", "confidence": null}
+{"raw_name": "Taxtalente.de", "canonical_name": "Taxtalente.de", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-ebelsbach-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-392573", "match_method": "exact", "confidence": null}
+{"raw_name": "Taxtalente.de", "canonical_name": "Taxtalente.de", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-ahausen-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-353346", "match_method": "exact", "confidence": null}
+{"raw_name": "Taxtalente.de", "canonical_name": "Taxtalente.de", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-eibenstock-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-214318", "match_method": "exact", "confidence": null}
+{"raw_name": "Taxtalente.de", "canonical_name": "Taxtalente.de", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-bottrop-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-362903", "match_method": "exact", "confidence": null}
+{"raw_name": "Taxtalente.de", "canonical_name": "Taxtalente.de", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-cottbus-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-379655", "match_method": "exact", "confidence": null}
+{"raw_name": "Taxtalente.de", "canonical_name": "Taxtalente.de", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-hoheinod-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-94312", "match_method": "exact", "confidence": null}
+{"raw_name": "toogoodtogo", "canonical_name": "toogoodtogo", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/toogoodtogo/global-director-of-logistics-fulfilment-berlin-berlin-88507", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "databricks", "canonical_name": "Databricks", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/databricks/staff-forward-deployed-engineer-berlin-munich-227443", "match_method": "exact", "confidence": null}
+{"raw_name": "wppmedia", "canonical_name": "wppmedia", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/wppmedia/werkstudent-mensch-markt-und-mediaforschung-dusseldorf-136743", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "wppmedia", "canonical_name": "wppmedia", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/wppmedia/senior-digital-media-planner-mensch-dusseldorf-335573", "match_method": "exact", "confidence": null}
+{"raw_name": "wppmedia", "canonical_name": "wppmedia", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/wppmedia/senior-digital-campaign-manager-mensch-dusseldorf-46365", "match_method": "exact", "confidence": null}
+{"raw_name": "wppmedia", "canonical_name": "wppmedia", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/wppmedia/senior-digital-campaign-manager-mensch-frankfurt-150884", "match_method": "exact", "confidence": null}
+{"raw_name": "Clovirtualfashion", "canonical_name": "Clovirtualfashion", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/clovirtualfashion/working-student-brand-communications-munich-284962", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Apex Ai", "canonical_name": "Mistral AI", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/apex-ai/software-engineer-software-platform-middleware-early-career-munich-409502", "match_method": "fuzzy", "confidence": 85.5}
+{"raw_name": "Apex Ai", "canonical_name": "Mistral AI", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/apex-ai/senior-software-engineer-software-platform-middleware-munich-251904", "match_method": "fuzzy", "confidence": 85.5}
+{"raw_name": "Apex Ai", "canonical_name": "Mistral AI", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/apex-ai/senior-application-engineer-munich-404648", "match_method": "fuzzy", "confidence": 85.5}
+{"raw_name": "Synvert", "canonical_name": "Synvert", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/synvert/senior-bid-pursuit-manager-proposal-manager-cloud-data-ai-consulting-hamburg-258249", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Shyftplan", "canonical_name": "Shyftplan", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/shyftplan/remote-werkstudent-vertrieb-stuttgart-411812", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "And E", "canonical_name": "Weights & Biases", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/and-e/werkstudent-marketing-digital-experiences-koln-247411", "match_method": "fuzzy", "confidence": 85.5}
+{"raw_name": "Tawo Gmbh", "canonical_name": "Hypertrics GmbH", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/tawo-gmbh/werkstudent-b2b-sales-berlin-472606", "match_method": "fuzzy", "confidence": 85.5}
+{"raw_name": "Probis Software Gmbh", "canonical_name": "Probis Software Gmbh", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/probis-software-gmbh/werkstudent-projektmanagement-operations-munchen-80459", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Athereon", "canonical_name": "Athereon", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/athereon/technical-project-manager-software-development-saarbrucken-384502", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Athereon", "canonical_name": "Athereon", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/athereon/senior-software-developer-frontend-react-saarbrucken-42438", "match_method": "exact", "confidence": null}
+{"raw_name": "Feld Energy", "canonical_name": "Feld Energy", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/feld-energy/talent-acquisition-manager-office-munchen-419040", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Feld Energy", "canonical_name": "Feld Energy", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/feld-energy/projektmanager-projektentwickler-pv-green-energy-office-munchen-120931", "match_method": "exact", "confidence": null}
+{"raw_name": "Syte Gmbh", "canonical_name": "Hypertrics GmbH", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/syte-gmbh/werkstudent-data-qa-algorithm-benchmarking-munster-166697", "match_method": "fuzzy", "confidence": 85.5}
+{"raw_name": "Simovative", "canonical_name": "Simovative", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/simovative/werkstudent-marketing-sales-b2b-software-munchen-central-tower-334369", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "celonis", "canonical_name": "celonis", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/celonis/lead-principal-deployment-engineer-munich-436883", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "celonis", "canonical_name": "celonis", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/celonis/lead-deployment-architect-munich-326905", "match_method": "exact", "confidence": null}
+{"raw_name": "gitlab", "canonical_name": "gitlab", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/gitlab/remote-strategic-account-executive-turkey-389960", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Zukunftsmotor Gmbh", "canonical_name": "Zukunftsmotor Gmbh", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/zukunftsmotor-gmbh/senior-program-operations-managerin-berlin-51712", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Zukunftsmotor Gmbh", "canonical_name": "Zukunftsmotor Gmbh", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/zukunftsmotor-gmbh/senior-course-operations-managerin-berlin-167926", "match_method": "exact", "confidence": null}
+{"raw_name": "Doo", "canonical_name": "Doo", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/doo/werkstudentin-finance-schwerpunkt-accounting-controlling-munchen-473621", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Esanum", "canonical_name": "Esanum", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/esanum/werkstudent-online-marketing-berlin-56419", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Avenit Ag", "canonical_name": "Avenit Ag", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/avenit-ag/remote-senior-software-engineer-fullstack-fur-ki-produkte-294858", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Pub Tech", "canonical_name": "Pub Tech", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/pub-tech/data-analyst-munchen-36665", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Snke", "canonical_name": "Snke", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/snke/senior-software-engineer-full-stack-healthcare-applications-munchen-41995", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Snke", "canonical_name": "Snke", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/snke/senior-machine-learning-engineer-video-ai-munchen-98891", "match_method": "exact", "confidence": null}
+{"raw_name": "Snke", "canonical_name": "Snke", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/snke/senior-accountant-voll-oder-teilzeit-munchen-481342", "match_method": "exact", "confidence": null}
+{"raw_name": "Real Digital", "canonical_name": "Real Digital", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-full-stack-engineer-all-genders-backend-or-frontend-focus-485295", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Real Digital", "canonical_name": "Real Digital", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-devops-engineer-all-genders-data-platform-426742", "match_method": "exact", "confidence": null}
+{"raw_name": "Real Digital", "canonical_name": "Real Digital", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-ux-researcher-all-genders-453027", "match_method": "exact", "confidence": null}
+{"raw_name": "Real Digital", "canonical_name": "Real Digital", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-business-automation-developer-all-genders-i-international-107411", "match_method": "exact", "confidence": null}
+{"raw_name": "Arculus", "canonical_name": "Arculus", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/arculus/infrastructure-engineer-deployments-munich-109466", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Sti", "canonical_name": "Sti", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/sti/senior-business-consultant-servicenow-mit-schwerpunkt-crm-csm-munchen-276065", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Simcon", "canonical_name": "Simcon", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/simcon/remote-werkstudentin-simulation-application-engineering-119465", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Oh So", "canonical_name": "Oh So", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/oh-so/senior-product-owner-program-manager-hamburg-333911", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Zvoove", "canonical_name": "Zvoove", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/zvoove/senior-ai-native-fullstack-engineer-de-munchen-265224", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Peakpeak", "canonical_name": "Peakpeak", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/peakpeak/senior-salesforce-developer-german-speaking-berlin-germany-454637", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Friendventure", "canonical_name": "Friendventure", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/friendventure/senior-social-media-video-editor-berlin-33204", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Friendventure", "canonical_name": "Friendventure", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/friendventure/senior-social-media-video-editor-koln-212219", "match_method": "exact", "confidence": null}
+{"raw_name": "Friendventure", "canonical_name": "Friendventure", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/friendventure/senior-account-manager-berlin-440633", "match_method": "exact", "confidence": null}
+{"raw_name": "Friendventure", "canonical_name": "Friendventure", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/friendventure/senior-account-manager-koln-301020", "match_method": "exact", "confidence": null}
+{"raw_name": "autoscout24", "canonical_name": "autoscout24", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/autoscout24/senior-sales-analyst-460456", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Sungrow Emea", "canonical_name": "Sungrow Emea", "source_record_id": "Arbeitnow-https://www.arbeitnow.co.uk/jobs/companies/sungrow-emea/senior-om-asset-manager-europe-uk-london-292920", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Lab54 LTD", "canonical_name": "Lab54 LTD", "source_record_id": "Arbeitnow-https://www.arbeitnow.co.uk/jobs/companies/lab54-ltd/bookkeeper-london-339192", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Apothecom", "canonical_name": "Apothecom", "source_record_id": "Arbeitnow-https://www.arbeitnow.co.uk/jobs/companies/apothecom/senior-medical-writer-london-485009", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Anaplan", "canonical_name": "Anaplan", "source_record_id": "Arbeitnow-https://www.arbeitnow.co.uk/jobs/companies/anaplan/associate-backend-software-engineer-python-manchester-430147", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Harvey", "canonical_name": "Harvey AI", "source_record_id": "Arbeitnow-https://www.arbeitnow.co.uk/jobs/companies/harvey/head-of-mid-market-sales-london-301941", "match_method": "exact", "confidence": null}
+{"raw_name": "LangChain", "canonical_name": "LangChain", "source_record_id": "Arbeitnow-https://www.arbeitnow.co.uk/jobs/companies/langchain/commercial-account-executive-uk-london-249058", "match_method": "exact", "confidence": null}
+{"raw_name": "Schnell Global", "canonical_name": "Schnell Global", "source_record_id": "Arbeitnow-https://www.arbeitnow.co.uk/jobs/companies/schnell-global/long-term-youtube-host-on-camera-presenter-london-184975", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Blab", "canonical_name": "Blab", "source_record_id": "Arbeitnow-https://www.arbeitnow.co.uk/jobs/companies/blab/data-governance-lead-sao-paulo-brasil-london-190716", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Blab", "canonical_name": "Blab", "source_record_id": "Arbeitnow-https://www.arbeitnow.co.uk/jobs/companies/blab/data-governance-lead-london-uk-214565", "match_method": "exact", "confidence": null}
+{"raw_name": "Blab", "canonical_name": "Blab", "source_record_id": "Arbeitnow-https://www.arbeitnow.co.uk/jobs/companies/blab/data-governance-lead-amsterdam-nld-london-49939", "match_method": "exact", "confidence": null}
+{"raw_name": "Heidi", "canonical_name": "Heidi", "source_record_id": "Arbeitnow-https://www.arbeitnow.co.uk/jobs/companies/heidi/finance-manager-london-23431", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Omaze", "canonical_name": "Omaze", "source_record_id": "Arbeitnow-https://www.arbeitnow.co.uk/jobs/companies/omaze/general-manager-new-product-london-380786", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Illumio", "canonical_name": "Illumio", "source_record_id": "Arbeitnow-https://www.arbeitnow.co.uk/jobs/companies/illumio/remote-digital-marketing-manager-emea-apac-53593", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Watershed", "canonical_name": "Watershed", "source_record_id": "Arbeitnow-https://www.arbeitnow.co.uk/jobs/companies/watershed/account-executive-enterprise-northern-europe-london-475191", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Perk", "canonical_name": "Perk", "source_record_id": "Arbeitnow-https://www.arbeitnow.co.uk/jobs/companies/perk/senior-frontend-engineer-london-423081", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Perk", "canonical_name": "Perk", "source_record_id": "Arbeitnow-https://www.arbeitnow.co.uk/jobs/companies/perk/director-of-go-to-market-engineering-london-457240", "match_method": "exact", "confidence": null}
+{"raw_name": "Checkout.com", "canonical_name": "Checkout.com", "source_record_id": "Arbeitnow-https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/principal-ceo-office-london-14315", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Pno Group Europe", "canonical_name": "Aer Group", "source_record_id": "Arbeitnow-https://www.arbeitnow.co.uk/jobs/companies/pno-group-europe/senior-innovation-consultant-uk-450905", "match_method": "fuzzy", "confidence": 85.5}
+{"raw_name": "Everway", "canonical_name": "Everway", "source_record_id": "Arbeitnow-https://www.arbeitnow.co.uk/jobs/companies/everway/senior-product-designer-21354", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Wppproduction", "canonical_name": "Wppproduction", "source_record_id": "Arbeitnow-https://www.arbeitnow.co.uk/jobs/companies/wppproduction/senior-account-manager-4-month-ftc-watford-456436", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Form3", "canonical_name": "Form3", "source_record_id": "Arbeitnow-https://www.arbeitnow.co.uk/jobs/companies/form3/senior-software-engineer-go-402117", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Airwallex", "canonical_name": "Airwallex", "source_record_id": "Arbeitnow-https://www.arbeitnow.co.uk/jobs/companies/airwallex/account-manager-enterprise-london-140046", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Guidepoint", "canonical_name": "Guidepoint", "source_record_id": "Arbeitnow-https://www.arbeitnow.co.uk/jobs/companies/guidepoint/product-manager-ai-product-engineering-london-227150", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Excelgens Consulting Sverige Ab", "canonical_name": "Excelgens Consulting Sverige Ab", "source_record_id": "Arbeitnow-https://www.arbeitnow.co.uk/jobs/companies/excelgens-consulting-sverige-ab/axiomsl-implementation-consultant-london-425025", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Alphasense", "canonical_name": "Alphasense", "source_record_id": "Arbeitnow-https://www.arbeitnow.co.uk/jobs/companies/alphasense/account-executive-high-growth-london-greater-london-19410", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Graphcore", "canonical_name": "Graphcore", "source_record_id": "Arbeitnow-https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-systems-engineer-bristol-461847", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Graphcore", "canonical_name": "Graphcore", "source_record_id": "Arbeitnow-https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-software-engineer-cambridge-296220", "match_method": "exact", "confidence": null}
+{"raw_name": "Addepar1", "canonical_name": "Addepar1", "source_record_id": "Arbeitnow-https://www.arbeitnow.co.uk/jobs/companies/addepar1/sr-software-engineer-investor-solutions-edinburgh-383916", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Addepar1", "canonical_name": "Addepar1", "source_record_id": "Arbeitnow-https://www.arbeitnow.co.uk/jobs/companies/addepar1/sr-software-engineer-ai-ml-ai-platform-london-276160", "match_method": "exact", "confidence": null}
+{"raw_name": "Legora", "canonical_name": "Legora", "source_record_id": "Arbeitnow-https://www.arbeitnow.co.uk/jobs/companies/legora/value-engineer-london-3330", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Wordsmith", "canonical_name": "Wordsmith", "source_record_id": "Arbeitnow-https://www.arbeitnow.co.uk/jobs/companies/wordsmith/sales-development-representative-sdr-edinburgh-307356", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Wundermanthompson", "canonical_name": "Wundermanthompson", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/wundermanthompson/senior-manager-martech-sales-oriented-paris-54368", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Wundermanthompson", "canonical_name": "Wundermanthompson", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/wundermanthompson/head-of-b2b-energy-f-h-senior-manager-paris-112873", "match_method": "exact", "confidence": null}
+{"raw_name": "Wundermanthompson", "canonical_name": "Wundermanthompson", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/wundermanthompson/consultante-senior-transformation-marketing-experience-client-paris-156346", "match_method": "exact", "confidence": null}
+{"raw_name": "Wundermanthompson", "canonical_name": "Wundermanthompson", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/wundermanthompson/consultant-developpeur-marketing-technology-crm-data-3-a-5-ans-dexperience-paris-120031", "match_method": "exact", "confidence": null}
+{"raw_name": "Wundermanthompson", "canonical_name": "Wundermanthompson", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/wundermanthompson/consultant-data-analyst-marketing-f-h-paris-81857", "match_method": "exact", "confidence": null}
+{"raw_name": "Wundermanthompson", "canonical_name": "Wundermanthompson", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/wundermanthompson/account-director-paris-300821", "match_method": "exact", "confidence": null}
+{"raw_name": "Cartesia", "canonical_name": "Cartesia", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/cartesia/remote-language-lead-french-contract-424959", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Cartesia", "canonical_name": "Cartesia", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/cartesia/remote-language-lead-japanese-contract-216713", "match_method": "exact", "confidence": null}
+{"raw_name": "Cartesia", "canonical_name": "Cartesia", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/cartesia/remote-language-lead-hindi-contract-151288", "match_method": "exact", "confidence": null}
+{"raw_name": "Cartesia", "canonical_name": "Cartesia", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/cartesia/remote-language-lead-english-contract-352989", "match_method": "exact", "confidence": null}
+{"raw_name": "Deliveroo", "canonical_name": "Deliveroo", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/deliveroo/head-of-partner-marketing-france-paris-51549", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Deliveroo", "canonical_name": "Deliveroo", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/deliveroo/account-manager-groceries-retail-paris-31060", "match_method": "exact", "confidence": null}
+{"raw_name": "Deliveroo", "canonical_name": "Deliveroo", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/deliveroo/general-assistant-cdd-35h-st-ouen-372712", "match_method": "exact", "confidence": null}
+{"raw_name": "Deliveroo", "canonical_name": "Deliveroo", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/deliveroo/business-development-manager-strasbourg-97916", "match_method": "exact", "confidence": null}
+{"raw_name": "Deliveroo", "canonical_name": "Deliveroo", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/deliveroo/business-development-manager-lyon-400262", "match_method": "exact", "confidence": null}
+{"raw_name": "Deliveroo", "canonical_name": "Deliveroo", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/deliveroo/business-development-manager-paris-cdd-6-mois-455063", "match_method": "exact", "confidence": null}
+{"raw_name": "Deliveroo", "canonical_name": "Deliveroo", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/deliveroo/senior-social-media-manager-france-paris-271102", "match_method": "exact", "confidence": null}
+{"raw_name": "Deliveroo", "canonical_name": "Deliveroo", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/deliveroo/business-development-manager-montpellier-cdi-paris-65964", "match_method": "exact", "confidence": null}
+{"raw_name": "Deliveroo", "canonical_name": "Deliveroo", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/deliveroo/account-manager-paris-cdi-342766", "match_method": "exact", "confidence": null}
+{"raw_name": "Deliveroo", "canonical_name": "Deliveroo", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/deliveroo/operations-manager-paris-311884", "match_method": "exact", "confidence": null}
+{"raw_name": "Deliveroo", "canonical_name": "Deliveroo", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/deliveroo/account-manager-paris-9850", "match_method": "exact", "confidence": null}
+{"raw_name": "Deliveroo", "canonical_name": "Deliveroo", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/deliveroo/local-lead-creative-campaigns-8-month-ftc-paris-390979", "match_method": "exact", "confidence": null}
+{"raw_name": "Deliveroo", "canonical_name": "Deliveroo", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/deliveroo/head-of-global-accounts-france-paris-394539", "match_method": "exact", "confidence": null}
+{"raw_name": "Deliveroo", "canonical_name": "Deliveroo", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/deliveroo/senior-integrated-marketing-strategy-planning-manager-paris-58978", "match_method": "exact", "confidence": null}
+{"raw_name": "Deliveroo", "canonical_name": "Deliveroo", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/deliveroo/business-development-manager-paris-272382", "match_method": "exact", "confidence": null}
+{"raw_name": "Deliveroo", "canonical_name": "Deliveroo", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/deliveroo/assistante-chef-de-projet-marketing-fidelisation-deliveroo-plus-alternance-12-mois-paris-106977", "match_method": "exact", "confidence": null}
+{"raw_name": "Deliveroo", "canonical_name": "Deliveroo", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/deliveroo/chargee-onboarding-cdd-6-mois-paris-273764", "match_method": "exact", "confidence": null}
+{"raw_name": "Gismart", "canonical_name": "Gismart", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/gismart/remote-email-marketing-manager-fitme-421444", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Gismart", "canonical_name": "Gismart", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/gismart/remote-billing-manager-fitme-281438", "match_method": "exact", "confidence": null}
+{"raw_name": "Gismart", "canonical_name": "Gismart", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/gismart/remote-user-acquisition-manager-radiotech-407234", "match_method": "exact", "confidence": null}
+{"raw_name": "Gismart", "canonical_name": "Gismart", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/gismart/remote-creative-marketing-manager-fitme-282873", "match_method": "exact", "confidence": null}
+{"raw_name": "Gismart", "canonical_name": "Gismart", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/gismart/remote-product-marketing-manager-testora-383033", "match_method": "exact", "confidence": null}
+{"raw_name": "Gismart", "canonical_name": "Gismart", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/gismart/remote-creative-production-lead-radiotech-185726", "match_method": "exact", "confidence": null}
+{"raw_name": "Gismart", "canonical_name": "Gismart", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/gismart/remote-product-manager-radiotech-9082", "match_method": "exact", "confidence": null}
+{"raw_name": "Gismart", "canonical_name": "Gismart", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/gismart/remote-creative-producer-radiotech-456495", "match_method": "exact", "confidence": null}
+{"raw_name": "Eleve Talent", "canonical_name": "Eleve Talent", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/eleve-talent/remote-knit-research-manager-140456", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Eleve Talent", "canonical_name": "Eleve Talent", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/eleve-talent/remote-knit-research-director-285983", "match_method": "exact", "confidence": null}
+{"raw_name": "Eleve Talent", "canonical_name": "Eleve Talent", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/eleve-talent/remote-knit-lead-product-manager-308888", "match_method": "exact", "confidence": null}
+{"raw_name": "Eleve Talent", "canonical_name": "Eleve Talent", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/eleve-talent/remote-endear-account-manager-179224", "match_method": "exact", "confidence": null}
+{"raw_name": "Eleve Talent", "canonical_name": "Eleve Talent", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/eleve-talent/remote-endear-onboarding-manager-47640", "match_method": "exact", "confidence": null}
+{"raw_name": "Certa", "canonical_name": "Certa", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/certa/remote-initiative-application-168473", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Exegy", "canonical_name": "Exegy", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/exegy/ingenieur-fpga-fpga-engineer-paris-364670", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Cribl", "canonical_name": "Cribl", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/cribl/partner-solutions-engineer-southern-europe-305658", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Kaluza", "canonical_name": "Kaluza", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/kaluza/senior-software-engineer-i-paris-paris-341689", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Kaluza", "canonical_name": "Kaluza", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/kaluza/product-manager-energy-billing-fluent-french-english-paris-paris-410530", "match_method": "exact", "confidence": null}
+{"raw_name": "Kaluza", "canonical_name": "Kaluza", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/kaluza/product-manager-device-data-management-fluent-french-english-paris-paris-379161", "match_method": "exact", "confidence": null}
+{"raw_name": "Kaluza", "canonical_name": "Kaluza", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/kaluza/product-manager-data-fluent-french-english-paris-paris-416720", "match_method": "exact", "confidence": null}
+{"raw_name": "Kaluza", "canonical_name": "Kaluza", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/kaluza/product-manager-ccaas-french-speaking-paris-paris-105784", "match_method": "exact", "confidence": null}
+{"raw_name": "Verkada", "canonical_name": "Verkada", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/verkada/enterprise-account-executive-france-paris-301288", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Yext", "canonical_name": "Yext", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/yext/director-enterprise-sales-paris-82584", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Primer.io", "canonical_name": "Primer.io", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/primerio/account-executive-mid-market-france-paris-318736", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Axle Careers", "canonical_name": "Axle Careers", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/axle-careers/energy-markets-france-cdd-paris-120734", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Axle Careers", "canonical_name": "Axle Careers", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/axle-careers/growth-france-cdd-paris-363484", "match_method": "exact", "confidence": null}
+{"raw_name": "Duck Duck Go", "canonical_name": "Duck Duck Go", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/duck-duck-go/remote-senior-growth-marketing-manager-subscriptions-368722", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Duck Duck Go", "canonical_name": "Duck Duck Go", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/duck-duck-go/remote-senior-product-design-engineer-145790", "match_method": "exact", "confidence": null}
+{"raw_name": "Duck Duck Go", "canonical_name": "Duck Duck Go", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/duck-duck-go/remote-staff-data-scientist-28394", "match_method": "exact", "confidence": null}
+{"raw_name": "Duck Duck Go", "canonical_name": "Duck Duck Go", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/duck-duck-go/remote-creative-design-lead-marketing-campaigns-86272", "match_method": "exact", "confidence": null}
+{"raw_name": "Duck Duck Go", "canonical_name": "Duck Duck Go", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/duck-duck-go/remote-privacy-engineering-director-460386", "match_method": "exact", "confidence": null}
+{"raw_name": "Duck Duck Go", "canonical_name": "Duck Duck Go", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/duck-duck-go/remote-senior-privacy-engineer-65238", "match_method": "exact", "confidence": null}
+{"raw_name": "Whitecircle", "canonical_name": "Whitecircle", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/whitecircle/remote-recruiter-research-108565", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Whitecircle", "canonical_name": "Whitecircle", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/whitecircle/senior-data-labeler-paris-63823", "match_method": "exact", "confidence": null}
+{"raw_name": "Whitecircle", "canonical_name": "Whitecircle", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/whitecircle/research-scientist-engineer-agentic-systems-paris-217452", "match_method": "exact", "confidence": null}
+{"raw_name": "Whitecircle", "canonical_name": "Whitecircle", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/whitecircle/research-scientist-ai-behaviours-paris-183446", "match_method": "exact", "confidence": null}
+{"raw_name": "Whitecircle", "canonical_name": "Whitecircle", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/whitecircle/research-engineer-evals-paris-388716", "match_method": "exact", "confidence": null}
+{"raw_name": "Whitecircle", "canonical_name": "Whitecircle", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/whitecircle/devops-engineer-paris-46248", "match_method": "exact", "confidence": null}
+{"raw_name": "Whitecircle", "canonical_name": "Whitecircle", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/whitecircle/product-engineer-backend-paris-126655", "match_method": "exact", "confidence": null}
+{"raw_name": "Whitecircle", "canonical_name": "Whitecircle", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/whitecircle/multimodal-ml-engineer-paris-374661", "match_method": "exact", "confidence": null}
+{"raw_name": "Whitecircle", "canonical_name": "Whitecircle", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/whitecircle/ml-research-engineer-paris-21219", "match_method": "exact", "confidence": null}
+{"raw_name": "Whitecircle", "canonical_name": "Whitecircle", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/whitecircle/ml-infrastructure-engineer-paris-407148", "match_method": "exact", "confidence": null}
+{"raw_name": "Xm", "canonical_name": "Xm", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/xm/remote-software-development-engineers-in-test-python-226133", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Xm", "canonical_name": "Xm", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/xm/remote-site-reliability-engineers-sre-314013", "match_method": "exact", "confidence": null}
+{"raw_name": "Xm", "canonical_name": "Xm", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/xm/remote-qa-software-test-automation-engineers-java-233007", "match_method": "exact", "confidence": null}
+{"raw_name": "Exotec", "canonical_name": "Exotec", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/exotec/senior-software-integration-engineer-warehouse-automation-lille-241230", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Exotec", "canonical_name": "Exotec", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/exotec/senior-network-rd-engineer-wasquehal-448311", "match_method": "exact", "confidence": null}
+{"raw_name": "DiliTrust", "canonical_name": "DiliTrust", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/dilitrust/software-engineer-ai-platform-frontend-paris-la-defense-30686", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "RecruitMyMom", "canonical_name": "RecruitMyMom", "source_record_id": "Himalayas-https://himalayas.app/companies/recruitmymom/jobs/outbound-lead-cold-email", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Rede Consulting Services", "canonical_name": "Rede Consulting Services", "source_record_id": "Himalayas-https://himalayas.app/companies/rede-consulting-services/jobs/marketing-interns-sept-dec-26", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "BOS Staffing", "canonical_name": "BOS Staffing", "source_record_id": "Himalayas-https://himalayas.app/companies/bos-staffing/jobs/bilingual-legal-assistant", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Productive Playhouse", "canonical_name": "Productive Playhouse", "source_record_id": "Himalayas-https://himalayas.app/companies/productive-playhouse/jobs/spanish-mexico-ai-product-evaluator", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Banner Health", "canonical_name": "Banner Health", "source_record_id": "Himalayas-https://himalayas.app/companies/banner-health/jobs/director-service-optimization", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "The Access Group", "canonical_name": "Aer Group", "source_record_id": "Himalayas-https://himalayas.app/companies/the-access-group/jobs/lead-mobile-engineer", "match_method": "fuzzy", "confidence": 85.5}
+{"raw_name": "Coalfire", "canonical_name": "Coalfire", "source_record_id": "Himalayas-https://himalayas.app/companies/coalfire/jobs/operational-technology-security-consultant-3562202906", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Parallels", "canonical_name": "Parallels", "source_record_id": "Himalayas-https://himalayas.app/companies/parallels/jobs/principal-backend-engineer-947455065", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Stefanini", "canonical_name": "Stefanini", "source_record_id": "Himalayas-https://himalayas.app/companies/stefanini/jobs/analista-de-testes-sr-8906208110", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Abbott", "canonical_name": "Abbott", "source_record_id": "Himalayas-https://himalayas.app/companies/abbott/jobs/key-account-senior-clinical-specialist", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Deutscher Hilfsbund", "canonical_name": "Deutscher Hilfsbund", "source_record_id": "Himalayas-https://himalayas.app/companies/deutscher-hilfsbund/jobs/verbandskoordinator-in-m-w-d-100-ehrenamt", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Gilytics AG", "canonical_name": "Gilytics AG", "source_record_id": "Himalayas-https://himalayas.app/companies/gilytics-ag/jobs/lead-generation-specialist-americas-318792006", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "HumanSignal", "canonical_name": "HumanSignal", "source_record_id": "Himalayas-https://himalayas.app/companies/humansignal/jobs/solutions-architect", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Remotual", "canonical_name": "Remotual", "source_record_id": "Himalayas-https://himalayas.app/companies/remotual/jobs/remote-project-manager-7215554367", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "MedWatch", "canonical_name": "MedWatch", "source_record_id": "Himalayas-https://himalayas.app/companies/urmedwatch/jobs/concierge-customer-service-representative-ii-7111451810", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Hireframe", "canonical_name": "Hireframe", "source_record_id": "Himalayas-https://himalayas.app/companies/hireframe/jobs/entry-level-accountant", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "CI&T", "canonical_name": "CI&T", "source_record_id": "Himalayas-https://himalayas.app/companies/ci-t/jobs/job-31399-mid-level-qa-automation", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Our Sunday Visitor (OSV)", "canonical_name": "Our Sunday Visitor (OSV)", "source_record_id": "Himalayas-https://himalayas.app/companies/our-sunday-visitor-osv/jobs/senior-account-executive-digital-sales-6661407692", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Emergent Software", "canonical_name": "Emergent Software", "source_record_id": "Himalayas-https://himalayas.app/companies/emergent-software/jobs/ai-director", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "The HALO Trust", "canonical_name": "The HALO Trust", "source_record_id": "Himalayas-https://himalayas.app/companies/the-halo-trust/jobs/head-of-hr-programmes", "match_method": "manual_seed", "confidence": null}

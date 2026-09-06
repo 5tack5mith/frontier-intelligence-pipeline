@@ -1,0 +1,14 @@
+# Secrets — never commit
+.env
+service_account.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Scratch run logs from local debugging sessions (not a deliverable —
+# the actual outputs are in output/*.jsonl and output/*.csv)
+run_all_output*.log
