@@ -88,6 +88,8 @@ python -m src.scrapers.arxiv_papers
 python -m src.pipeline.freshness
 python -m src.scrapers.role_family
 python -m src.output.writer
+python -m src.pipeline.print_summary   # instant record-count summary from output/*.jsonl, no re-run needed
+python -m src.output.verify_sheets     # reads row counts back from the live Sheet, independent of to_sheets.py's own log
 ```
 
 ## Known judgment calls worth knowing about (don't silently "fix" these)
