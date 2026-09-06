@@ -18,12 +18,34 @@ from src.pipeline.schemas import EntityMappingLogEntry, MatchMethod
 
 FUZZY_MATCH_THRESHOLD = 82.0  # 0-100 rapidfuzz score.
 # Tuning note: a single-character typo in a short name (e.g. "OpenAl" vs
-# "OpenAI") scores ~83 on WRatio because the edit distance is large
-# relative to the string length. 82 catches that case; anything lower
-# starts risking false-positive merges of genuinely different short
+# "OpenAI") scores ~83 on plain `fuzz.ratio` because the edit distance is
+# large relative to the string length. 82 catches that case; anything
+# lower starts risking false-positive merges of genuinely different short
 # company names. Review the Entity Mapping Log's fuzzy-match entries by
 # hand after each run — this threshold is a judgment call, not a solved
 # problem, and the log exists specifically so a human can audit it.
+#
+# Scorer note: originally used `fuzz.WRatio`, which combines several
+# heuristics including partial/token-overlap matching — for short
+# multi-word names this inflates scores for pairs that share only a
+# generic word. At the 200-startup trial scale this never surfaced (only
+# one real fuzzy case existed, the OpenAl typo above); at 1,000-startup
+# scale it produced systematic false positives — e.g. "Tara AI" and 45
+# other unrelated companies all scored >82 against "Mistral AI" purely
+# from sharing the token "AI". Switched to plain `fuzz.ratio` (a
+# straightforward edit-distance ratio, no token tricks), which fixes
+# that class of error while preserving the original typo-catching case.
+MIN_LENGTH_FOR_FUZZY_MATCH = 6  # normalized-name character count
+# Very short names (<6 chars, e.g. "Rex", "Glen", "Lexi") remain
+# collision-prone under ANY string-similarity scorer purely because a
+# 1-2 character edit is a large fraction of a short string — "Rex" vs
+# "Brex" and "Glen" vs "Glean" both still score >82 even under plain
+# `fuzz.ratio`. Rather than chase an ever-more-exotic scorer, short
+# names skip fuzzy matching entirely and fall through to
+# self-registration (§3 below) — a real company name that happens to be
+# short becomes its own canonical entity rather than risking a merge
+# into an unrelated famous one. This is exactly the same "null over
+# wrong guess" philosophy applied elsewhere in this pipeline.
 
 
 def _normalize(name: str) -> str:
@@ -81,9 +103,10 @@ class EntityCanonicalizer:
             return canonical
 
         # 2. Fuzzy match against known canonical names + all known variants
+        # (skipped for very short names — see MIN_LENGTH_FOR_FUZZY_MATCH note above)
         choices = list(self.variant_to_canonical.keys())
-        if choices:
-            match = process.extractOne(normalized, choices, scorer=fuzz.WRatio)
+        if choices and len(normalized) >= MIN_LENGTH_FOR_FUZZY_MATCH:
+            match = process.extractOne(normalized, choices, scorer=fuzz.ratio)
             if match is not None:
                 matched_variant, score, _ = match
                 if score >= FUZZY_MATCH_THRESHOLD:

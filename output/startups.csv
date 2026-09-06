@@ -1,201 +1,1001 @@
 schemaVersion,recordType,source.name,source.url,content.entityName,content.data.employeeCount,collectedAt
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/cruise,Cruise,3000.0,2026-09-06T13:42:41.611479Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/casetext,Casetext,50.0,2026-09-06T13:42:41.611659Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/checkr,Checkr,800.0,2026-09-06T13:42:41.611800Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/caper,Caper,15.0,2026-09-06T13:42:41.611951Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/podium,Podium,1000.0,2026-09-06T13:42:41.612094Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/scale-ai,Scale AI,500.0,2026-09-06T13:42:41.612107Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/daily,Daily,126.0,2026-09-06T13:42:41.612245Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/isono-health,iSono Health,9.0,2026-09-06T13:42:41.612406Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/deepgram,Deepgram,115.0,2026-09-06T13:42:41.612542Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/microhealth,Microhealth,25.0,2026-09-06T13:42:41.612684Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/snapmagic,SnapMagic,23.0,2026-09-06T13:42:41.612818Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/mashgin,Mashgin,150.0,2026-09-06T13:42:41.612953Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/tara-ai,Mistral AI,13.0,2026-09-06T13:42:41.613371Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/resolve,Resolve,10.0,2026-09-06T13:42:41.613516Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/zeitview,Zeitview,200.0,2026-09-06T13:42:41.613655Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/akido-labs,Akido Labs,1000.0,2026-09-06T13:42:41.613808Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/qventus,Qventus,230.0,2026-09-06T13:42:41.613950Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/opencurriculum,OpenCurriculum,,2026-09-06T13:42:41.614108Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/mixerbox,MixerBox,30.0,2026-09-06T13:42:41.614252Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/caremessage,CareMessage,45.0,2026-09-06T13:42:41.614398Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/radar,RADAR,120.0,2026-09-06T13:42:41.614552Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/plivo,Plivo,320.0,2026-09-06T13:42:41.614704Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/redoubt-insurance,Redoubt Insurance,0.0,2026-09-06T13:42:41.614907Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/antimattr,antimattr,2.0,2026-09-06T13:42:41.615064Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/dreamscale-labs,Scale AI,4.0,2026-09-06T13:42:41.615193Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/vorelios,Vorelios,2.0,2026-09-06T13:42:41.615343Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/workers-io,Workers IO,2.0,2026-09-06T13:42:41.615503Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/hopper,Hopper,2.0,2026-09-06T13:42:41.615660Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/onepatch,OnePatch,2.0,2026-09-06T13:42:41.615810Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/nodus-compute,Nodus Compute,2.0,2026-09-06T13:42:41.615984Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/lantern-ai,Meta AI,4.0,2026-09-06T13:42:41.616151Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/useforward,Forward,5.0,2026-09-06T13:42:41.616304Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/qokedas,Qokedas,3.0,2026-09-06T13:42:41.616453Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/veeza-ai,Mistral AI,1.0,2026-09-06T13:42:41.616612Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/simulithic,Simulithic,2.0,2026-09-06T13:42:41.616762Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/sentient-os,Sentient OS,2.0,2026-09-06T13:42:41.616932Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/herdr,herdr,1.0,2026-09-06T13:42:41.617102Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/lambda-robotics,Lambda,6.0,2026-09-06T13:42:41.617261Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/opentag,OpenTag,3.0,2026-09-06T13:42:41.617414Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/conifer,Conifer,4.0,2026-09-06T13:42:41.617563Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/simantic,Simantic,4.0,2026-09-06T13:42:41.617714Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/experiential-labs,ElevenLabs,2.0,2026-09-06T13:42:41.617911Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/coarena,CoArena,2.0,2026-09-06T13:42:41.618054Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/magma,Magma,1.0,2026-09-06T13:42:41.618214Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/billow-ai-labs,OpenAI,0.0,2026-09-06T13:42:41.618399Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/hardware-intelligence,hardware intelligence,2.0,2026-09-06T13:42:41.618635Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/osseus,Osseus,2.0,2026-09-06T13:42:41.618794Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/allia-health,Allia Health,3.0,2026-09-06T13:42:41.618990Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/robocurve,Robocurve,3.0,2026-09-06T13:42:41.619151Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/hiloop,hiloop,2.0,2026-09-06T13:42:41.619325Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/dawn-industries,Dawn Industries,2.0,2026-09-06T13:42:41.619520Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/onecli,OneCLI,0.0,2026-09-06T13:42:41.619681Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/wondering,Wondering,2.0,2026-09-06T13:42:41.619836Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/tracer,Tracer,1.0,2026-09-06T13:42:41.620017Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/locke,Locke,2.0,2026-09-06T13:42:41.620192Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/florin,Florin,3.0,2026-09-06T13:42:41.620351Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/hebbian-robotics,Hebbian Robotics,2.0,2026-09-06T13:42:41.620563Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/princeps,PRINCEPS,3.0,2026-09-06T13:42:41.620732Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/agent-fm,Agent FM,2.0,2026-09-06T13:42:41.620912Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/openrelay,OpenRelay,2.0,2026-09-06T13:42:41.621504Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/dock,Dock,2.0,2026-09-06T13:42:41.621930Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/verdict-machine,Verdict Machine,4.0,2026-09-06T13:42:41.622199Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/tovenai,TovenAI,2.0,2026-09-06T13:42:41.622394Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/hyperprobe,HyperProbe,8.0,2026-09-06T13:42:41.622575Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/skymerse,Skymerse,,2026-09-06T13:42:41.622763Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/palisade-2,Palisade,1.0,2026-09-06T13:42:41.622948Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/83-sciences,83 Sciences,3.0,2026-09-06T13:42:41.623154Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/lamb-labs,Lambda,0.0,2026-09-06T13:42:41.623351Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/mireye,Mireye,2.0,2026-09-06T13:42:41.623558Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/touchy,Touchy,3.0,2026-09-06T13:42:41.623734Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/pennant,Pennant,2.0,2026-09-06T13:42:41.623916Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/decawork,Decawork,2.0,2026-09-06T13:42:41.624144Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/carsignal,CarSignal,2.0,2026-09-06T13:42:41.624336Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/axelrod,Axelrod,2.0,2026-09-06T13:42:41.624506Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/care-gp,Care GP,10.0,2026-09-06T13:42:41.624690Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/agnost-ai,Mistral AI,2.0,2026-09-06T13:42:41.624876Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/gamgee,Gamgee,2.0,2026-09-06T13:42:41.625058Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/inkbox,Inkbox,3.0,2026-09-06T13:42:41.625269Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/familiar,Familiar,8.0,2026-09-06T13:42:41.625450Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/lumeria,Lumeria,3.0,2026-09-06T13:42:41.625648Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/marengo,Marengo,5.0,2026-09-06T13:42:41.625828Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/waybill,Waybill,5.0,2026-09-06T13:42:41.626005Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/executor,Executor,1.0,2026-09-06T13:42:41.626191Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/last-accounting-company,Last Accounting Company,4.0,2026-09-06T13:42:41.626528Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/pacific,Pacific,3.0,2026-09-06T13:42:41.626711Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/luca-iq,Luca IQ,5.0,2026-09-06T13:42:41.626912Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/financial-datasets,Financial Datasets,1.0,2026-09-06T13:42:41.627197Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/computable,Computable,2.0,2026-09-06T13:42:41.627396Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/denta,Denta,1.0,2026-09-06T13:42:41.627618Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/isengard-industries-inc,Isengard Industries Inc,30.0,2026-09-06T13:42:41.627920Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/moving-atoms,Moving Atoms,2.0,2026-09-06T13:42:41.628160Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/arbital,Arbital,3.0,2026-09-06T13:42:41.628356Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/neuromorphic,Neuromorphic,3.0,2026-09-06T13:42:41.628572Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/lato,LATO,2.0,2026-09-06T13:42:41.628805Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/risklytics,Risklytics,2.0,2026-09-06T13:42:41.629014Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/daqstra,Daqstra,3.0,2026-09-06T13:42:41.629201Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/tenor,Tenor,3.0,2026-09-06T13:42:41.629426Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/qlo,Qlo,2.0,2026-09-06T13:42:41.629647Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/fabraix,Fabraix,2.0,2026-09-06T13:42:41.629832Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/omanta,Omanta,5.0,2026-09-06T13:42:41.630039Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/rational,Rational,2.0,2026-09-06T13:42:41.630245Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/vendo,Vendo,2.0,2026-09-06T13:42:41.630449Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/akon-labs,Akido Labs,2.0,2026-09-06T13:42:41.630666Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/click,Click,1.0,2026-09-06T13:42:41.630874Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/whitespace,Whitespace,2.0,2026-09-06T13:42:41.631078Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/almanac,Almanac,0.0,2026-09-06T13:42:41.631275Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/ooak-data,Ooak Data,5.0,2026-09-06T13:42:41.631508Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/bloomy,Bloomy,1.0,2026-09-06T13:42:41.631719Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/talentpluto,Pluto,5.0,2026-09-06T13:42:41.631935Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/stratum-industries,Stratum Industries,2.0,2026-09-06T13:42:41.632230Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/standard-machines,Standard Machines,,2026-09-06T13:42:41.632519Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/traceforce,Traceforce,2.0,2026-09-06T13:42:41.632733Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/callbook-ai,OpenAI,7.0,2026-09-06T13:42:41.632968Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/definite,Definite,3.0,2026-09-06T13:42:41.633180Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/alkera-ai,Mistral AI,3.0,2026-09-06T13:42:41.633416Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/rasyn,Rasyn,3.0,2026-09-06T13:42:41.633654Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/screenpipe,screenpipe,2.0,2026-09-06T13:42:41.633872Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/zaplar,Zaplar,8.0,2026-09-06T13:42:41.634092Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/prodigy-research,Prodigy Research,2.0,2026-09-06T13:42:41.634383Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/touchmark,Touchmark,2.0,2026-09-06T13:42:41.634605Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/exosat,Exosat,1.0,2026-09-06T13:42:41.634835Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/contextdev,Context.dev,1.0,2026-09-06T13:42:41.635062Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/glen,Glean,1.0,2026-09-06T13:42:41.635208Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/stoa,Stoa,3.0,2026-09-06T13:42:41.635463Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/joinmarble,Marble,2.0,2026-09-06T13:42:41.635706Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/audun,Audun,5.0,2026-09-06T13:42:41.635931Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/grocalo,Grocalo,2.0,2026-09-06T13:42:41.636144Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/ai-coach,COACH,4.0,2026-09-06T13:42:41.636372Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/deepreach-inc,DeepReach Inc.,6.0,2026-09-06T13:42:41.636612Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/mochitv,MOCHI.TV,3.0,2026-09-06T13:42:41.636836Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/alloovium,Alloovium,5.0,2026-09-06T13:42:41.637087Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/mosaic-inc,Mosaic,2.0,2026-09-06T13:42:41.637326Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/bizmark,Bizmark,2.0,2026-09-06T13:42:41.637541Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/riften,Riften,0.0,2026-09-06T13:42:41.637807Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/buildbox,Buildbox,2.0,2026-09-06T13:42:41.638059Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/realpact,RealPact,2.0,2026-09-06T13:42:41.638289Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/guild,GUILD,2.0,2026-09-06T13:42:41.638529Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/instaplay,Instaplay,4.0,2026-09-06T13:42:41.638817Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/impact-drones,IMPACT Drones,2.0,2026-09-06T13:42:41.639374Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/insurf,Insurf,3.0,2026-09-06T13:42:41.639819Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/jcode,Jcode,1.0,2026-09-06T13:42:41.640065Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/lemonlime,LemonLime,5.0,2026-09-06T13:42:41.640306Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/speko,Speko,4.0,2026-09-06T13:42:41.640558Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/synapse-semiconductor,Synapse Semiconductor,2.0,2026-09-06T13:42:41.640995Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/understudy-labs,Modal,2.0,2026-09-06T13:42:41.641322Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/studio,Studio,2.0,2026-09-06T13:42:41.641578Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/bernard,Bernard,9.0,2026-09-06T13:42:41.641825Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/maingen,Maingen,2.0,2026-09-06T13:42:41.642078Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/enact,Enact,2.0,2026-09-06T13:42:41.642341Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/rex-inc,Brex,2.0,2026-09-06T13:42:41.642503Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/zomma,Zomma,5.0,2026-09-06T13:42:41.642756Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/nebula-security,Nebula Security,4.0,2026-09-06T13:42:41.643100Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/palisade,Palisade,1.0,2026-09-06T13:42:41.643115Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/trope,Trope,2.0,2026-09-06T13:42:41.643496Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/parasma,Parasma,1.0,2026-09-06T13:42:41.643740Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/olam-labs,Olam Labs,2.0,2026-09-06T13:42:41.644020Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/egoist-machines,Egoist Machines,2.0,2026-09-06T13:42:41.644354Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/perceptron-ml,Perceptron ML,2.0,2026-09-06T13:42:41.644664Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/erinys,Erinys,3.0,2026-09-06T13:42:41.644930Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/donkey,Donkey,7.0,2026-09-06T13:42:41.645177Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/hoplite,Hoplite,2.0,2026-09-06T13:42:41.645426Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/pango,Pango,5.0,2026-09-06T13:42:41.645700Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/torus,Torus,6.0,2026-09-06T13:42:41.645961Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/kebra,Kebra,2.0,2026-09-06T13:42:41.646229Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/gitcafe,GitCafe,2.0,2026-09-06T13:42:41.646518Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/rindler,Rindler,2.0,2026-09-06T13:42:41.646780Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/proprio-robotics,Proprio Robotics,1.0,2026-09-06T13:42:41.647130Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/amorphic-labs,Amorphic Labs,2.0,2026-09-06T13:42:41.647449Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/rekursivai,rekursiv.ai,2.0,2026-09-06T13:42:41.647718Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/playablai,Playabl.ai,10.0,2026-09-06T13:42:41.647982Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/enjamb-labs,Enjamb Labs,2.0,2026-09-06T13:42:41.648283Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/trident,Trident,4.0,2026-09-06T13:42:41.648539Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/revnu,Revnu,2.0,2026-09-06T13:42:41.648820Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/uno-wallet,Uno Wallet,2.0,2026-09-06T13:42:41.649112Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/tolmo,Tolmo,12.0,2026-09-06T13:42:41.649382Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/pops,Pops,1.0,2026-09-06T13:42:41.649664Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/armature,Armature,3.0,2026-09-06T13:42:41.649932Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/collar,Collar,2.0,2026-09-06T13:42:41.650199Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/degla-inc,Degla Inc,2.0,2026-09-06T13:42:41.650481Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/archer,Archer,4.0,2026-09-06T13:42:41.650759Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/infera,Infera,2.0,2026-09-06T13:42:41.651037Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/keyframe-labs,Keyframe Labs,2.0,2026-09-06T13:42:41.651374Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/ontora,Ontora,3.0,2026-09-06T13:42:41.651649Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/lab0,Lab0,3.0,2026-09-06T13:42:41.651953Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/kimpton,Kimpton,5.0,2026-09-06T13:42:41.652218Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/stablebrowse,StableBrowse,3.0,2026-09-06T13:42:41.652532Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/userlens,Userlens,4.0,2026-09-06T13:42:41.652804Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/superlog,Superlog,2.0,2026-09-06T13:42:41.653074Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/godhands,GodHands,2.0,2026-09-06T13:42:41.653347Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/light-anchor,Light Anchor,2.0,2026-09-06T13:42:41.653683Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/hub,Hub,10.0,2026-09-06T13:42:41.653979Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/zenbu-2,Zenbu,1.0,2026-09-06T13:42:41.654263Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/discovered-materials,Discovered Materials,2.0,2026-09-06T13:42:41.654765Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/twolabs,Twolabs,2.0,2026-09-06T13:42:41.655443Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/marker,Marker,3.0,2026-09-06T13:42:41.655971Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/palette-2,Palette,2.0,2026-09-06T13:42:41.656413Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/multiplier,Multiplier,3.0,2026-09-06T13:42:41.656991Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/osmaura,Osmaura,2.0,2026-09-06T13:42:41.657469Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/most-robotic,Most Robotic,2.0,2026-09-06T13:42:41.658059Z
-1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/illume-labs,Illume Labs,3.0,2026-09-06T13:42:41.658497Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/cruise,Cruise,3000.0,2026-09-06T17:04:11.167150Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/casetext,Casetext,50.0,2026-09-06T17:04:11.167228Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/checkr,Checkr,800.0,2026-09-06T17:04:11.167281Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/caper,Caper,15.0,2026-09-06T17:04:11.167310Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/podium,Podium,1000.0,2026-09-06T17:04:11.167356Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/scale-ai,Scale AI,500.0,2026-09-06T17:04:11.167388Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/daily,Daily,126.0,2026-09-06T17:04:11.167416Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/isono-health,iSono Health,9.0,2026-09-06T17:04:11.167462Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/deepgram,Deepgram,115.0,2026-09-06T17:04:11.167508Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/microhealth,Microhealth,25.0,2026-09-06T17:04:11.167552Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/snapmagic,SnapMagic,23.0,2026-09-06T17:04:11.167600Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/mashgin,Mashgin,150.0,2026-09-06T17:04:11.167646Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/tara-ai,Tara AI,13.0,2026-09-06T17:04:11.167691Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/resolve,Resolve,10.0,2026-09-06T17:04:11.167734Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/zeitview,Zeitview,200.0,2026-09-06T17:04:11.167778Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/akido-labs,Akido Labs,1000.0,2026-09-06T17:04:11.167827Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/qventus,Qventus,230.0,2026-09-06T17:04:11.167869Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/opencurriculum,OpenCurriculum,,2026-09-06T17:04:11.167918Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/mixerbox,MixerBox,30.0,2026-09-06T17:04:11.167963Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/caremessage,CareMessage,45.0,2026-09-06T17:04:11.168009Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/radar,RADAR,120.0,2026-09-06T17:04:11.168035Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/plivo,Plivo,320.0,2026-09-06T17:04:11.168058Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/redoubt-insurance,Redoubt Insurance,0.0,2026-09-06T17:04:11.168104Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/antimattr,antimattr,2.0,2026-09-06T17:04:11.168151Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/dreamscale-labs,Dreamscale Labs,4.0,2026-09-06T17:04:11.168199Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/vorelios,Vorelios,2.0,2026-09-06T17:04:11.168245Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/workers-io,Workers IO,2.0,2026-09-06T17:04:11.168292Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/hopper,Hopper,2.0,2026-09-06T17:04:11.168335Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/onepatch,OnePatch,2.0,2026-09-06T17:04:11.168381Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/nodus-compute,Nodus Compute,2.0,2026-09-06T17:04:11.168449Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/lantern-ai,Lantern AI,4.0,2026-09-06T17:04:11.168498Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/useforward,Forward,5.0,2026-09-06T17:04:11.168542Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/qokedas,Qokedas,3.0,2026-09-06T17:04:11.168587Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/veeza-ai,Veeza AI,1.0,2026-09-06T17:04:11.168641Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/simulithic,Simulithic,2.0,2026-09-06T17:04:11.168686Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/sentient-os,Sentient OS,2.0,2026-09-06T17:04:11.168738Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/herdr,herdr,1.0,2026-09-06T17:04:11.168765Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/lambda-robotics,Lambda Robotics,6.0,2026-09-06T17:04:11.168813Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/opentag,OpenTag,3.0,2026-09-06T17:04:11.168862Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/conifer,Conifer,4.0,2026-09-06T17:04:11.168907Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/simantic,Simantic,4.0,2026-09-06T17:04:11.168958Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/experiential-labs,Experiential Labs,2.0,2026-09-06T17:04:11.169009Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/coarena,CoArena,2.0,2026-09-06T17:04:11.169058Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/magma,Magma,1.0,2026-09-06T17:04:11.169087Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/billow-ai-labs,Billow AI Labs,0.0,2026-09-06T17:04:11.169136Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/hardware-intelligence,hardware intelligence,2.0,2026-09-06T17:04:11.169185Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/osseus,Osseus,2.0,2026-09-06T17:04:11.169234Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/allia-health,Allia Health,3.0,2026-09-06T17:04:11.169286Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/robocurve,Robocurve,3.0,2026-09-06T17:04:11.169336Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/hiloop,hiloop,2.0,2026-09-06T17:04:11.169385Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/dawn-industries,Dawn Industries,2.0,2026-09-06T17:04:11.169432Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/onecli,OneCLI,0.0,2026-09-06T17:04:11.169486Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/wondering,Wondering,2.0,2026-09-06T17:04:11.169533Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/tracer,Tracer,1.0,2026-09-06T17:04:11.169587Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/locke,Locke,2.0,2026-09-06T17:04:11.169612Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/florin,Florin,3.0,2026-09-06T17:04:11.169663Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/hebbian-robotics,Hebbian Robotics,2.0,2026-09-06T17:04:11.169719Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/princeps,PRINCEPS,3.0,2026-09-06T17:04:11.169770Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/agent-fm,Agent FM,2.0,2026-09-06T17:04:11.169819Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/openrelay,OpenRelay,2.0,2026-09-06T17:04:11.169871Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/dock,Dock,2.0,2026-09-06T17:04:11.169897Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/verdict-machine,Verdict Machine,4.0,2026-09-06T17:04:11.169950Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/tovenai,TovenAI,2.0,2026-09-06T17:04:11.170005Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/hyperprobe,HyperProbe,8.0,2026-09-06T17:04:11.170059Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/skymerse,Skymerse,,2026-09-06T17:04:11.170158Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/palisade-2,Palisade,1.0,2026-09-06T17:04:11.170213Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/83-sciences,83 Sciences,3.0,2026-09-06T17:04:11.170267Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/lamb-labs,Lambda,0.0,2026-09-06T17:04:11.170337Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/mireye,Mireye,2.0,2026-09-06T17:04:11.170391Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/touchy,Touchy,3.0,2026-09-06T17:04:11.170461Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/pennant,Pennant,2.0,2026-09-06T17:04:11.170515Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/decawork,Decawork,2.0,2026-09-06T17:04:11.170568Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/carsignal,CarSignal,2.0,2026-09-06T17:04:11.170621Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/axelrod,Axelrod,2.0,2026-09-06T17:04:11.170672Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/care-gp,Care GP,10.0,2026-09-06T17:04:11.170728Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/agnost-ai,Agnost AI,2.0,2026-09-06T17:04:11.170779Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/gamgee,Gamgee,2.0,2026-09-06T17:04:11.170834Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/inkbox,Inkbox,3.0,2026-09-06T17:04:11.170888Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/familiar,Familiar,8.0,2026-09-06T17:04:11.170941Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/lumeria,Lumeria,3.0,2026-09-06T17:04:11.170996Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/marengo,Marengo,5.0,2026-09-06T17:04:11.171047Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/waybill,Waybill,5.0,2026-09-06T17:04:11.171098Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/executor,Executor,1.0,2026-09-06T17:04:11.171165Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/last-accounting-company,Last Accounting Company,4.0,2026-09-06T17:04:11.171225Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/pacific,Pacific,3.0,2026-09-06T17:04:11.171284Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/luca-iq,Luca IQ,5.0,2026-09-06T17:04:11.171339Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/financial-datasets,Financial Datasets,1.0,2026-09-06T17:04:11.171393Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/computable,Computable,2.0,2026-09-06T17:04:11.171451Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/denta,Denta,1.0,2026-09-06T17:04:11.171475Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/isengard-industries-inc,Isengard Industries Inc,30.0,2026-09-06T17:04:11.171534Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/moving-atoms,Moving Atoms,2.0,2026-09-06T17:04:11.171589Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/arbital,Arbital,3.0,2026-09-06T17:04:11.171645Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/neuromorphic,Neuromorphic,3.0,2026-09-06T17:04:11.171889Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/lato,LATO,2.0,2026-09-06T17:04:11.171917Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/risklytics,Risklytics,2.0,2026-09-06T17:04:11.171972Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/daqstra,Daqstra,3.0,2026-09-06T17:04:11.172027Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/tenor,Tenor,3.0,2026-09-06T17:04:11.172054Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/qlo,Qlo,2.0,2026-09-06T17:04:11.172082Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/fabraix,Fabraix,2.0,2026-09-06T17:04:11.172138Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/omanta,Omanta,5.0,2026-09-06T17:04:11.172191Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/rational,Rational,2.0,2026-09-06T17:04:11.172247Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/vendo,Vendo,2.0,2026-09-06T17:04:11.172275Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/akon-labs,Akido Labs,2.0,2026-09-06T17:04:11.172344Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/click,Click,1.0,2026-09-06T17:04:11.172372Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/whitespace,Whitespace,2.0,2026-09-06T17:04:11.172442Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/almanac,Almanac,0.0,2026-09-06T17:04:11.172504Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/ooak-data,Ooak Data,5.0,2026-09-06T17:04:11.172564Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/bloomy,Bloomy,1.0,2026-09-06T17:04:11.172622Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/talentpluto,Pluto,5.0,2026-09-06T17:04:11.172648Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/stratum-industries,Stratum Industries,2.0,2026-09-06T17:04:11.172708Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/standard-machines,Standard Machines,,2026-09-06T17:04:11.172773Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/traceforce,Traceforce,2.0,2026-09-06T17:04:11.172834Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/callbook-ai,Callbook AI,7.0,2026-09-06T17:04:11.172895Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/definite,Definite,3.0,2026-09-06T17:04:11.172961Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/alkera-ai,Alkera AI,3.0,2026-09-06T17:04:11.173023Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/rasyn,Rasyn,3.0,2026-09-06T17:04:11.173054Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/screenpipe,screenpipe,2.0,2026-09-06T17:04:11.173116Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/zaplar,Zaplar,8.0,2026-09-06T17:04:11.173176Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/prodigy-research,Prodigy Research,2.0,2026-09-06T17:04:11.173242Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/touchmark,Touchmark,2.0,2026-09-06T17:04:11.173306Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/exosat,Exosat,1.0,2026-09-06T17:04:11.173370Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/contextdev,Context.dev,1.0,2026-09-06T17:04:11.173432Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/glen,Glen,1.0,2026-09-06T17:04:11.173463Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/stoa,Stoa,3.0,2026-09-06T17:04:11.173493Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/joinmarble,Marble,2.0,2026-09-06T17:04:11.173557Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/audun,Audun,5.0,2026-09-06T17:04:11.173586Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/grocalo,Grocalo,2.0,2026-09-06T17:04:11.173648Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/ai-coach,COACH,4.0,2026-09-06T17:04:11.173679Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/deepreach-inc,DeepReach Inc.,6.0,2026-09-06T17:04:11.173751Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/mochitv,MOCHI.TV,3.0,2026-09-06T17:04:11.173814Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/alloovium,Alloovium,5.0,2026-09-06T17:04:11.173881Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/mosaic-inc,Mosaic,2.0,2026-09-06T17:04:11.173948Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/bizmark,Bizmark,2.0,2026-09-06T17:04:11.174010Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/riften,Riften,0.0,2026-09-06T17:04:11.174078Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/buildbox,Buildbox,2.0,2026-09-06T17:04:11.174140Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/realpact,RealPact,2.0,2026-09-06T17:04:11.174207Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/guild,GUILD,2.0,2026-09-06T17:04:11.174237Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/instaplay,Instaplay,4.0,2026-09-06T17:04:11.174305Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/impact-drones,IMPACT Drones,2.0,2026-09-06T17:04:11.174373Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/insurf,Insurf,3.0,2026-09-06T17:04:11.174447Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/jcode,Jcode,1.0,2026-09-06T17:04:11.174474Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/lemonlime,LemonLime,5.0,2026-09-06T17:04:11.174542Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/speko,Speko,4.0,2026-09-06T17:04:11.174573Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/synapse-semiconductor,Synapse Semiconductor,2.0,2026-09-06T17:04:11.174643Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/understudy-labs,Understudy Labs,2.0,2026-09-06T17:04:11.174710Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/studio,Studio,2.0,2026-09-06T17:04:11.174774Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/bernard,Bernard,9.0,2026-09-06T17:04:11.174843Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/maingen,Maingen,2.0,2026-09-06T17:04:11.174910Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/enact,Enact,2.0,2026-09-06T17:04:11.174936Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/rex-inc,Rex,2.0,2026-09-06T17:04:11.174968Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/zomma,Zomma,5.0,2026-09-06T17:04:11.174997Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/nebula-security,Nebula Security,4.0,2026-09-06T17:04:11.175069Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/palisade,Palisade,1.0,2026-09-06T17:04:11.175094Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/trope,Trope,2.0,2026-09-06T17:04:11.175121Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/parasma,Parasma,1.0,2026-09-06T17:04:11.175189Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/olam-labs,Olam Labs,2.0,2026-09-06T17:04:11.175255Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/egoist-machines,Egoist Machines,2.0,2026-09-06T17:04:11.175330Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/perceptron-ml,Perceptron ML,2.0,2026-09-06T17:04:11.175400Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/erinys,Erinys,3.0,2026-09-06T17:04:11.175467Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/donkey,Donkey,7.0,2026-09-06T17:04:11.175534Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/hoplite,Hoplite,2.0,2026-09-06T17:04:11.175603Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/pango,Pango,5.0,2026-09-06T17:04:11.175632Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/torus,Torus,6.0,2026-09-06T17:04:11.175660Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/kebra,Kebra,2.0,2026-09-06T17:04:11.175687Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/gitcafe,GitCafe,2.0,2026-09-06T17:04:11.175756Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/rindler,Rindler,2.0,2026-09-06T17:04:11.175823Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/proprio-robotics,Proprio Robotics,1.0,2026-09-06T17:04:11.175887Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/amorphic-labs,Amorphic Labs,2.0,2026-09-06T17:04:11.175957Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/rekursivai,rekursiv.ai,2.0,2026-09-06T17:04:11.176021Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/playablai,Playabl.ai,10.0,2026-09-06T17:04:11.176123Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/enjamb-labs,Enjamb Labs,2.0,2026-09-06T17:04:11.176193Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/trident,Trident,4.0,2026-09-06T17:04:11.176263Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/revnu,Revnu,2.0,2026-09-06T17:04:11.176292Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/uno-wallet,Uno Wallet,2.0,2026-09-06T17:04:11.176386Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/tolmo,Tolmo,12.0,2026-09-06T17:04:11.176416Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/pops,Pops,1.0,2026-09-06T17:04:11.176529Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/armature,Armature,3.0,2026-09-06T17:04:11.176607Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/collar,Collar,2.0,2026-09-06T17:04:11.176677Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/degla-inc,Degla Inc,2.0,2026-09-06T17:04:11.176711Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/archer,Archer,4.0,2026-09-06T17:04:11.176778Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/infera,Infera,2.0,2026-09-06T17:04:11.176844Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/keyframe-labs,Keyframe Labs,2.0,2026-09-06T17:04:11.176912Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/ontora,Ontora,3.0,2026-09-06T17:04:11.176980Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/lab0,Lab0,3.0,2026-09-06T17:04:11.177148Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/kimpton,Kimpton,5.0,2026-09-06T17:04:11.177217Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/stablebrowse,StableBrowse,3.0,2026-09-06T17:04:11.177353Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/userlens,Userlens,4.0,2026-09-06T17:04:11.177430Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/superlog,Superlog,2.0,2026-09-06T17:04:11.177548Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/godhands,GodHands,2.0,2026-09-06T17:04:11.177641Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/light-anchor,Light Anchor,2.0,2026-09-06T17:04:11.177769Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/hub,Hub,10.0,2026-09-06T17:04:11.177903Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/zenbu-2,Zenbu,1.0,2026-09-06T17:04:11.177973Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/discovered-materials,Discovered Materials,2.0,2026-09-06T17:04:11.178077Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/twolabs,Twolabs,2.0,2026-09-06T17:04:11.178154Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/marker,Marker,3.0,2026-09-06T17:04:11.178227Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/palette-2,Palette,2.0,2026-09-06T17:04:11.178303Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/multiplier,Multiplier,3.0,2026-09-06T17:04:11.178380Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/osmaura,Osmaura,2.0,2026-09-06T17:04:11.178456Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/most-robotic,Most Robotic,2.0,2026-09-06T17:04:11.178693Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/illume-labs,Illume Labs,3.0,2026-09-06T17:04:11.178788Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/hedge,Hedge,2.0,2026-09-06T17:04:11.179037Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/litmus-hiring,Litmus,3.0,2026-09-06T17:04:11.179144Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/shofo,Shofo,4.0,2026-09-06T17:04:11.179177Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/carrot-labs,Carrot Labs,2.0,2026-09-06T17:04:11.179257Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/ossus,Ossus,3.0,2026-09-06T17:04:11.179288Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/dipole-labs,Dipole Labs,0.0,2026-09-06T17:04:11.179372Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/poth-labs,Poth Labs,2.0,2026-09-06T17:04:11.179448Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/cova,Cova,2.0,2026-09-06T17:04:11.179478Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/veriad,Veriad,2.0,2026-09-06T17:04:11.179557Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/talking-computers,Talking Computers,2.0,2026-09-06T17:04:11.179634Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/tsenta,Tsenta,2.0,2026-09-06T17:04:11.179714Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/dream,Dream,2.0,2026-09-06T17:04:11.179743Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/atlia,Atlia,2.0,2026-09-06T17:04:11.179773Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/grade,Grade,2.0,2026-09-06T17:04:11.179802Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/inth,Inth,3.0,2026-09-06T17:04:11.179831Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/turnstone,Turnstone,2.0,2026-09-06T17:04:11.179911Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/foreman,Foreman,2.0,2026-09-06T17:04:11.179986Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/corelayer,Corelayer,3.0,2026-09-06T17:04:11.180064Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/o11,o11,2.0,2026-09-06T17:04:11.180098Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/libra-robotics,Lambda Robotics,2.0,2026-09-06T17:04:11.180180Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/servo7,Servo7,3.0,2026-09-06T17:04:11.180255Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/datoric,Datoric,2.0,2026-09-06T17:04:11.180333Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/superset,Superset,3.0,2026-09-06T17:04:11.180412Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/voxel-energy,Voxel Energy,3.0,2026-09-06T17:04:11.180509Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/archal,Archal,2.0,2026-09-06T17:04:11.180592Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/bubble-lab,Bubble Lab,2.0,2026-09-06T17:04:11.180674Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/sitefire,Sitefire,2.0,2026-09-06T17:04:11.180754Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/ressl-ai,Ressl AI,3.0,2026-09-06T17:04:11.180831Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/inventoryquant,InventoryQuant,1.0,2026-09-06T17:04:11.180912Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/approxima,Approxima,2.0,2026-09-06T17:04:11.180992Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/traverse,Traverse,1.0,2026-09-06T17:04:11.181070Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/revion,Revion,10.0,2026-09-06T17:04:11.181151Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/fenrock-ai,Fenrock AI,2.0,2026-09-06T17:04:11.181232Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/assemble,Assemble,4.0,2026-09-06T17:04:11.181318Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/visibl-semiconductors,Visibl Semiconductors,3.0,2026-09-06T17:04:11.181397Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/seeing-systems,Seeing Systems,7.0,2026-09-06T17:04:11.181480Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/instinct-xyz,Instinct,5.0,2026-09-06T17:04:11.181563Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/brownie,IncidentFox,2.0,2026-09-06T17:04:11.181654Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/rapidfolio,Rapidfolio,,2026-09-06T17:04:11.181736Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/salus,Salus,2.0,2026-09-06T17:04:11.181767Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/ramain,RamAIn,4.0,2026-09-06T17:04:11.181844Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/ashr,Ashr,2.0,2026-09-06T17:04:11.181872Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/pirislabs,Piris Labs,8.0,2026-09-06T17:04:11.181951Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/10x-science,10x Science,5.0,2026-09-06T17:04:11.182029Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/imperfect,Imperfect,4.0,2026-09-06T17:04:11.182109Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/onetriangle,OneTriangle,4.0,2026-09-06T17:04:11.182188Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/corvera,Corvera,4.0,2026-09-06T17:04:11.182271Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/linzumi,Linzumi,3.0,2026-09-06T17:04:11.182347Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/haladir,Haladir,4.0,2026-09-06T17:04:11.182424Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/claimglide,ClaimGlide,1.0,2026-09-06T17:04:11.182515Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/ndea-com,Ndea,15.0,2026-09-06T17:04:11.182544Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/rivet-design,Rivet,,2026-09-06T17:04:11.182578Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/openroll,Openroll,4.0,2026-09-06T17:04:11.182651Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/amika,Amika,2.0,2026-09-06T17:04:11.182676Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/moss,Moss,5.0,2026-09-06T17:04:11.182703Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/zarna,Zarna,4.0,2026-09-06T17:04:11.182731Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/markit,MarkIt,2.0,2026-09-06T17:04:11.182804Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/clicks-health,Clicks Health,8.0,2026-09-06T17:04:11.182881Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/fastshot,Fastshot,3.0,2026-09-06T17:04:11.182957Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/antigen,Antigen,5.0,2026-09-06T17:04:11.183034Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/lunabill,LunaBill,4.0,2026-09-06T17:04:11.183109Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/axial,Axial,1.0,2026-09-06T17:04:11.183138Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/velvet,Velvet,4.0,2026-09-06T17:04:11.183211Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/diligencesquared-inc,DiligenceSquared,3.0,2026-09-06T17:04:11.183282Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/layers,Layers,2.0,2026-09-06T17:04:11.183357Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/boom-ai,Boom AI,3.0,2026-09-06T17:04:11.183431Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/freeport-markets,Freeport Markets,3.0,2026-09-06T17:04:11.183504Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/madethis,MadeThis,3.0,2026-09-06T17:04:11.183575Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/uselemma,Lemma,2.0,2026-09-06T17:04:11.183601Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/perseus,Perseus,4.0,2026-09-06T17:04:11.183678Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/denki,Denki,3.0,2026-09-06T17:04:11.183703Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/specific,Specific,2.0,2026-09-06T17:04:11.183772Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/relaw,Relaw,2.0,2026-09-06T17:04:11.183800Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/usenarrative,Narrative,3.0,2026-09-06T17:04:11.183875Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/philon,Philon,,2026-09-06T17:04:11.184121Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/sourcebot,Sourcebot,3.0,2026-09-06T17:04:11.184197Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/aside,Aside,5.0,2026-09-06T17:04:11.184221Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/imagine-ai,Imagine AI,5.0,2026-09-06T17:04:11.184292Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/anto-biosciences,Anto Biosciences,4.0,2026-09-06T17:04:11.184363Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/patent-watch,Patent Watch,6.0,2026-09-06T17:04:11.184434Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/leadbay,Leadbay,8.0,2026-09-06T17:04:11.184517Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/pixley-ai,Pixley AI,2.0,2026-09-06T17:04:11.184588Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/cortex-ai,Cortex AI,3.0,2026-09-06T17:04:11.184660Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/radiusbrowser,Radius,2.0,2026-09-06T17:04:11.184730Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/thesis,Thesis,3.0,2026-09-06T17:04:11.184800Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/frontier-computing,Frontier Computing,1.0,2026-09-06T17:04:11.184869Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/compyle,Compyle,2.0,2026-09-06T17:04:11.184935Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/lexi,Lexi,15.0,2026-09-06T17:04:11.184961Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/codyco,Codyco,4.0,2026-09-06T17:04:11.185028Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/complydo,ComplyDo,10.0,2026-09-06T17:04:11.185095Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/finaldose,FinalDose,5.0,2026-09-06T17:04:11.185163Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/redapto,Redapto,7.0,2026-09-06T17:04:11.185229Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/helonic,Helonic,2.0,2026-09-06T17:04:11.185299Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/aleph-lab,Aleph Lab,2.0,2026-09-06T17:04:11.185368Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/logical,Logical,2.0,2026-09-06T17:04:11.185434Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/agentic-fabriq,Agentic Fabriq,2.0,2026-09-06T17:04:11.185511Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/logosguard,LogosGuard,2.0,2026-09-06T17:04:11.185580Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/sciloop,Sciloop,6.0,2026-09-06T17:04:11.185644Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/allus-ai,Allus AI,6.0,2026-09-06T17:04:11.185709Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/unsiloed-ai,Unsiloed AI,2.0,2026-09-06T17:04:11.185776Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/nivara,Nivara,2.0,2026-09-06T17:04:11.185843Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/sellraze,SellRaze,6.0,2026-09-06T17:04:11.185908Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/clerked,Clerked,3.0,2026-09-06T17:04:11.185976Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/semble,Assemble,14.0,2026-09-06T17:04:11.186048Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/flick,Flick,2.0,2026-09-06T17:04:11.186070Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/trelium,Trelium,6.0,2026-09-06T17:04:11.186139Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/veria-labs,Veria Labs,3.0,2026-09-06T17:04:11.186207Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/tell-if-ai,Tell if AI,2.0,2026-09-06T17:04:11.186269Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/bron,Bron,2.0,2026-09-06T17:04:11.186292Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/norra,Norra,3.0,2026-09-06T17:04:11.186315Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/soren,Soren,,2026-09-06T17:04:11.186338Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/the-context-company,The Context Company,2.0,2026-09-06T17:04:11.186405Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/sorce,Sorce,6.0,2026-09-06T17:04:11.186426Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/caddy,Caddy,5.0,2026-09-06T17:04:11.186448Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/locus,Locus,2.0,2026-09-06T17:04:11.186477Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/scoop,Scoop,2.0,2026-09-06T17:04:11.186498Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/hyperspell,Hyperspell,8.0,2026-09-06T17:04:11.186564Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/bolna-ai,Bolna AI,21.0,2026-09-06T17:04:11.186629Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/gpt,Nexus,2.0,2026-09-06T17:04:11.186654Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/zavo,Zavo,8.0,2026-09-06T17:04:11.186686Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/movedot,MOVEdot,10.0,2026-09-06T17:04:11.186747Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/structured-ai,Structured AI,11.0,2026-09-06T17:04:11.186809Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/uplane,Uplane,22.0,2026-09-06T17:04:11.186870Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/brickanta,Brickanta,11.0,2026-09-06T17:04:11.186934Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/f2,F2,15.0,2026-09-06T17:04:11.186955Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/lapis,Lapis,5.0,2026-09-06T17:04:11.186975Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/digipals,Digipals,3.0,2026-09-06T17:04:11.187040Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/blue,Blue,6.0,2026-09-06T17:04:11.187060Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/mixy,Mixy,2.0,2026-09-06T17:04:11.187080Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/paloma,Paloma,3.0,2026-09-06T17:04:11.187146Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/luminal,Luminal,7.0,2026-09-06T17:04:11.187207Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/burnt,burnt,3.0,2026-09-06T17:04:11.187232Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/veritus,Veritus,10.0,2026-09-06T17:04:11.187297Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/outrove,Sapien,2.0,2026-09-06T17:04:11.187358Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/noso-labs,NOSO LABS,6.0,2026-09-06T17:04:11.187421Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/geo-ai,Bizzy AI,,2026-09-06T17:04:11.187481Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/interfere,Interfere,8.0,2026-09-06T17:04:11.187542Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/rowflow,RowFlow,2.0,2026-09-06T17:04:11.187613Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/tectoai,TectoAI,2.0,2026-09-06T17:04:11.187673Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/modelence,Modelence,3.0,2026-09-06T17:04:11.187736Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/fleetline,Fleetline,11.0,2026-09-06T17:04:11.187798Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/clodo,CLODO,2.0,2026-09-06T17:04:11.187819Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/okibi,Okibi,2.0,2026-09-06T17:04:11.187838Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/rebulk,Rebulk,3.0,2026-09-06T17:04:11.187897Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/kernel,KERNEL,22.0,2026-09-06T17:04:11.187957Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/reacher,Reacher,10.0,2026-09-06T17:04:11.188016Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/certus-ai,Certus AI,8.0,2026-09-06T17:04:11.188078Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/notte,Notte,5.0,2026-09-06T17:04:11.188099Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/pally,Pally,2.0,2026-09-06T17:04:11.188119Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/pleom,Pleom,0.0,2026-09-06T17:04:11.188138Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/sigmanticai,Simantic,2.0,2026-09-06T17:04:11.188198Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/quotain,Quotain,2.0,2026-09-06T17:04:11.188259Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/altur,Altur,5.0,2026-09-06T17:04:11.188280Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/pares-ai,PARES AI,3.0,2026-09-06T17:04:11.188342Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/evergrove,Evergrove,2.0,2026-09-06T17:04:11.188405Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/humoniq,Humoniq,5.0,2026-09-06T17:04:11.188470Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/maximal,Axial,3.0,2026-09-06T17:04:11.188533Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/floot,Floot,4.0,2026-09-06T17:04:11.188553Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/os3,OS3,2.0,2026-09-06T17:04:11.188571Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/alara,Alara,0.0,2026-09-06T17:04:11.188590Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/omnara,Omnara,4.0,2026-09-06T17:04:11.188649Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/knowlify,Knowlify,6.0,2026-09-06T17:04:11.188707Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/autosana,Autosana,5.0,2026-09-06T17:04:11.188766Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/procindex,ProcIndex,4.0,2026-09-06T17:04:11.188824Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/finto-de,Finto,10.0,2026-09-06T17:04:11.188845Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/motives,Motives,,2026-09-06T17:04:11.188983Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/relling,Relling,,2026-09-06T17:04:11.189041Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/char,Char,2.0,2026-09-06T17:04:11.189062Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/manufact,Manufact,5.0,2026-09-06T17:04:11.189119Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/phases,Phases,3.0,2026-09-06T17:04:11.189178Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/physical-turing,Physical Turing,2.0,2026-09-06T17:04:11.189234Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/twentytwo,TwentyTwo,3.0,2026-09-06T17:04:11.189289Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/mimos,Mimos,2.0,2026-09-06T17:04:11.189306Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/nozomio,Nozomio,3.0,2026-09-06T17:04:11.189363Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/vibeflow,VibeFlow,3.0,2026-09-06T17:04:11.189419Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/normal,Normal,2.0,2026-09-06T17:04:11.189476Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/ghosteye,GhostEye,6.0,2026-09-06T17:04:11.189532Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/channel3,Channel3,5.0,2026-09-06T17:04:11.189597Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/embedder,Embedder,6.0,2026-09-06T17:04:11.189653Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/trace-so,Trace,3.0,2026-09-06T17:04:11.189670Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/onestop,OneStop,2.0,2026-09-06T17:04:11.189725Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/doe,Doe,4.0,2026-09-06T17:04:11.189742Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/riverbank,Riverbank,1.0,2026-09-06T17:04:11.189798Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/stellon-labs,Stellon Labs,2.0,2026-09-06T17:04:11.189854Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/induction-labs,Induction Labs,2.0,2026-09-06T17:04:11.189909Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/panoptive,Panoptive,2.0,2026-09-06T17:04:11.189965Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/kestroll,Kestroll,2.0,2026-09-06T17:04:11.190018Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/tesora,Tesora,5.0,2026-09-06T17:04:11.190073Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/deepaware-ai-robotics-center-of-silicon-valley,DeepAware AI (Robotics Center of Silicon Valley),4.0,2026-09-06T17:04:11.190130Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/stockline,Stockline,2.0,2026-09-06T17:04:11.190183Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/magnitude,Magnitude,2.0,2026-09-06T17:04:11.190238Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/proliferate,Proliferate,,2026-09-06T17:04:11.190295Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/nori,Nori,3.0,2026-09-06T17:04:11.190310Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/frizzle,Frizzle,2.0,2026-09-06T17:04:11.190362Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/withasync,Async,2.0,2026-09-06T17:04:11.190379Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/alter,Alter,2.0,2026-09-06T17:04:11.190396Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/lilac,Lilac,4.0,2026-09-06T17:04:11.190413Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/cyberdesk,Cyberdesk,2.0,2026-09-06T17:04:11.190466Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/wafer,Wafer,10.0,2026-09-06T17:04:11.190522Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/monarcha,Monarcha,2.0,2026-09-06T17:04:11.190575Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/lotas,Lotas,2.0,2026-09-06T17:04:11.190593Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/design-arena,Design Arena,3.0,2026-09-06T17:04:11.190652Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/effigov,EffiGov,3.0,2026-09-06T17:04:11.190704Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/lark,Lark,5.0,2026-09-06T17:04:11.190720Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/topological,Topological,2.0,2026-09-06T17:04:11.190775Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/datafruit,Datafruit,2.0,2026-09-06T17:04:11.190828Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/contextfort,ContextFort,2.0,2026-09-06T17:04:11.190895Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/llm-stats,LLM Stats,2.0,2026-09-06T17:04:11.190948Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/playgent,Playgent,2.0,2026-09-06T17:04:11.191001Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/liva-ai,Liva AI,4.0,2026-09-06T17:04:11.191055Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/lanesurf,Lanesurf,11.0,2026-09-06T17:04:11.191107Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/astor,Astor,5.0,2026-09-06T17:04:11.191125Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/truthsystems,truthsystems,6.0,2026-09-06T17:04:11.191178Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/traceroot-ai,TraceRoot.AI,3.0,2026-09-06T17:04:11.191232Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/mangodesk,MangoDesk,2.0,2026-09-06T17:04:11.191287Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/dedalus-labs,Dedalus Labs,10.0,2026-09-06T17:04:11.191340Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/closera,Closera,2.0,2026-09-06T17:04:11.191396Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/meteor,Meteor,2.0,2026-09-06T17:04:11.191449Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/adaptional,Adaptional,,2026-09-06T17:04:11.191503Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/prox,Prox,7.0,2026-09-06T17:04:11.191520Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/autonomous-technologies-group,Autonomous Technologies Group,8.0,2026-09-06T17:04:11.191577Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/fifth-door,Fifth Door,3.0,2026-09-06T17:04:11.191634Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/cohesive,Cohesive,2.0,2026-09-06T17:04:11.191688Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/docket,Docket,2.0,2026-09-06T17:04:11.191743Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/sureform,Sureform,2.0,2026-09-06T17:04:11.191798Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/godela,Godela,10.0,2026-09-06T17:04:11.191851Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/blueshoe,Blueshoe,2.0,2026-09-06T17:04:11.191908Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/text-ai,Text.ai,4.0,2026-09-06T17:04:11.191963Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/starsling,StarSling,3.0,2026-09-06T17:04:11.192018Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/wavedash,Wavedash,3.0,2026-09-06T17:04:11.192073Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/oncactus,Cactus,2.0,2026-09-06T17:04:11.192126Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/vision-lab,Vision Lab,11.0,2026-09-06T17:04:11.192182Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/code-four,Code Four,3.0,2026-09-06T17:04:11.192379Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/lumari,Lumari,5.0,2026-09-06T17:04:11.192456Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/pelica,Pelica,5.0,2026-09-06T17:04:11.192517Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/nimbic-ai,Nimbic AI,3.0,2026-09-06T17:04:11.192574Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/moby-analytics,Moby Analytics,4.0,2026-09-06T17:04:11.192640Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/rimba,Rimba,4.0,2026-09-06T17:04:11.192659Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/adentris,Adentris,5.0,2026-09-06T17:04:11.192714Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/mesmer,Mesmer,7.0,2026-09-06T17:04:11.192771Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/naive,Naïve,8.0,2026-09-06T17:04:11.192788Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/kairos,Kairos,3.0,2026-09-06T17:04:11.192846Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/hemut,Hemut,3.0,2026-09-06T17:04:11.192863Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/orchid-ai,Orchid,3.0,2026-09-06T17:04:11.192917Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/bramante,Bramante,2.0,2026-09-06T17:04:11.192973Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/eloquent-ai,Eloquent AI,5.0,2026-09-06T17:04:11.193029Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/morphoai,MorphoAI,7.0,2026-09-06T17:04:11.193087Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/cactus-compute,Cactus Compute,8.0,2026-09-06T17:04:11.193147Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/boost-robotics,Most Robotic,2.0,2026-09-06T17:04:11.193206Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/cartpole,Cartpole,2.0,2026-09-06T17:04:11.193263Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/besimple-ai,Besimple AI,6.0,2026-09-06T17:04:11.193322Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/human-behavior,Human Behavior,3.0,2026-09-06T17:04:11.193378Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/qualgent,QualGent,10.0,2026-09-06T17:04:11.193436Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/theta,Theta,7.0,2026-09-06T17:04:11.193451Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/irbc,IRBC,3.0,2026-09-06T17:04:11.193469Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/anana,Anana,2.0,2026-09-06T17:04:11.193487Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/throxy,throxy,55.0,2026-09-06T17:04:11.193623Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/lucis,Lucis,17.0,2026-09-06T17:04:11.193642Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/crimson,Crimson,6.0,2026-09-06T17:04:11.193698Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/nomi,Nomi,5.0,2026-09-06T17:04:11.193715Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/morphik,Morphik,2.0,2026-09-06T17:04:11.193774Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/habit,HABIT,,2026-09-06T17:04:11.193791Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/clidey,Clidey,5.0,2026-09-06T17:04:11.193848Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/sixtyfour,Sixtyfour,12.0,2026-09-06T17:04:11.193904Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/tegore,Tegore,1.0,2026-09-06T17:04:11.193998Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/freesolo,Freesolo,4.0,2026-09-06T17:04:11.194058Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/tinfoil,Tinfoil,5.0,2026-09-06T17:04:11.194115Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/paper-instruments,Paper Instruments,3.0,2026-09-06T17:04:11.194174Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/parsewise,Parsewise,6.0,2026-09-06T17:04:11.194248Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/bluejay,Bluejay,10.0,2026-09-06T17:04:11.194353Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/kestral,Kestral,3.0,2026-09-06T17:04:11.194484Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/kirana-ai,Kirana AI,2.0,2026-09-06T17:04:11.194548Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/mbodi-ai,Mbodi AI,6.0,2026-09-06T17:04:11.194609Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/units,Units,1.0,2026-09-06T17:04:11.194630Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/hanji,Hanji,4.0,2026-09-06T17:04:11.194648Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/stratify,stratify,2.0,2026-09-06T17:04:11.194708Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/sim,Sim,8.0,2026-09-06T17:04:11.194791Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/clarm,Clarm,2.0,2026-09-06T17:04:11.194824Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/beluga,Beluga,3.0,2026-09-06T17:04:11.194894Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/kaelio,Kaelio,8.0,2026-09-06T17:04:11.194954Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/zeon-systems,Zeon Systems,5.0,2026-09-06T17:04:11.195017Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/helixdb,HelixDB,6.0,2026-09-06T17:04:11.195079Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/feyn,Feyn,3.0,2026-09-06T17:04:11.195098Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/almond-2,Almond,6.0,2026-09-06T17:04:11.195160Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/acolite,Acolite,3.0,2026-09-06T17:04:11.195222Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/ralo,Ralo,2.0,2026-09-06T17:04:11.195240Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/neoncoral,neoncoral,1.0,2026-09-06T17:04:11.195301Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/synthio-labs,Synthio Labs,29.0,2026-09-06T17:04:11.195361Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/serafis,Serafis,4.0,2026-09-06T17:04:11.195424Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/golf,Golf,1.0,2026-09-06T17:04:11.195441Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/bitboard,BitBoard,2.0,2026-09-06T17:04:11.195507Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/nao-labs,NOSO LABS,2.0,2026-09-06T17:04:11.195574Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/kashikoi,Kashikoi,2.0,2026-09-06T17:04:11.195636Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/plexe,Plexe,2.0,2026-09-06T17:04:11.195654Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/frekil,Frekil,2.0,2026-09-06T17:04:11.195722Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/chestnut,Chestnut,2.0,2026-09-06T17:04:11.195785Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/blaxel,Blaxel,8.0,2026-09-06T17:04:11.195848Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/mentra,Mentra,12.0,2026-09-06T17:04:11.195908Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/monte,Monte,3.0,2026-09-06T17:04:11.195925Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/joindex,Dex,2.0,2026-09-06T17:04:11.195943Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/browser-use,Browser Use,7.0,2026-09-06T17:04:11.196006Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/tamlabs,TamLabs,2.0,2026-09-06T17:04:11.196065Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/ergo,Ergo,0.0,2026-09-06T17:04:11.196083Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/copycat,CopyCat,2.0,2026-09-06T17:04:11.196146Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/bluebook,Bluebook,4.0,2026-09-06T17:04:11.196206Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/waffle,Waffle,2.0,2026-09-06T17:04:11.196267Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/roark,Roark,3.0,2026-09-06T17:04:11.196286Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/rebolt,Rebolt,3.0,2026-09-06T17:04:11.196346Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/spott,Spott,50.0,2026-09-06T17:04:11.196372Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/woz,Woz,8.0,2026-09-06T17:04:11.196391Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/proception-inc,Proception Inc,10.0,2026-09-06T17:04:11.196454Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/wildcard,Wildcard,0.0,2026-09-06T17:04:11.196517Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/pinch,Pinch,3.0,2026-09-06T17:04:11.196533Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/mastra,Mastra,30.0,2026-09-06T17:04:11.196593Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/afterquery,AfterQuery,30.0,2026-09-06T17:04:11.196656Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/artificial-societies,Artificial Societies,12.0,2026-09-06T17:04:11.196717Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/sennu-ai,Sennu AI,2.0,2026-09-06T17:04:11.196781Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/mesh-2,Mesh,3.0,2026-09-06T17:04:11.196797Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/outlit,Outlit,3.0,2026-09-06T17:04:11.196859Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/harper,Harper,25.0,2026-09-06T17:04:11.196921Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/calltree,Calltree,14.0,2026-09-06T17:04:11.196983Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/nitrode,Nitrode,5.0,2026-09-06T17:04:11.197048Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/exla,Exla,2.0,2026-09-06T17:04:11.197065Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/confident-ai,Confident AI,7.0,2026-09-06T17:04:11.197129Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/riviera,Riviera,2.0,2026-09-06T17:04:11.197192Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/agentin-ai,Agentin AI,2.0,2026-09-06T17:04:11.197255Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/general-trajectory,General Trajectory,1.0,2026-09-06T17:04:11.197318Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/trata,Trata,6.0,2026-09-06T17:04:11.197337Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/candor-security,Candor,3.0,2026-09-06T17:04:11.197400Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/lucidic-ai,Lucidic AI,,2026-09-06T17:04:11.197464Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/mundo-ai,Mundo AI,30.0,2026-09-06T17:04:11.197525Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/liquid-compute,Liquid Compute,5.0,2026-09-06T17:04:11.197586Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/lopus,Lopus,2.0,2026-09-06T17:04:11.197605Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/cenote,Cenote,2.0,2026-09-06T17:04:11.197666Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/harbera,Harbera,2.0,2026-09-06T17:04:11.197729Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/stillwind,Stillwind,3.0,2026-09-06T17:04:11.197794Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/pickle-2,Pickle,15.0,2026-09-06T17:04:11.197858Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/asteroid,Asteroid,8.0,2026-09-06T17:04:11.197921Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/gale,Gale,3.0,2026-09-06T17:04:11.197937Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/olive,Olive,2.0,2026-09-06T17:04:11.197954Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/hud,HUD,15.0,2026-09-06T17:04:11.197970Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/cuckoo-labs,Cuckoo Labs,2.0,2026-09-06T17:04:11.198035Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/mecha-health,Mecha Health,4.0,2026-09-06T17:04:11.198100Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/osmosis,Osmosis,6.0,2026-09-06T17:04:11.198164Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/swerve,Swerve,2.0,2026-09-06T17:04:11.198226Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/cifrato,Cifrato,17.0,2026-09-06T17:04:11.198291Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/oki,Oki,6.0,2026-09-06T17:04:11.198308Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/cardamon,Cardamon,11.0,2026-09-06T17:04:11.198461Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/trim,Trim,3.0,2026-09-06T17:04:11.198480Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/tergle,Tergle,,2026-09-06T17:04:11.198545Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/rally-3,Rally,5.0,2026-09-06T17:04:11.198567Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/adam,Adam,4.0,2026-09-06T17:04:11.198584Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/salespatriot,SalesPatriot,15.0,2026-09-06T17:04:11.198648Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/maive,Maive,2.0,2026-09-06T17:04:11.198664Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/weave-3,Weave,14.0,2026-09-06T17:04:11.198681Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/caseflood-ai,Caseflood.ai,2.0,2026-09-06T17:04:11.198747Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/elip-ai,Elip AI,4.0,2026-09-06T17:04:11.198813Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/a0-dev,a0.dev,3.0,2026-09-06T17:04:11.198833Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/verbiflow,Verbiflow,2.0,2026-09-06T17:04:11.198897Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/toothy-ai,Toothy AI,15.0,2026-09-06T17:04:11.198962Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/contrario,Contrario,20.0,2026-09-06T17:04:11.199028Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/truffle-ai,Truffle AI,2.0,2026-09-06T17:04:11.199093Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/superglue,superglue,6.0,2026-09-06T17:04:11.199158Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/closure,Closure,11.0,2026-09-06T17:04:11.199224Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/promptless,Promptless,5.0,2026-09-06T17:04:11.199291Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/scout-4,Scout,8.0,2026-09-06T17:04:11.199309Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/vocality-health,Vocality Health,2.0,2026-09-06T17:04:11.199373Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/astro,Astro,1.0,2026-09-06T17:04:11.199389Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/dartboard,Dartboard,2.0,2026-09-06T17:04:11.199458Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/alice-tech,Alice.tech,5.0,2026-09-06T17:04:11.199522Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/praxim,Praxim,2.0,2026-09-06T17:04:11.199589Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/tweeksio,Tweeks.io,2.0,2026-09-06T17:04:11.199654Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/leaping-ai,Leaping AI,13.0,2026-09-06T17:04:11.199721Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/vetnio,Vetnio,6.0,2026-09-06T17:04:11.199787Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/candor,Candor,2.0,2026-09-06T17:04:11.199799Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/outship,Outship,3.0,2026-09-06T17:04:11.199864Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/edexia,Edexia,4.0,2026-09-06T17:04:11.199931Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/quantstruct,Quantstruct,2.0,2026-09-06T17:04:11.200004Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/humanlayer,HumanLayer,2.0,2026-09-06T17:04:11.200072Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/synth-3,Synth,2.0,2026-09-06T17:04:11.200092Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/careforce,Careforce,9.0,2026-09-06T17:04:11.200158Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/relvy-ai,Relvy AI,3.0,2026-09-06T17:04:11.200227Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/freestyle-ai,Freestyle,3.0,2026-09-06T17:04:11.200300Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/laminar-com,Laminar,15.0,2026-09-06T17:04:11.200379Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/melder,Melder,2.0,2026-09-06T17:04:11.200458Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/forerunner-ai,Forerunner AI,2.0,2026-09-06T17:04:11.200529Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/struct-ai,Struct,3.0,2026-09-06T17:04:11.200602Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/archilabs,ArchiLabs,2.0,2026-09-06T17:04:11.200672Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/metreecs,Metreecs,6.0,2026-09-06T17:04:11.200744Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/diffusion-studio,Diffusion Studio,2.0,2026-09-06T17:04:11.200820Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/kilvin,Kilvin,3.0,2026-09-06T17:04:11.200897Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/innate,Innate,7.0,2026-09-06T17:04:11.200975Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/capy,Capy,6.0,2026-09-06T17:04:11.200994Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/consus,Consus,1.0,2026-09-06T17:04:11.201072Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/permitportal,PermitPortal,2.0,2026-09-06T17:04:11.201153Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/gecko-security,Gecko Security,2.0,2026-09-06T17:04:11.201233Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/moonshine,Moonshine,2.0,2026-09-06T17:04:11.201314Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/abundant,Abundant,7.0,2026-09-06T17:04:11.201393Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/autocomputer,AutoComputer,2.0,2026-09-06T17:04:11.201472Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/vly-ai-2,vly.ai,3.0,2026-09-06T17:04:11.201494Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/pearson-labs,Pearson Labs,2.0,2026-09-06T17:04:11.201574Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/stewdio,Stewdio,2.0,2026-09-06T17:04:11.201658Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/unusual,Unusual,4.0,2026-09-06T17:04:11.201739Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/hybrd,HYBRD,5.0,2026-09-06T17:04:11.201763Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/freebuff,Freebuff,4.0,2026-09-06T17:04:11.201854Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/lingodotdev,Lingo.dev,7.0,2026-09-06T17:04:11.201938Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/luthor,Luthor,3.0,2026-09-06T17:04:11.202023Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/keye,Keye,3.0,2026-09-06T17:04:11.202054Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/riskcube,RiskCube,3.0,2026-09-06T17:04:11.202141Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/ctgt,CTGT,10.0,2026-09-06T17:04:11.202165Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/issen,ISSEN,1.0,2026-09-06T17:04:11.202188Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/attimet,attimet,3.0,2026-09-06T17:04:11.202275Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/astrix-health,Matcha,2.0,2026-09-06T17:04:11.202361Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/endstack,Endstack,2.0,2026-09-06T17:04:11.202459Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/archil,Archal,11.0,2026-09-06T17:04:11.202552Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/vespper,Vespper,2.0,2026-09-06T17:04:11.202640Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/vortexify,Vortexify,2.0,2026-09-06T17:04:11.202727Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/revyl,Revyl,16.0,2026-09-06T17:04:11.202752Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/raycaster,Raycaster,3.0,2026-09-06T17:04:11.202843Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/healthspark,HealthSpark,1.0,2026-09-06T17:04:11.202945Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/openbenchmarks,Openbenchmarks,4.0,2026-09-06T17:04:11.203044Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/darkgrade,Darkgrade,1.0,2026-09-06T17:04:11.203139Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/candle,Candle,2.0,2026-09-06T17:04:11.203236Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/streamable,Streamable,4.0,2026-09-06T17:04:11.203336Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/symphony,Symphony,5.0,2026-09-06T17:04:11.203434Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/galini,Galini,2.0,2026-09-06T17:04:11.203530Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/riveter,Rivet,2.0,2026-09-06T17:04:11.203626Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/onlook,Onlook,4.0,2026-09-06T17:04:11.203732Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/dreamrp,Dream,2.0,2026-09-06T17:04:11.203831Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/conductor,Conductor,8.0,2026-09-06T17:04:11.203933Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/delineate,Delineate,20.0,2026-09-06T17:04:11.204041Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/syntra,Syntra,10.0,2026-09-06T17:04:11.204145Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/pathpilot,PathPilot,3.0,2026-09-06T17:04:11.204252Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/merlin-ai,Merlin AI,19.0,2026-09-06T17:04:11.204357Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/freestyle,Freestyle,5.0,2026-09-06T17:04:11.204382Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/arva-ai,Tara AI,20.0,2026-09-06T17:04:11.204500Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/affil-ai,Affil.ai,4.0,2026-09-06T17:04:11.204607Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/overlap,Overlap,6.0,2026-09-06T17:04:11.204719Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/capitol-ai,Capitol AI,11.0,2026-09-06T17:04:11.204943Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/void,Void,2.0,2026-09-06T17:04:11.204972Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/anglera,Anglera,6.0,2026-09-06T17:04:11.205090Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/browseros,BrowserOS,4.0,2026-09-06T17:04:11.205208Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/henry-2,Henry,20.0,2026-09-06T17:04:11.205237Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/ficra,Ficra,3.0,2026-09-06T17:04:11.205265Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/pipeshift,Pipeshift,10.0,2026-09-06T17:04:11.205385Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/vera-health,Vera Health,6.0,2026-09-06T17:04:11.205508Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/pharos,Pharos,5.0,2026-09-06T17:04:11.205628Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/et-al,et al.,2.0,2026-09-06T17:04:11.205677Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/keet,Keet,2.0,2026-09-06T17:04:11.205707Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/no-logo,No Logo,15.0,2026-09-06T17:04:11.205836Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/dayflow,Dayflow,2.0,2026-09-06T17:04:11.205964Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/surebright,SureBright,35.0,2026-09-06T17:04:11.206089Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/usul,Usul,15.0,2026-09-06T17:04:11.206122Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/oway,Oway,16.0,2026-09-06T17:04:11.206155Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/elayne,Elayne,8.0,2026-09-06T17:04:11.206285Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/blaze-2,Blaze,5.0,2026-09-06T17:04:11.206317Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/tradeflow,TradeFlow,2.0,2026-09-06T17:04:11.206453Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/voker,Voker,6.0,2026-09-06T17:04:11.206485Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/rastro,Astro,3.0,2026-09-06T17:04:11.206624Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/quetzal,Quetzal,2.0,2026-09-06T17:04:11.206758Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/typa,Typa,2.0,2026-09-06T17:04:11.206791Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/draft-the-record,Draft The Record,5.0,2026-09-06T17:04:11.206931Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/orca-client,Orca Client,2.0,2026-09-06T17:04:11.207064Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/assembly-hoa,Assembly HOA,12.0,2026-09-06T17:04:11.207205Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/autarc,autarc,30.0,2026-09-06T17:04:11.207341Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/polymet,Polymet,3.0,2026-09-06T17:04:11.207478Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/propaya,Propaya,2.0,2026-09-06T17:04:11.207619Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/zeropath,ZeroPath,10.0,2026-09-06T17:04:11.207764Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/bluedoor,Bluedoor,1.0,2026-09-06T17:04:11.207913Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/starcloud,Starcloud,12.0,2026-09-06T17:04:11.208059Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/dataleap,Dataleap,6.0,2026-09-06T17:04:11.208205Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/handled,Handled,2.0,2026-09-06T17:04:11.208363Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/rescript,Rescript,2.0,2026-09-06T17:04:11.208630Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/heroui,HeroUI,5.0,2026-09-06T17:04:11.208828Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/haystackeditor,Haystack,2.0,2026-09-06T17:04:11.208960Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/odo,Odo,2.0,2026-09-06T17:04:11.208990Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/cartage,Cartage,12.0,2026-09-06T17:04:11.209110Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/youshift,YouShift,10.0,2026-09-06T17:04:11.209230Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/palmier,Palmier,2.0,2026-09-06T17:04:11.209349Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/simple-ai,Besimple AI,11.0,2026-09-06T17:04:11.209480Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/sensei,Sensei,2.0,2026-09-06T17:04:11.209599Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/laminar,Laminar,6.0,2026-09-06T17:04:11.209623Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/presti-ai,PARES AI,16.0,2026-09-06T17:04:11.209749Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/the-forecasting-company,The Forecasting Company,7.0,2026-09-06T17:04:11.209880Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/praxos,Praxos,3.0,2026-09-06T17:04:11.210004Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/zettascale,Zettascale,2.0,2026-09-06T17:04:11.210128Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/brighterway,Brighterway,14.0,2026-09-06T17:04:11.210254Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/soff,Soff,6.0,2026-09-06T17:04:11.210283Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/parley,Parley,3.0,2026-09-06T17:04:11.210432Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/thunder-compute,Thunder Compute,9.0,2026-09-06T17:04:11.210577Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/kura-ai,Kura AI,2.0,2026-09-06T17:04:11.210785Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/emergent,Emergent,,2026-09-06T17:04:11.210936Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/zeit-ai,Zeit AI,12.0,2026-09-06T17:04:11.211163Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/piggy-robotics,Piggy Robotics,5.0,2026-09-06T17:04:11.211336Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/distro,Distro,11.0,2026-09-06T17:04:11.211480Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/mage-legal,Mage Legal,2.0,2026-09-06T17:04:11.211618Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/conductor-quantum,Conductor Quantum,4.0,2026-09-06T17:04:11.211807Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/opslane,Opslane,1.0,2026-09-06T17:04:11.211947Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/winfunc,winfunc,2.0,2026-09-06T17:04:11.212220Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/seals-ai,Seals AI,4.0,2026-09-06T17:04:11.212393Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/drillbit,Drillbit,10.0,2026-09-06T17:04:11.212546Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/sharpe,Harper,3.0,2026-09-06T17:04:11.212688Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/redouble-ai,Redouble AI,3.0,2026-09-06T17:04:11.212819Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/planbase,Planbase,6.0,2026-09-06T17:04:11.212946Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/anara,Anara,5.0,2026-09-06T17:04:11.212981Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/vibe,Vibe,2.0,2026-09-06T17:04:11.213013Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/zoa-research,Zoa Research,5.0,2026-09-06T17:04:11.213147Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/clearly-ai,Clearly AI,17.0,2026-09-06T17:04:11.213284Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/overstand-labs,Overstand Labs,4.0,2026-09-06T17:04:11.213419Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/ontra-mobility,Ontra Mobility,2.0,2026-09-06T17:04:11.213555Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/aluna,Aluna,3.0,2026-09-06T17:04:11.213589Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/panora,Panora,1.0,2026-09-06T17:04:11.213729Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/cmux,cmux,3.0,2026-09-06T17:04:11.213802Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/creativemode,CreativeMode,5.0,2026-09-06T17:04:11.213949Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/anthrogen,Anthrogen,6.0,2026-09-06T17:04:11.214095Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/benchify,Benchify,4.0,2026-09-06T17:04:11.214236Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/fazeshift,Fazeshift,8.0,2026-09-06T17:04:11.214376Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/taxgpt,TaxGPT,45.0,2026-09-06T17:04:11.214523Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/mito-health,Mito Health,5.0,2026-09-06T17:04:11.214670Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/lighthouz-ai,Lighthouz AI,8.0,2026-09-06T17:04:11.214821Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/modus,Modus,3.0,2026-09-06T17:04:11.214858Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/ledgerup,LedgerUp,5.0,2026-09-06T17:04:11.215007Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/plume,Plume,4.0,2026-09-06T17:04:11.215046Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/stormy,Stormy,5.0,2026-09-06T17:04:11.215195Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/dench-com,Dench.com,6.0,2026-09-06T17:04:11.215346Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/gauge,Gauge,5.0,2026-09-06T17:04:11.215390Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/kenley,Kenley,6.0,2026-09-06T17:04:11.215539Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/tivara,Nivara,2.0,2026-09-06T17:04:11.215715Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/minusx,MinusX,2.0,2026-09-06T17:04:11.215890Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/joinlore,Lore,2.0,2026-09-06T17:04:11.216096Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/parahelp,Parahelp,11.0,2026-09-06T17:04:11.216268Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/codeviz,CodeViz,2.0,2026-09-06T17:04:11.216436Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/runlocal-ai,RunLocal AI,3.0,2026-09-06T17:04:11.216607Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/dodo,Dodo,6.0,2026-09-06T17:04:11.216644Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/elevate-2,Elevate,3.0,2026-09-06T17:04:11.216807Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/storia-ai,Storia AI,2.0,2026-09-06T17:04:11.216974Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/deepsim-inc,"DeepSim, Inc.",4.0,2026-09-06T17:04:11.217142Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/scape,Scape,5.0,2026-09-06T17:04:11.217182Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/proxis,Proxis,3.0,2026-09-06T17:04:11.217344Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/willow,Willow,7.0,2026-09-06T17:04:11.217515Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/cloudglue,Cloudglue,4.0,2026-09-06T17:04:11.217684Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/networkocean,NetworkOcean,4.0,2026-09-06T17:04:11.217860Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/silurian,Silurian,6.0,2026-09-06T17:04:11.218028Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/unbound,Unbound,7.0,2026-09-06T17:04:11.218192Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/decisional-ai,Decisional AI,3.0,2026-09-06T17:04:11.218355Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/stardrift,Stardrift,3.0,2026-09-06T17:04:11.218525Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/firstwork,FirstWork,9.0,2026-09-06T17:04:11.218689Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/sorcerer,Sorcerer,4.0,2026-09-06T17:04:11.218854Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/wordware,Wordware,15.0,2026-09-06T17:04:11.219019Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/maitai,Maitai,6.0,2026-09-06T17:04:11.219182Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/corgi-insurance,Corgi Insurance,250.0,2026-09-06T17:04:11.219354Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/sagecare,Sage Care,3.0,2026-09-06T17:04:11.219518Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/bayesline,Bayesline,3.0,2026-09-06T17:04:11.219686Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/digitalcarbon,DigitalCarbon,0.0,2026-09-06T17:04:11.219865Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/random-labs,Random Labs,,2026-09-06T17:04:11.220042Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/unsloth-ai,Unsloth AI,8.0,2026-09-06T17:04:11.220215Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/codes-health,Codes Health,25.0,2026-09-06T17:04:11.220381Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/entangl,Entangl,15.0,2026-09-06T17:04:11.220545Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/prohostai,ProhostAI,5.0,2026-09-06T17:04:11.220717Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/educato,Educato,5.0,2026-09-06T17:04:11.220874Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/saphira-ai,Saphira AI,7.0,2026-09-06T17:04:11.221033Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/mem0,Mem0,10.0,2026-09-06T17:04:11.221081Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/cheers,Cheers,2.0,2026-09-06T17:04:11.221238Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/understood-care,Understood Care,7.0,2026-09-06T17:04:11.221402Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/variant,Variant,5.0,2026-09-06T17:04:11.221559Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/doublezero,Doublezero,2.0,2026-09-06T17:04:11.221719Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/superunit,Superunit,5.0,2026-09-06T17:04:11.221887Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/undermind,Undermind,,2026-09-06T17:04:11.222044Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/domu-technology-inc,Domu Technology Inc.,50.0,2026-09-06T17:04:11.222212Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/ultra,Ultra,4.0,2026-09-06T17:04:11.222247Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/angstrom-ai,Ångström AI,5.0,2026-09-06T17:04:11.222409Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/coval,Coval,10.0,2026-09-06T17:04:11.222446Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/marr-labs,Marr Labs,9.0,2026-09-06T17:04:11.222610Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/forge-rewards,Forge Rewards,5.0,2026-09-06T17:04:11.222770Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/retailready,RetailReady,12.0,2026-09-06T17:04:11.222931Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/million,Million,5.0,2026-09-06T17:04:11.223093Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/getcrux,GetCrux,9.0,2026-09-06T17:04:11.223259Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/inspectmind-ai,InspectMind AI,2.0,2026-09-06T17:04:11.223425Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/yarn-2,Yarn,6.0,2026-09-06T17:04:11.223463Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/kater-ai,kater.ai,3.0,2026-09-06T17:04:11.223632Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/mathos,Mathos,5.0,2026-09-06T17:04:11.223805Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/tower,Tower,3.0,2026-09-06T17:04:11.223848Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/dragoneye,Dragoneye,2.0,2026-09-06T17:04:11.224008Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/latted,Latted,2.0,2026-09-06T17:04:11.224169Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/forge,Forge,6.0,2026-09-06T17:04:11.224412Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/integuru,Integuru,5.0,2026-09-06T17:04:11.224648Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/voxops-ai,VoxOps AI,6.0,2026-09-06T17:04:11.224826Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/reform,Sureform,13.0,2026-09-06T17:04:11.225011Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/piramidal,Piramidal,10.0,2026-09-06T17:04:11.225174Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/evolvere-biosciences,Evolvere BioSciences,3.0,2026-09-06T17:04:11.225340Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/spur,Spur,8.0,2026-09-06T17:04:11.225384Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/silogy,Silogy,3.0,2026-09-06T17:04:11.225551Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/senso,Senso,8.0,2026-09-06T17:04:11.225596Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/openfoundry,OpenFoundry,2.0,2026-09-06T17:04:11.225757Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/magic-hour,Magic Hour,2.0,2026-09-06T17:04:11.225923Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/marblism,Marblism,5.0,2026-09-06T17:04:11.226115Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/commodityai,CommodityAI,6.0,2026-09-06T17:04:11.226302Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/veles,Veles,5.0,2026-09-06T17:04:11.226345Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/fluently,Fluently,2.0,2026-09-06T17:04:11.226512Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/basepilot,Basepilot,2.0,2026-09-06T17:04:11.226679Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/aqua-voice,Aqua Voice,5.0,2026-09-06T17:04:11.226843Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/deepnight,Deepnight,16.0,2026-09-06T17:04:11.227005Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/adapted,Adapted,2.0,2026-09-06T17:04:11.227174Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/ocular-ai,Ocular AI,8.0,2026-09-06T17:04:11.227342Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/retell-ai,Retell AI,50.0,2026-09-06T17:04:11.227581Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/rove,Rove,4.0,2026-09-06T17:04:11.227645Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/camelai,camelAI,3.0,2026-09-06T17:04:11.227817Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/spark,Spark,5.0,2026-09-06T17:04:11.227858Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/downlink,Downlink,1.0,2026-09-06T17:04:11.228032Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/shepherd-2,Shepherd,5.0,2026-09-06T17:04:11.228372Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/zep-ai,Zep AI,10.0,2026-09-06T17:04:11.228625Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/openmart,Openmart,6.0,2026-09-06T17:04:11.228805Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/alai,Alai,5.0,2026-09-06T17:04:11.228864Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/brainbase-labs,Brainbase Labs,4.0,2026-09-06T17:04:11.229038Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/focal,Focal,2.0,2026-09-06T17:04:11.229076Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/ligo-biosciences,Ligo Biosciences,4.0,2026-09-06T17:04:11.229400Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/model-ml,Model ML,80.0,2026-09-06T17:04:11.229620Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/betterbasket,BetterBasket,5.0,2026-09-06T17:04:11.229796Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/justai,JustAI,4.0,2026-09-06T17:04:11.229995Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/risotto,Risotto,3.0,2026-09-06T17:04:11.230203Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/diana,Diana,7.0,2026-09-06T17:04:11.234783Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/yondu,Yondu,12.0,2026-09-06T17:04:11.234844Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/raindrop,Raindrop,9.0,2026-09-06T17:04:11.235036Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/centauri-ai,Centauri AI,5.0,2026-09-06T17:04:11.235232Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/prosights,ProSights,14.0,2026-09-06T17:04:11.235414Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/manifold-freight,Manifold Freight,5.0,2026-09-06T17:04:11.235597Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/edgetrace,EdgeTrace,2.0,2026-09-06T17:04:11.235778Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/clarum,Clarm,2.0,2026-09-06T17:04:11.235993Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/offdeal,OffDeal,15.0,2026-09-06T17:04:11.236166Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/overeasy,Overeasy,2.0,2026-09-06T17:04:11.236337Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/andy-ai,Andy AI,5.0,2026-09-06T17:04:11.236507Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/hazel-2,Hazel,7.0,2026-09-06T17:04:11.236549Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/conduit-ai,Conduit,15.0,2026-09-06T17:04:11.236718Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/whip,Whip,6.0,2026-09-06T17:04:11.236757Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/toma,Toma,20.0,2026-09-06T17:04:11.236793Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/carma,Carma,15.0,2026-09-06T17:04:11.236832Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/superagent,Superagent,2.0,2026-09-06T17:04:11.237007Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/sagaland,Sagaland,2.0,2026-09-06T17:04:11.237181Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/ellipsis,Ellipsis,2.0,2026-09-06T17:04:11.237350Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/solari-ai,Solari AI,1.0,2026-09-06T17:04:11.237521Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/pazi,Pazi,7.0,2026-09-06T17:04:11.237557Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/salvy,Salvy,27.0,2026-09-06T17:04:11.237595Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/centralize,Centralize,9.0,2026-09-06T17:04:11.237765Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/nanocorp,NanoCorp,1.0,2026-09-06T17:04:11.237945Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/firebender,Firebender,1.0,2026-09-06T17:04:11.238127Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/feldy,Feldy,8.0,2026-09-06T17:04:11.238163Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/fuse-2,Fuse,3.0,2026-09-06T17:04:11.238202Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/parallel,Parallel,15.0,2026-09-06T17:04:11.238375Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/vibrant-labs,Vibrant Labs,6.0,2026-09-06T17:04:11.238551Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/pandasai,PandasAI,3.0,2026-09-06T17:04:11.238724Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/inquery-2,InQuery,4.0,2026-09-06T17:04:11.238899Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/gloglo,GloGlo,3.0,2026-09-06T17:04:11.239073Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/tamarind-bio,Tamarind Bio,20.0,2026-09-06T17:04:11.239246Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/clarion,Clarion,16.0,2026-09-06T17:04:11.239417Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/decipher-ai,Decipher AI,4.0,2026-09-06T17:04:11.239591Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/lemonslice,LemonLime,8.0,2026-09-06T17:04:11.239765Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/polished,Polished,,2026-09-06T17:04:11.240088Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/guide-labs,Guide Labs,6.0,2026-09-06T17:04:11.240280Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/monumint,Monumint,5.0,2026-09-06T17:04:11.240446Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/respan,Respan,23.0,2026-09-06T17:04:11.240620Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/promptarmor,PromptArmor,,2026-09-06T17:04:11.240783Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/meticulate,Meticulate,5.0,2026-09-06T17:04:11.240942Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/attunement,Attunement,3.0,2026-09-06T17:04:11.241100Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/copper-health,Copper Health,2.0,2026-09-06T17:04:11.241258Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/panelytic,Panelytic,2.0,2026-09-06T17:04:11.241412Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/topo,Topo,12.0,2026-09-06T17:04:11.241445Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/trellis-ai,Trellis AI,34.0,2026-09-06T17:04:11.241603Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/ecliptor,Ecliptor,2.0,2026-09-06T17:04:11.241759Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/greenboard,Greenboard,35.0,2026-09-06T17:04:11.241915Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/eggnog,Eggnog,1.0,2026-09-06T17:04:11.242067Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/simplex,Simplex,2.0,2026-09-06T17:04:11.242213Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/artisan,Artisan,50.0,2026-09-06T17:04:11.242360Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/arini,Arini,17.0,2026-09-06T17:04:11.242393Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/pointone,PointOne,35.0,2026-09-06T17:04:11.242545Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/averyiq,AveryIQ,3.0,2026-09-06T17:04:11.242697Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/breez-labs,Breez Labs,2.0,2026-09-06T17:04:11.242838Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/basalt,Basalt,6.0,2026-09-06T17:04:11.242977Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/agentic-labs-2,Agentic Labs,2.0,2026-09-06T17:04:11.243121Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/pivot-robotics,Pivot Robotics,7.0,2026-09-06T17:04:11.243254Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/keystroke,Keystroke,4.0,2026-09-06T17:04:11.243386Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/ncompass-technologies,nCompass Technologies,3.0,2026-09-06T17:04:11.243527Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/pretzel-ai,Retell AI,2.0,2026-09-06T17:04:11.243662Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/alex-com,Alex,30.0,2026-09-06T17:04:11.243690Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/saga-ai,Saga AI,2.0,2026-09-06T17:04:11.243818Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/tuesday-labs,Tuesday Labs,7.0,2026-09-06T17:04:11.244005Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/momentic,Momentic,15.0,2026-09-06T17:04:11.244139Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/reducto,Educato,30.0,2026-09-06T17:04:11.244270Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/andon-labs,Random Labs,11.0,2026-09-06T17:04:11.244403Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/poka-labs,Poka Labs,5.0,2026-09-06T17:04:11.244537Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/nuanced,Nuanced,2.0,2026-09-06T17:04:11.244776Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/precip,Precip,3.0,2026-09-06T17:04:11.244929Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/tracecat,Tracecat,,2026-09-06T17:04:11.245048Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/kabilah,Kabilah,,2026-09-06T17:04:11.245167Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/sonia,Sonia,7.0,2026-09-06T17:04:11.245192Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/tekton-dynamics,Tekton Dynamics,3.0,2026-09-06T17:04:11.245310Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/ion-design,ion design,3.0,2026-09-06T17:04:11.245429Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/duckie,Duckie,4.0,2026-09-06T17:04:11.245546Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/happenstance,Happenstance,3.0,2026-09-06T17:04:11.245664Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/ubicloud,Ubicloud,15.0,2026-09-06T17:04:11.245780Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/greptile,Greptile,35.0,2026-09-06T17:04:11.245891Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/cora,Cora,3.0,2026-09-06T17:04:11.245916Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/ego,ego,9.0,2026-09-06T17:04:11.245941Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/legora,Legora,400.0,2026-09-06T17:04:11.246054Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/scritch,Scritch,,2026-09-06T17:04:11.246164Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/drymerge,DryMerge,4.0,2026-09-06T17:04:11.246271Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/navier-ai,Navier AI,7.0,2026-09-06T17:04:11.246392Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/upsolve-ai,Upsolve AI,5.0,2026-09-06T17:04:11.246499Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/event-horizon-labs,Event Horizon Labs,10.0,2026-09-06T17:04:11.246607Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/goldbridge,Goldbridge,3.0,2026-09-06T17:04:11.246714Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/letterbook,Letterbook,2.0,2026-09-06T17:04:11.246819Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/orbio-earth,Orbio Earth,6.0,2026-09-06T17:04:11.246948Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/tempo-2,Tempo,8.0,2026-09-06T17:04:11.246978Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/opensteer,Opensteer,1.0,2026-09-06T17:04:11.247259Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/cognitio-labs,Cognitio Labs,3.0,2026-09-06T17:04:11.247408Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/truemetrics,truemetrics,5.0,2026-09-06T17:04:11.247553Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/wattson-health,Wattson Health,3.0,2026-09-06T17:04:11.247701Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/constructable,Constructable,6.0,2026-09-06T17:04:11.247859Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/morph,Morph,3.0,2026-09-06T17:04:11.247899Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/nowadays,Nowadays,6.0,2026-09-06T17:04:11.248056Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/twine,Twine,6.0,2026-09-06T17:04:11.248088Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/simbie-ai,Imbue,5.0,2026-09-06T17:04:11.248260Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/aisdr,AiSDR,5.0,2026-09-06T17:04:11.248300Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/giga,Giga,30.0,2026-09-06T17:04:11.248332Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/inconvo,Inconvo,2.0,2026-09-06T17:04:11.248509Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/roame,Roame,2.0,2026-09-06T17:04:11.248549Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/dili,dili,15.0,2026-09-06T17:04:11.248584Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/webhound,Webhound,2.0,2026-09-06T17:04:11.248746Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/cair-health,Cair Health,6.0,2026-09-06T17:04:11.248914Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/quill-bills,Quill Bills,3.0,2026-09-06T17:04:11.249087Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/strada,Strada,21.0,2026-09-06T17:04:11.249261Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/minded,Minded,2.0,2026-09-06T17:04:11.249439Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/tiptap,Tiptap,19.0,2026-09-06T17:04:11.249614Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/fiber-ai,Fiber AI,8.0,2026-09-06T17:04:11.249794Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/terracotta-ai,Terracotta AI,3.0,2026-09-06T17:04:11.249976Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/cedalio,Cedalio,6.0,2026-09-06T17:04:11.250169Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/elythea,Elythea,2.0,2026-09-06T17:04:11.250350Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/langdock,Langdock,55.0,2026-09-06T17:04:11.250549Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/inventive-ai,Inventive AI,15.0,2026-09-06T17:04:11.250734Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/sudocode,sudocode,2.0,2026-09-06T17:04:11.250921Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/sweep,Sweep,4.0,2026-09-06T17:04:11.250966Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/silimate,Silimate,8.0,2026-09-06T17:04:11.251148Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/andromeda-surgical,Andromeda Surgical,12.0,2026-09-06T17:04:11.251335Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/disputeninja,DisputeNinja,2.0,2026-09-06T17:04:11.251518Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/vectorshift,VectorShift,30.0,2026-09-06T17:04:11.251704Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/baserun,Baserun,2.0,2026-09-06T17:04:11.251893Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/automorphic,Automorphic,3.0,2026-09-06T17:04:11.252078Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/sola,Sola,5.0,2026-09-06T17:04:11.252121Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/rankai,Rankai,3.0,2026-09-06T17:04:11.252304Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/flint-2,Flint,18.0,2026-09-06T17:04:11.252343Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/slicker,Slicker,2.0,2026-09-06T17:04:11.252541Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/bolto,Bolto,20.0,2026-09-06T17:04:11.252581Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/gleam,Gleam,4.0,2026-09-06T17:04:11.252621Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/studdy,Studdy,4.0,2026-09-06T17:04:11.252810Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/sizeless,sizeless,3.0,2026-09-06T17:04:11.252998Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/glade,Glade,3.0,2026-09-06T17:04:11.253040Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/empirical-health,Empirical Health,4.0,2026-09-06T17:04:11.253226Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/agentcollect,AgentCollect,42.0,2026-09-06T17:04:11.253412Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/midrender,Midrender,1.0,2026-09-06T17:04:11.253606Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/bretton-ai,Bretton AI,34.0,2026-09-06T17:04:11.253793Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/medisearch,MediSearch,6.0,2026-09-06T17:04:11.253980Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/surface-labs,Surface Labs,6.0,2026-09-06T17:04:11.254168Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/epsilla,Epsilla,3.0,2026-09-06T17:04:11.254356Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/vetrec,VetRec,45.0,2026-09-06T17:04:11.254563Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/numen,Numen,18.0,2026-09-06T17:04:11.254601Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/decoda-health,Decoda Health,15.0,2026-09-06T17:04:11.254795Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/skyvern,Skyvern,10.0,2026-09-06T17:04:11.254981Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/cardinal-gray,Cardinal Gray,6.0,2026-09-06T17:04:11.255170Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/dialtone,Dialtone,2.0,2026-09-06T17:04:11.255363Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/repaint,Repaint,2.0,2026-09-06T17:04:11.255551Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/fleetworks,FleetWorks,20.0,2026-09-06T17:04:11.255933Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/health-harbor,Health Harbor,4.0,2026-09-06T17:04:11.256199Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/shasta-health,Shasta Health,5.0,2026-09-06T17:04:11.256378Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/outset,Outset,30.0,2026-09-06T17:04:11.256484Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/serra,Serra,8.0,2026-09-06T17:04:11.256508Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/corgea,Corgea,6.0,2026-09-06T17:04:11.256606Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/arcimus,Arcimus,2.0,2026-09-06T17:04:11.256708Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/docsum,Docsum,4.0,2026-09-06T17:04:11.256805Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/obento-health,Obento Health,2.0,2026-09-06T17:04:11.256908Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/kite,Kite,2.0,2026-09-06T17:04:11.256928Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/bronco-ai,Bronco AI,5.0,2026-09-06T17:04:11.257025Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/punchcard,Punchcard,6.0,2026-09-06T17:04:11.257122Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/venta-ai,Venta AI,7.0,2026-09-06T17:04:11.257218Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/campfire-2,Campfire,105.0,2026-09-06T17:04:11.257315Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/alguna,Aluna,10.0,2026-09-06T17:04:11.257420Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/sid,SID,7.0,2026-09-06T17:04:11.257441Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/baud,Baud,3.0,2026-09-06T17:04:11.257462Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/spine-ai,Spine AI,7.0,2026-09-06T17:04:11.257560Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/subsets,Subsets,7.0,2026-09-06T17:04:11.257667Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/heysol,CORE,3.0,2026-09-06T17:04:11.257689Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/talc,Talc,3.0,2026-09-06T17:04:11.257709Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/prosper,Prosper,9.0,2026-09-06T17:04:11.257808Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/mandel-ai,Mandel AI,2.0,2026-09-06T17:04:11.257906Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/contour,Contour,2.0,2026-09-06T17:04:11.258003Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/opentools,OpenTools,3.0,2026-09-06T17:04:11.258192Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/cedana,Cedana,5.0,2026-09-06T17:04:11.258383Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/casca,Casca,40.0,2026-09-06T17:04:11.258423Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/readily,Readily,20.0,2026-09-06T17:04:11.258615Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/pointhound,Pointhound,5.0,2026-09-06T17:04:11.258808Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/diligent,Diligent,10.0,2026-09-06T17:04:11.259006Z
+1.0,STARTUP,Y Combinator,https://www.ycombinator.com/companies/sohar-health,Sohar Health,8.0,2026-09-06T17:04:11.259199Z

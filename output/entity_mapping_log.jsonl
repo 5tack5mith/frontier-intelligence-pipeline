@@ -10,7 +10,7 @@
 {"raw_name": "Microhealth", "canonical_name": "Microhealth", "source_record_id": "yc-923", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "SnapMagic", "canonical_name": "SnapMagic", "source_record_id": "yc-878", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Mashgin", "canonical_name": "Mashgin", "source_record_id": "yc-856", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "Tara AI", "canonical_name": "Mistral AI", "source_record_id": "yc-848", "match_method": "fuzzy", "confidence": 85.5}
+{"raw_name": "Tara AI", "canonical_name": "Tara AI", "source_record_id": "yc-848", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Resolve", "canonical_name": "Resolve", "source_record_id": "yc-797", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Zeitview", "canonical_name": "Zeitview", "source_record_id": "yc-762", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Akido Labs", "canonical_name": "Akido Labs", "source_record_id": "yc-748", "match_method": "manual_seed", "confidence": null}
@@ -22,27 +22,27 @@
 {"raw_name": "Plivo", "canonical_name": "Plivo", "source_record_id": "yc-464", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Redoubt Insurance", "canonical_name": "Redoubt Insurance", "source_record_id": "yc-37600", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "antimattr", "canonical_name": "antimattr", "source_record_id": "yc-36348", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "Dreamscale Labs", "canonical_name": "Scale AI", "source_record_id": "yc-35850", "match_method": "fuzzy", "confidence": 90.0}
+{"raw_name": "Dreamscale Labs", "canonical_name": "Dreamscale Labs", "source_record_id": "yc-35850", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Vorelios", "canonical_name": "Vorelios", "source_record_id": "yc-35784", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Workers IO", "canonical_name": "Workers IO", "source_record_id": "yc-35395", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Hopper", "canonical_name": "Hopper", "source_record_id": "yc-35265", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "OnePatch", "canonical_name": "OnePatch", "source_record_id": "yc-35260", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Nodus Compute", "canonical_name": "Nodus Compute", "source_record_id": "yc-35257", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "Lantern AI", "canonical_name": "Meta AI", "source_record_id": "yc-35190", "match_method": "fuzzy", "confidence": 85.5}
+{"raw_name": "Lantern AI", "canonical_name": "Lantern AI", "source_record_id": "yc-35190", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Forward", "canonical_name": "Forward", "source_record_id": "yc-35094", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Qokedas", "canonical_name": "Qokedas", "source_record_id": "yc-34794", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "Veeza AI", "canonical_name": "Mistral AI", "source_record_id": "yc-34761", "match_method": "fuzzy", "confidence": 85.5}
+{"raw_name": "Veeza AI", "canonical_name": "Veeza AI", "source_record_id": "yc-34761", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Simulithic", "canonical_name": "Simulithic", "source_record_id": "yc-34629", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Sentient OS", "canonical_name": "Sentient OS", "source_record_id": "yc-34597", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "herdr", "canonical_name": "herdr", "source_record_id": "yc-34464", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "Lambda Robotics", "canonical_name": "Lambda", "source_record_id": "yc-34365", "match_method": "fuzzy", "confidence": 90.0}
+{"raw_name": "Lambda Robotics", "canonical_name": "Lambda Robotics", "source_record_id": "yc-34365", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "OpenTag", "canonical_name": "OpenTag", "source_record_id": "yc-33969", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Conifer", "canonical_name": "Conifer", "source_record_id": "yc-33936", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Simantic", "canonical_name": "Simantic", "source_record_id": "yc-33838", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "Experiential Labs", "canonical_name": "ElevenLabs", "source_record_id": "yc-33806", "match_method": "fuzzy", "confidence": 85.5}
+{"raw_name": "Experiential Labs", "canonical_name": "Experiential Labs", "source_record_id": "yc-33806", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "CoArena", "canonical_name": "CoArena", "source_record_id": "yc-33738", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Magma", "canonical_name": "Magma", "source_record_id": "yc-33639", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "Billow AI Labs", "canonical_name": "OpenAI", "source_record_id": "yc-33606", "match_method": "fuzzy", "confidence": 85.5}
+{"raw_name": "Billow AI Labs", "canonical_name": "Billow AI Labs", "source_record_id": "yc-33606", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "hardware intelligence", "canonical_name": "hardware intelligence", "source_record_id": "yc-33573", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Osseus", "canonical_name": "Osseus", "source_record_id": "yc-33540", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Allia Health", "canonical_name": "Allia Health", "source_record_id": "yc-33441", "match_method": "manual_seed", "confidence": null}
@@ -73,7 +73,7 @@
 {"raw_name": "CarSignal", "canonical_name": "CarSignal", "source_record_id": "yc-33046", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Axelrod", "canonical_name": "Axelrod", "source_record_id": "yc-33045", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Care GP", "canonical_name": "Care GP", "source_record_id": "yc-33021", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "Agnost AI", "canonical_name": "Mistral AI", "source_record_id": "yc-33019", "match_method": "fuzzy", "confidence": 85.5}
+{"raw_name": "Agnost AI", "canonical_name": "Agnost AI", "source_record_id": "yc-33019", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Gamgee", "canonical_name": "Gamgee", "source_record_id": "yc-33016", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Inkbox", "canonical_name": "Inkbox", "source_record_id": "yc-33014", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Familiar", "canonical_name": "Familiar", "source_record_id": "yc-32987", "match_method": "manual_seed", "confidence": null}
@@ -110,9 +110,9 @@
 {"raw_name": "Stratum Industries", "canonical_name": "Stratum Industries", "source_record_id": "yc-32523", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Standard Machines", "canonical_name": "Standard Machines", "source_record_id": "yc-32517", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Traceforce", "canonical_name": "Traceforce", "source_record_id": "yc-32418", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "Callbook AI", "canonical_name": "OpenAI", "source_record_id": "yc-32288", "match_method": "fuzzy", "confidence": 85.5}
+{"raw_name": "Callbook AI", "canonical_name": "Callbook AI", "source_record_id": "yc-32288", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Definite", "canonical_name": "Definite", "source_record_id": "yc-32286", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "Alkera AI", "canonical_name": "Mistral AI", "source_record_id": "yc-32262", "match_method": "fuzzy", "confidence": 85.5}
+{"raw_name": "Alkera AI", "canonical_name": "Alkera AI", "source_record_id": "yc-32262", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Rasyn", "canonical_name": "Rasyn", "source_record_id": "yc-32261", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "screenpipe", "canonical_name": "screenpipe", "source_record_id": "yc-32259", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Zaplar", "canonical_name": "Zaplar", "source_record_id": "yc-32256", "match_method": "manual_seed", "confidence": null}
@@ -120,7 +120,7 @@
 {"raw_name": "Touchmark", "canonical_name": "Touchmark", "source_record_id": "yc-32253", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Exosat", "canonical_name": "Exosat", "source_record_id": "yc-32233", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Context.dev", "canonical_name": "Context.dev", "source_record_id": "yc-32227", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "Glen", "canonical_name": "Glean", "source_record_id": "yc-32226", "match_method": "fuzzy", "confidence": 88.88888888888889}
+{"raw_name": "Glen", "canonical_name": "Glen", "source_record_id": "yc-32226", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Stoa", "canonical_name": "Stoa", "source_record_id": "yc-32225", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Marble", "canonical_name": "Marble", "source_record_id": "yc-32223", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Audun", "canonical_name": "Audun", "source_record_id": "yc-32222", "match_method": "manual_seed", "confidence": null}
@@ -142,12 +142,12 @@
 {"raw_name": "LemonLime", "canonical_name": "LemonLime", "source_record_id": "yc-32171", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Speko", "canonical_name": "Speko", "source_record_id": "yc-32169", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Synapse Semiconductor", "canonical_name": "Synapse Semiconductor", "source_record_id": "yc-32168", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "Understudy Labs", "canonical_name": "Modal", "source_record_id": "yc-32167", "match_method": "fuzzy", "confidence": 85.5}
+{"raw_name": "Understudy Labs", "canonical_name": "Understudy Labs", "source_record_id": "yc-32167", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Studio", "canonical_name": "Studio", "source_record_id": "yc-32162", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Bernard", "canonical_name": "Bernard", "source_record_id": "yc-32161", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Maingen", "canonical_name": "Maingen", "source_record_id": "yc-32157", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Enact", "canonical_name": "Enact", "source_record_id": "yc-32156", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "Rex", "canonical_name": "Brex", "source_record_id": "yc-32155", "match_method": "fuzzy", "confidence": 90.0}
+{"raw_name": "Rex", "canonical_name": "Rex", "source_record_id": "yc-32155", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Zomma", "canonical_name": "Zomma", "source_record_id": "yc-32154", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Nebula Security", "canonical_name": "Nebula Security", "source_record_id": "yc-32138", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Palisade", "canonical_name": "Palisade", "source_record_id": "yc-32136", "match_method": "exact", "confidence": null}
@@ -198,17 +198,838 @@
 {"raw_name": "Osmaura", "canonical_name": "Osmaura", "source_record_id": "yc-31342", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Most Robotic", "canonical_name": "Most Robotic", "source_record_id": "yc-31341", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Illume Labs", "canonical_name": "Illume Labs", "source_record_id": "yc-31340", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Hedge", "canonical_name": "Hedge", "source_record_id": "yc-31323", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Litmus", "canonical_name": "Litmus", "source_record_id": "yc-31304", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Shofo", "canonical_name": "Shofo", "source_record_id": "yc-31300", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Carrot Labs", "canonical_name": "Carrot Labs", "source_record_id": "yc-31295", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Ossus", "canonical_name": "Ossus", "source_record_id": "yc-31283", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Dipole Labs", "canonical_name": "Dipole Labs", "source_record_id": "yc-31277", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Poth Labs", "canonical_name": "Poth Labs", "source_record_id": "yc-31272", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Cova", "canonical_name": "Cova", "source_record_id": "yc-31268", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Veriad", "canonical_name": "Veriad", "source_record_id": "yc-31263", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Talking Computers", "canonical_name": "Talking Computers", "source_record_id": "yc-31262", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Tsenta", "canonical_name": "Tsenta", "source_record_id": "yc-31259", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Dream", "canonical_name": "Dream", "source_record_id": "yc-31258", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Atlia", "canonical_name": "Atlia", "source_record_id": "yc-31257", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Grade", "canonical_name": "Grade", "source_record_id": "yc-31255", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Inth", "canonical_name": "Inth", "source_record_id": "yc-31246", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Turnstone", "canonical_name": "Turnstone", "source_record_id": "yc-31244", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Foreman", "canonical_name": "Foreman", "source_record_id": "yc-31243", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Corelayer", "canonical_name": "Corelayer", "source_record_id": "yc-31241", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "o11", "canonical_name": "o11", "source_record_id": "yc-31230", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Libra Robotics", "canonical_name": "Lambda Robotics", "source_record_id": "yc-31226", "match_method": "fuzzy", "confidence": 82.75862068965517}
+{"raw_name": "Servo7", "canonical_name": "Servo7", "source_record_id": "yc-31224", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Datoric", "canonical_name": "Datoric", "source_record_id": "yc-31223", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Superset", "canonical_name": "Superset", "source_record_id": "yc-31222", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Voxel Energy", "canonical_name": "Voxel Energy", "source_record_id": "yc-31219", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Archal", "canonical_name": "Archal", "source_record_id": "yc-31216", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Bubble Lab", "canonical_name": "Bubble Lab", "source_record_id": "yc-31215", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Sitefire", "canonical_name": "Sitefire", "source_record_id": "yc-31203", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Ressl AI", "canonical_name": "Ressl AI", "source_record_id": "yc-31200", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "InventoryQuant", "canonical_name": "InventoryQuant", "source_record_id": "yc-31197", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Approxima", "canonical_name": "Approxima", "source_record_id": "yc-31192", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Traverse", "canonical_name": "Traverse", "source_record_id": "yc-31191", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Revion", "canonical_name": "Revion", "source_record_id": "yc-31189", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Fenrock AI", "canonical_name": "Fenrock AI", "source_record_id": "yc-31187", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Assemble", "canonical_name": "Assemble", "source_record_id": "yc-31184", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Visibl Semiconductors", "canonical_name": "Visibl Semiconductors", "source_record_id": "yc-31182", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Seeing Systems", "canonical_name": "Seeing Systems", "source_record_id": "yc-31180", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Instinct", "canonical_name": "Instinct", "source_record_id": "yc-31168", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "IncidentFox", "canonical_name": "IncidentFox", "source_record_id": "yc-31165", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Rapidfolio", "canonical_name": "Rapidfolio", "source_record_id": "yc-31161", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Salus", "canonical_name": "Salus", "source_record_id": "yc-31147", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "RamAIn", "canonical_name": "RamAIn", "source_record_id": "yc-31145", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Ashr", "canonical_name": "Ashr", "source_record_id": "yc-31139", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Piris Labs", "canonical_name": "Piris Labs", "source_record_id": "yc-31114", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "10x Science", "canonical_name": "10x Science", "source_record_id": "yc-31098", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Imperfect", "canonical_name": "Imperfect", "source_record_id": "yc-31076", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "OneTriangle", "canonical_name": "OneTriangle", "source_record_id": "yc-31074", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Corvera", "canonical_name": "Corvera", "source_record_id": "yc-31051", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Linzumi", "canonical_name": "Linzumi", "source_record_id": "yc-31046", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Haladir", "canonical_name": "Haladir", "source_record_id": "yc-31030", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "ClaimGlide", "canonical_name": "ClaimGlide", "source_record_id": "yc-31025", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Ndea", "canonical_name": "Ndea", "source_record_id": "yc-31019", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Rivet", "canonical_name": "Rivet", "source_record_id": "yc-31013", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Openroll", "canonical_name": "Openroll", "source_record_id": "yc-31011", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Amika", "canonical_name": "Amika", "source_record_id": "yc-31010", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Moss", "canonical_name": "Moss", "source_record_id": "yc-31008", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Zarna", "canonical_name": "Zarna", "source_record_id": "yc-31007", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "MarkIt", "canonical_name": "MarkIt", "source_record_id": "yc-31005", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Clicks Health", "canonical_name": "Clicks Health", "source_record_id": "yc-31002", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Fastshot", "canonical_name": "Fastshot", "source_record_id": "yc-31001", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Antigen", "canonical_name": "Antigen", "source_record_id": "yc-30999", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "LunaBill", "canonical_name": "LunaBill", "source_record_id": "yc-30997", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Axial", "canonical_name": "Axial", "source_record_id": "yc-30996", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Velvet", "canonical_name": "Velvet", "source_record_id": "yc-30995", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "DiligenceSquared", "canonical_name": "DiligenceSquared", "source_record_id": "yc-30993", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Layers", "canonical_name": "Layers", "source_record_id": "yc-30983", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Boom AI", "canonical_name": "Boom AI", "source_record_id": "yc-30982", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Freeport Markets", "canonical_name": "Freeport Markets", "source_record_id": "yc-30981", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "MadeThis", "canonical_name": "MadeThis", "source_record_id": "yc-30975", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Lemma", "canonical_name": "Lemma", "source_record_id": "yc-30969", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Perseus", "canonical_name": "Perseus", "source_record_id": "yc-30967", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Denki", "canonical_name": "Denki", "source_record_id": "yc-30962", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Specific", "canonical_name": "Specific", "source_record_id": "yc-30954", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Relaw", "canonical_name": "Relaw", "source_record_id": "yc-30953", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Narrative", "canonical_name": "Narrative", "source_record_id": "yc-30950", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Philon", "canonical_name": "Philon", "source_record_id": "yc-30947", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Sourcebot", "canonical_name": "Sourcebot", "source_record_id": "yc-30946", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Aside", "canonical_name": "Aside", "source_record_id": "yc-30943", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Imagine AI", "canonical_name": "Imagine AI", "source_record_id": "yc-30938", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Anto Biosciences", "canonical_name": "Anto Biosciences", "source_record_id": "yc-30937", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Patent Watch", "canonical_name": "Patent Watch", "source_record_id": "yc-30936", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Leadbay", "canonical_name": "Leadbay", "source_record_id": "yc-30932", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Pixley AI", "canonical_name": "Pixley AI", "source_record_id": "yc-30931", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Cortex AI", "canonical_name": "Cortex AI", "source_record_id": "yc-30930", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Radius", "canonical_name": "Radius", "source_record_id": "yc-30929", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Thesis", "canonical_name": "Thesis", "source_record_id": "yc-30928", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Frontier Computing", "canonical_name": "Frontier Computing", "source_record_id": "yc-30923", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Compyle", "canonical_name": "Compyle", "source_record_id": "yc-30921", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Lexi", "canonical_name": "Lexi", "source_record_id": "yc-30920", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Codyco", "canonical_name": "Codyco", "source_record_id": "yc-30919", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "ComplyDo", "canonical_name": "ComplyDo", "source_record_id": "yc-30918", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "FinalDose", "canonical_name": "FinalDose", "source_record_id": "yc-30915", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Redapto", "canonical_name": "Redapto", "source_record_id": "yc-30912", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Helonic", "canonical_name": "Helonic", "source_record_id": "yc-30911", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Aleph Lab", "canonical_name": "Aleph Lab", "source_record_id": "yc-30910", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Logical", "canonical_name": "Logical", "source_record_id": "yc-30907", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Agentic Fabriq", "canonical_name": "Agentic Fabriq", "source_record_id": "yc-30906", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "LogosGuard", "canonical_name": "LogosGuard", "source_record_id": "yc-30900", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Sciloop", "canonical_name": "Sciloop", "source_record_id": "yc-30899", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Allus AI", "canonical_name": "Allus AI", "source_record_id": "yc-30895", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Unsiloed AI", "canonical_name": "Unsiloed AI", "source_record_id": "yc-30894", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Nivara", "canonical_name": "Nivara", "source_record_id": "yc-30889", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "SellRaze", "canonical_name": "SellRaze", "source_record_id": "yc-30887", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Clerked", "canonical_name": "Clerked", "source_record_id": "yc-30886", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Semble", "canonical_name": "Assemble", "source_record_id": "yc-30885", "match_method": "fuzzy", "confidence": 85.71428571428572}
+{"raw_name": "Flick", "canonical_name": "Flick", "source_record_id": "yc-30884", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Trelium", "canonical_name": "Trelium", "source_record_id": "yc-30877", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Veria Labs", "canonical_name": "Veria Labs", "source_record_id": "yc-30875", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Tell if AI", "canonical_name": "Tell if AI", "source_record_id": "yc-30873", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Bron", "canonical_name": "Bron", "source_record_id": "yc-30871", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Norra", "canonical_name": "Norra", "source_record_id": "yc-30868", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Soren", "canonical_name": "Soren", "source_record_id": "yc-30867", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "The Context Company", "canonical_name": "The Context Company", "source_record_id": "yc-30863", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Sorce", "canonical_name": "Sorce", "source_record_id": "yc-30862", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Caddy", "canonical_name": "Caddy", "source_record_id": "yc-30861", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Locus", "canonical_name": "Locus", "source_record_id": "yc-30859", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Scoop", "canonical_name": "Scoop", "source_record_id": "yc-30856", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Hyperspell", "canonical_name": "Hyperspell", "source_record_id": "yc-30854", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Bolna AI", "canonical_name": "Bolna AI", "source_record_id": "yc-30853", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Nexus", "canonical_name": "Nexus", "source_record_id": "yc-30852", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Zavo", "canonical_name": "Zavo", "source_record_id": "yc-30850", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "MOVEdot", "canonical_name": "MOVEdot", "source_record_id": "yc-30849", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Structured AI", "canonical_name": "Structured AI", "source_record_id": "yc-30845", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Uplane", "canonical_name": "Uplane", "source_record_id": "yc-30844", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Brickanta", "canonical_name": "Brickanta", "source_record_id": "yc-30835", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "F2", "canonical_name": "F2", "source_record_id": "yc-30832", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Lapis", "canonical_name": "Lapis", "source_record_id": "yc-30822", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Digipals", "canonical_name": "Digipals", "source_record_id": "yc-30816", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Blue", "canonical_name": "Blue", "source_record_id": "yc-30813", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Mixy", "canonical_name": "Mixy", "source_record_id": "yc-30812", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Paloma", "canonical_name": "Paloma", "source_record_id": "yc-30807", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Luminal", "canonical_name": "Luminal", "source_record_id": "yc-30804", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "burnt", "canonical_name": "burnt", "source_record_id": "yc-30801", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Veritus", "canonical_name": "Veritus", "source_record_id": "yc-30797", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Sapien", "canonical_name": "Sapien", "source_record_id": "yc-30796", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "NOSO LABS", "canonical_name": "NOSO LABS", "source_record_id": "yc-30795", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Bizzy AI", "canonical_name": "Bizzy AI", "source_record_id": "yc-30792", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Interfere", "canonical_name": "Interfere", "source_record_id": "yc-30789", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "RowFlow", "canonical_name": "RowFlow", "source_record_id": "yc-30785", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "TectoAI", "canonical_name": "TectoAI", "source_record_id": "yc-30782", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Modelence", "canonical_name": "Modelence", "source_record_id": "yc-30777", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Fleetline", "canonical_name": "Fleetline", "source_record_id": "yc-30775", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "CLODO", "canonical_name": "CLODO", "source_record_id": "yc-30774", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Okibi", "canonical_name": "Okibi", "source_record_id": "yc-30768", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Rebulk", "canonical_name": "Rebulk", "source_record_id": "yc-30763", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "KERNEL", "canonical_name": "KERNEL", "source_record_id": "yc-30762", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Reacher", "canonical_name": "Reacher", "source_record_id": "yc-30761", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Certus AI", "canonical_name": "Certus AI", "source_record_id": "yc-30759", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Notte", "canonical_name": "Notte", "source_record_id": "yc-30756", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Pally", "canonical_name": "Pally", "source_record_id": "yc-30755", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Pleom", "canonical_name": "Pleom", "source_record_id": "yc-30748", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "SigmanticAI", "canonical_name": "Simantic", "source_record_id": "yc-30744", "match_method": "fuzzy", "confidence": 84.21052631578947}
+{"raw_name": "Quotain", "canonical_name": "Quotain", "source_record_id": "yc-30739", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Altur", "canonical_name": "Altur", "source_record_id": "yc-30738", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "PARES AI", "canonical_name": "PARES AI", "source_record_id": "yc-30736", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Evergrove", "canonical_name": "Evergrove", "source_record_id": "yc-30735", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Humoniq", "canonical_name": "Humoniq", "source_record_id": "yc-30732", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Maximal", "canonical_name": "Axial", "source_record_id": "yc-30731", "match_method": "fuzzy", "confidence": 83.33333333333334}
+{"raw_name": "Floot", "canonical_name": "Floot", "source_record_id": "yc-30729", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "OS3", "canonical_name": "OS3", "source_record_id": "yc-30728", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Alara", "canonical_name": "Alara", "source_record_id": "yc-30727", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Omnara", "canonical_name": "Omnara", "source_record_id": "yc-30722", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Knowlify", "canonical_name": "Knowlify", "source_record_id": "yc-30721", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Autosana", "canonical_name": "Autosana", "source_record_id": "yc-30720", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "ProcIndex", "canonical_name": "ProcIndex", "source_record_id": "yc-30719", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Finto", "canonical_name": "Finto", "source_record_id": "yc-30716", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Motives", "canonical_name": "Motives", "source_record_id": "yc-30713", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Relling", "canonical_name": "Relling", "source_record_id": "yc-30712", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Char", "canonical_name": "Char", "source_record_id": "yc-30711", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Manufact", "canonical_name": "Manufact", "source_record_id": "yc-30710", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Phases", "canonical_name": "Phases", "source_record_id": "yc-30707", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Physical Turing", "canonical_name": "Physical Turing", "source_record_id": "yc-30703", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "TwentyTwo", "canonical_name": "TwentyTwo", "source_record_id": "yc-30702", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Mimos", "canonical_name": "Mimos", "source_record_id": "yc-30701", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Nozomio", "canonical_name": "Nozomio", "source_record_id": "yc-30700", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "VibeFlow", "canonical_name": "VibeFlow", "source_record_id": "yc-30699", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Normal", "canonical_name": "Normal", "source_record_id": "yc-30697", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "GhostEye", "canonical_name": "GhostEye", "source_record_id": "yc-30696", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Channel3", "canonical_name": "Channel3", "source_record_id": "yc-30695", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Embedder", "canonical_name": "Embedder", "source_record_id": "yc-30691", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Trace", "canonical_name": "Trace", "source_record_id": "yc-30687", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "OneStop", "canonical_name": "OneStop", "source_record_id": "yc-30686", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Doe", "canonical_name": "Doe", "source_record_id": "yc-30684", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Riverbank", "canonical_name": "Riverbank", "source_record_id": "yc-30680", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Stellon Labs", "canonical_name": "Stellon Labs", "source_record_id": "yc-30676", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Induction Labs", "canonical_name": "Induction Labs", "source_record_id": "yc-30672", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Panoptive", "canonical_name": "Panoptive", "source_record_id": "yc-30671", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Kestroll", "canonical_name": "Kestroll", "source_record_id": "yc-30664", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Tesora", "canonical_name": "Tesora", "source_record_id": "yc-30663", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "DeepAware AI (Robotics Center of Silicon Valley)", "canonical_name": "DeepAware AI (Robotics Center of Silicon Valley)", "source_record_id": "yc-30662", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Stockline", "canonical_name": "Stockline", "source_record_id": "yc-30661", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Magnitude", "canonical_name": "Magnitude", "source_record_id": "yc-30660", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Proliferate", "canonical_name": "Proliferate", "source_record_id": "yc-30659", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Nori", "canonical_name": "Nori", "source_record_id": "yc-30657", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Frizzle", "canonical_name": "Frizzle", "source_record_id": "yc-30655", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Async", "canonical_name": "Async", "source_record_id": "yc-30653", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Alter", "canonical_name": "Alter", "source_record_id": "yc-30651", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Lilac", "canonical_name": "Lilac", "source_record_id": "yc-30649", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Cyberdesk", "canonical_name": "Cyberdesk", "source_record_id": "yc-30647", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Wafer", "canonical_name": "Wafer", "source_record_id": "yc-30644", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Monarcha", "canonical_name": "Monarcha", "source_record_id": "yc-30640", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Lotas", "canonical_name": "Lotas", "source_record_id": "yc-30638", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Design Arena", "canonical_name": "Design Arena", "source_record_id": "yc-30637", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "EffiGov", "canonical_name": "EffiGov", "source_record_id": "yc-30636", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Lark", "canonical_name": "Lark", "source_record_id": "yc-30630", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Topological", "canonical_name": "Topological", "source_record_id": "yc-30629", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Datafruit", "canonical_name": "Datafruit", "source_record_id": "yc-30628", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "ContextFort", "canonical_name": "ContextFort", "source_record_id": "yc-30626", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "LLM Stats", "canonical_name": "LLM Stats", "source_record_id": "yc-30625", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Playgent", "canonical_name": "Playgent", "source_record_id": "yc-30623", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Liva AI", "canonical_name": "Liva AI", "source_record_id": "yc-30622", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Lanesurf", "canonical_name": "Lanesurf", "source_record_id": "yc-30615", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Astor", "canonical_name": "Astor", "source_record_id": "yc-30614", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "truthsystems", "canonical_name": "truthsystems", "source_record_id": "yc-30612", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "TraceRoot.AI", "canonical_name": "TraceRoot.AI", "source_record_id": "yc-30610", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "MangoDesk", "canonical_name": "MangoDesk", "source_record_id": "yc-30608", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Dedalus Labs", "canonical_name": "Dedalus Labs", "source_record_id": "yc-30605", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Closera", "canonical_name": "Closera", "source_record_id": "yc-30603", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Meteor", "canonical_name": "Meteor", "source_record_id": "yc-30602", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Adaptional", "canonical_name": "Adaptional", "source_record_id": "yc-30596", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Prox", "canonical_name": "Prox", "source_record_id": "yc-30592", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Autonomous Technologies Group", "canonical_name": "Autonomous Technologies Group", "source_record_id": "yc-30591", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Fifth Door", "canonical_name": "Fifth Door", "source_record_id": "yc-30569", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Cohesive", "canonical_name": "Cohesive", "source_record_id": "yc-30565", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Docket", "canonical_name": "Docket", "source_record_id": "yc-30562", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Sureform", "canonical_name": "Sureform", "source_record_id": "yc-30561", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Godela", "canonical_name": "Godela", "source_record_id": "yc-30559", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Blueshoe", "canonical_name": "Blueshoe", "source_record_id": "yc-30553", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Text.ai", "canonical_name": "Text.ai", "source_record_id": "yc-30547", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "StarSling", "canonical_name": "StarSling", "source_record_id": "yc-30545", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Wavedash", "canonical_name": "Wavedash", "source_record_id": "yc-30544", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Cactus", "canonical_name": "Cactus", "source_record_id": "yc-30543", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Vision Lab", "canonical_name": "Vision Lab", "source_record_id": "yc-30542", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Code Four", "canonical_name": "Code Four", "source_record_id": "yc-30541", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Lumari", "canonical_name": "Lumari", "source_record_id": "yc-30540", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Pelica", "canonical_name": "Pelica", "source_record_id": "yc-30533", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Nimbic AI", "canonical_name": "Nimbic AI", "source_record_id": "yc-30532", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Moby Analytics", "canonical_name": "Moby Analytics", "source_record_id": "yc-30531", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Rimba", "canonical_name": "Rimba", "source_record_id": "yc-30530", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Adentris", "canonical_name": "Adentris", "source_record_id": "yc-30529", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Mesmer", "canonical_name": "Mesmer", "source_record_id": "yc-30523", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Na\u00efve", "canonical_name": "Na\u00efve", "source_record_id": "yc-30522", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Kairos", "canonical_name": "Kairos", "source_record_id": "yc-30521", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Hemut", "canonical_name": "Hemut", "source_record_id": "yc-30519", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Orchid", "canonical_name": "Orchid", "source_record_id": "yc-30518", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Bramante", "canonical_name": "Bramante", "source_record_id": "yc-30516", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Eloquent AI", "canonical_name": "Eloquent AI", "source_record_id": "yc-30513", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "MorphoAI", "canonical_name": "MorphoAI", "source_record_id": "yc-30512", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Cactus Compute", "canonical_name": "Cactus Compute", "source_record_id": "yc-30510", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Boost Robotics", "canonical_name": "Most Robotic", "source_record_id": "yc-30509", "match_method": "fuzzy", "confidence": 84.61538461538461}
+{"raw_name": "Cartpole", "canonical_name": "Cartpole", "source_record_id": "yc-30501", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Besimple AI", "canonical_name": "Besimple AI", "source_record_id": "yc-30500", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Human Behavior", "canonical_name": "Human Behavior", "source_record_id": "yc-30497", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "QualGent", "canonical_name": "QualGent", "source_record_id": "yc-30496", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Theta", "canonical_name": "Theta", "source_record_id": "yc-30488", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "IRBC", "canonical_name": "IRBC", "source_record_id": "yc-30487", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Anana", "canonical_name": "Anana", "source_record_id": "yc-30485", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "throxy", "canonical_name": "throxy", "source_record_id": "yc-30484", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Lucis", "canonical_name": "Lucis", "source_record_id": "yc-30482", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Crimson", "canonical_name": "Crimson", "source_record_id": "yc-30479", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Nomi", "canonical_name": "Nomi", "source_record_id": "yc-30476", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Morphik", "canonical_name": "Morphik", "source_record_id": "yc-30475", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "HABIT", "canonical_name": "HABIT", "source_record_id": "yc-30469", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Clidey", "canonical_name": "Clidey", "source_record_id": "yc-30468", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Sixtyfour", "canonical_name": "Sixtyfour", "source_record_id": "yc-30464", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Tegore", "canonical_name": "Tegore", "source_record_id": "yc-30463", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Freesolo", "canonical_name": "Freesolo", "source_record_id": "yc-30462", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Tinfoil", "canonical_name": "Tinfoil", "source_record_id": "yc-30456", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Paper Instruments", "canonical_name": "Paper Instruments", "source_record_id": "yc-30455", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Parsewise", "canonical_name": "Parsewise", "source_record_id": "yc-30453", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Bluejay", "canonical_name": "Bluejay", "source_record_id": "yc-30451", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Kestral", "canonical_name": "Kestral", "source_record_id": "yc-30450", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Kirana AI", "canonical_name": "Kirana AI", "source_record_id": "yc-30446", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Mbodi AI", "canonical_name": "Mbodi AI", "source_record_id": "yc-30445", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Units", "canonical_name": "Units", "source_record_id": "yc-30443", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Hanji", "canonical_name": "Hanji", "source_record_id": "yc-30442", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "stratify", "canonical_name": "stratify", "source_record_id": "yc-30441", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Sim", "canonical_name": "Sim", "source_record_id": "yc-30440", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Clarm", "canonical_name": "Clarm", "source_record_id": "yc-30439", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Beluga", "canonical_name": "Beluga", "source_record_id": "yc-30438", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Kaelio", "canonical_name": "Kaelio", "source_record_id": "yc-30437", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Zeon Systems", "canonical_name": "Zeon Systems", "source_record_id": "yc-30434", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "HelixDB", "canonical_name": "HelixDB", "source_record_id": "yc-30432", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Feyn", "canonical_name": "Feyn", "source_record_id": "yc-30431", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Almond", "canonical_name": "Almond", "source_record_id": "yc-30430", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Acolite", "canonical_name": "Acolite", "source_record_id": "yc-30427", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Ralo", "canonical_name": "Ralo", "source_record_id": "yc-30426", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "neoncoral", "canonical_name": "neoncoral", "source_record_id": "yc-30423", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Synthio Labs", "canonical_name": "Synthio Labs", "source_record_id": "yc-30421", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Serafis", "canonical_name": "Serafis", "source_record_id": "yc-30413", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Golf", "canonical_name": "Golf", "source_record_id": "yc-30407", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "BitBoard", "canonical_name": "BitBoard", "source_record_id": "yc-30406", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "nao Labs", "canonical_name": "NOSO LABS", "source_record_id": "yc-30405", "match_method": "fuzzy", "confidence": 82.35294117647058}
+{"raw_name": "Kashikoi", "canonical_name": "Kashikoi", "source_record_id": "yc-30402", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Plexe", "canonical_name": "Plexe", "source_record_id": "yc-30400", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Frekil", "canonical_name": "Frekil", "source_record_id": "yc-30399", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Chestnut", "canonical_name": "Chestnut", "source_record_id": "yc-30384", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Blaxel", "canonical_name": "Blaxel", "source_record_id": "yc-30366", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Mentra", "canonical_name": "Mentra", "source_record_id": "yc-30365", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Monte", "canonical_name": "Monte", "source_record_id": "yc-30352", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Dex", "canonical_name": "Dex", "source_record_id": "yc-30351", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Browser Use", "canonical_name": "Browser Use", "source_record_id": "yc-30341", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "TamLabs", "canonical_name": "TamLabs", "source_record_id": "yc-30340", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Ergo", "canonical_name": "Ergo", "source_record_id": "yc-30339", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "CopyCat", "canonical_name": "CopyCat", "source_record_id": "yc-30338", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Bluebook", "canonical_name": "Bluebook", "source_record_id": "yc-30334", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Waffle", "canonical_name": "Waffle", "source_record_id": "yc-30329", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Roark", "canonical_name": "Roark", "source_record_id": "yc-30325", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Rebolt", "canonical_name": "Rebolt", "source_record_id": "yc-30324", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Spott", "canonical_name": "Spott", "source_record_id": "yc-30322", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Woz", "canonical_name": "Woz", "source_record_id": "yc-30321", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Proception Inc", "canonical_name": "Proception Inc", "source_record_id": "yc-30320", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Wildcard", "canonical_name": "Wildcard", "source_record_id": "yc-30318", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Pinch", "canonical_name": "Pinch", "source_record_id": "yc-30314", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Mastra", "canonical_name": "Mastra", "source_record_id": "yc-30304", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "AfterQuery", "canonical_name": "AfterQuery", "source_record_id": "yc-30303", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Artificial Societies", "canonical_name": "Artificial Societies", "source_record_id": "yc-30298", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Sennu AI", "canonical_name": "Sennu AI", "source_record_id": "yc-30294", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Mesh", "canonical_name": "Mesh", "source_record_id": "yc-30292", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Outlit", "canonical_name": "Outlit", "source_record_id": "yc-30291", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Harper", "canonical_name": "Harper", "source_record_id": "yc-30288", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Calltree", "canonical_name": "Calltree", "source_record_id": "yc-30287", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Nitrode", "canonical_name": "Nitrode", "source_record_id": "yc-30286", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Exla", "canonical_name": "Exla", "source_record_id": "yc-30284", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Confident AI", "canonical_name": "Confident AI", "source_record_id": "yc-30283", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Riviera", "canonical_name": "Riviera", "source_record_id": "yc-30282", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Agentin AI", "canonical_name": "Agentin AI", "source_record_id": "yc-30278", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "General Trajectory", "canonical_name": "General Trajectory", "source_record_id": "yc-30276", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Trata", "canonical_name": "Trata", "source_record_id": "yc-30274", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Candor", "canonical_name": "Candor", "source_record_id": "yc-30273", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Lucidic AI", "canonical_name": "Lucidic AI", "source_record_id": "yc-30272", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Mundo AI", "canonical_name": "Mundo AI", "source_record_id": "yc-30271", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Liquid Compute", "canonical_name": "Liquid Compute", "source_record_id": "yc-30269", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Lopus", "canonical_name": "Lopus", "source_record_id": "yc-30267", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Cenote", "canonical_name": "Cenote", "source_record_id": "yc-30266", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Harbera", "canonical_name": "Harbera", "source_record_id": "yc-30265", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Stillwind", "canonical_name": "Stillwind", "source_record_id": "yc-30264", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Pickle", "canonical_name": "Pickle", "source_record_id": "yc-30262", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Asteroid", "canonical_name": "Asteroid", "source_record_id": "yc-30259", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Gale", "canonical_name": "Gale", "source_record_id": "yc-30258", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Olive", "canonical_name": "Olive", "source_record_id": "yc-30255", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "HUD", "canonical_name": "HUD", "source_record_id": "yc-30254", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Cuckoo Labs", "canonical_name": "Cuckoo Labs", "source_record_id": "yc-30252", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Mecha Health", "canonical_name": "Mecha Health", "source_record_id": "yc-30251", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Osmosis", "canonical_name": "Osmosis", "source_record_id": "yc-30247", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Swerve", "canonical_name": "Swerve", "source_record_id": "yc-30246", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Cifrato", "canonical_name": "Cifrato", "source_record_id": "yc-30243", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Oki", "canonical_name": "Oki", "source_record_id": "yc-30242", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Cardamon", "canonical_name": "Cardamon", "source_record_id": "yc-30239", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Trim", "canonical_name": "Trim", "source_record_id": "yc-30237", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Tergle", "canonical_name": "Tergle", "source_record_id": "yc-30236", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Rally", "canonical_name": "Rally", "source_record_id": "yc-30235", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Adam", "canonical_name": "Adam", "source_record_id": "yc-30234", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "SalesPatriot", "canonical_name": "SalesPatriot", "source_record_id": "yc-30230", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Maive", "canonical_name": "Maive", "source_record_id": "yc-30229", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Weave", "canonical_name": "Weave", "source_record_id": "yc-30228", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Caseflood.ai", "canonical_name": "Caseflood.ai", "source_record_id": "yc-30227", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Elip AI", "canonical_name": "Elip AI", "source_record_id": "yc-30226", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "a0.dev", "canonical_name": "a0.dev", "source_record_id": "yc-30223", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Verbiflow", "canonical_name": "Verbiflow", "source_record_id": "yc-30220", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Toothy AI", "canonical_name": "Toothy AI", "source_record_id": "yc-30218", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Contrario", "canonical_name": "Contrario", "source_record_id": "yc-30215", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Truffle AI", "canonical_name": "Truffle AI", "source_record_id": "yc-30213", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "superglue", "canonical_name": "superglue", "source_record_id": "yc-30212", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Closure", "canonical_name": "Closure", "source_record_id": "yc-30209", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Promptless", "canonical_name": "Promptless", "source_record_id": "yc-30207", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Scout", "canonical_name": "Scout", "source_record_id": "yc-30205", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Vocality Health", "canonical_name": "Vocality Health", "source_record_id": "yc-30203", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Astro", "canonical_name": "Astro", "source_record_id": "yc-30202", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Dartboard", "canonical_name": "Dartboard", "source_record_id": "yc-30201", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Alice.tech", "canonical_name": "Alice.tech", "source_record_id": "yc-30197", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Praxim", "canonical_name": "Praxim", "source_record_id": "yc-30187", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Tweeks.io", "canonical_name": "Tweeks.io", "source_record_id": "yc-30183", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Leaping AI", "canonical_name": "Leaping AI", "source_record_id": "yc-30181", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Vetnio", "canonical_name": "Vetnio", "source_record_id": "yc-30179", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Candor", "canonical_name": "Candor", "source_record_id": "yc-30178", "match_method": "exact", "confidence": null}
+{"raw_name": "Outship", "canonical_name": "Outship", "source_record_id": "yc-30176", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Edexia", "canonical_name": "Edexia", "source_record_id": "yc-30165", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Quantstruct", "canonical_name": "Quantstruct", "source_record_id": "yc-30160", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "HumanLayer", "canonical_name": "HumanLayer", "source_record_id": "yc-30129", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Synth", "canonical_name": "Synth", "source_record_id": "yc-30125", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Careforce", "canonical_name": "Careforce", "source_record_id": "yc-30124", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Relvy AI", "canonical_name": "Relvy AI", "source_record_id": "yc-30117", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Freestyle", "canonical_name": "Freestyle", "source_record_id": "yc-30116", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Laminar", "canonical_name": "Laminar", "source_record_id": "yc-30115", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Melder", "canonical_name": "Melder", "source_record_id": "yc-30113", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Forerunner AI", "canonical_name": "Forerunner AI", "source_record_id": "yc-30110", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Struct", "canonical_name": "Struct", "source_record_id": "yc-30108", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "ArchiLabs", "canonical_name": "ArchiLabs", "source_record_id": "yc-30105", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Metreecs", "canonical_name": "Metreecs", "source_record_id": "yc-30103", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Diffusion Studio", "canonical_name": "Diffusion Studio", "source_record_id": "yc-30102", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Kilvin", "canonical_name": "Kilvin", "source_record_id": "yc-30101", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Innate", "canonical_name": "Innate", "source_record_id": "yc-30097", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Capy", "canonical_name": "Capy", "source_record_id": "yc-30096", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Consus", "canonical_name": "Consus", "source_record_id": "yc-30095", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "PermitPortal", "canonical_name": "PermitPortal", "source_record_id": "yc-30088", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Gecko Security", "canonical_name": "Gecko Security", "source_record_id": "yc-30087", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Moonshine", "canonical_name": "Moonshine", "source_record_id": "yc-30079", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Abundant", "canonical_name": "Abundant", "source_record_id": "yc-30078", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "AutoComputer", "canonical_name": "AutoComputer", "source_record_id": "yc-30077", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "vly.ai", "canonical_name": "vly.ai", "source_record_id": "yc-30074", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Pearson Labs", "canonical_name": "Pearson Labs", "source_record_id": "yc-30073", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Stewdio", "canonical_name": "Stewdio", "source_record_id": "yc-30068", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Unusual", "canonical_name": "Unusual", "source_record_id": "yc-30066", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "HYBRD", "canonical_name": "HYBRD", "source_record_id": "yc-30064", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Freebuff", "canonical_name": "Freebuff", "source_record_id": "yc-30063", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Lingo.dev", "canonical_name": "Lingo.dev", "source_record_id": "yc-30060", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Luthor", "canonical_name": "Luthor", "source_record_id": "yc-30057", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Keye", "canonical_name": "Keye", "source_record_id": "yc-30056", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "RiskCube", "canonical_name": "RiskCube", "source_record_id": "yc-30055", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "CTGT", "canonical_name": "CTGT", "source_record_id": "yc-30054", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "ISSEN", "canonical_name": "ISSEN", "source_record_id": "yc-30052", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "attimet", "canonical_name": "attimet", "source_record_id": "yc-30051", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Matcha", "canonical_name": "Matcha", "source_record_id": "yc-30048", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Endstack", "canonical_name": "Endstack", "source_record_id": "yc-30047", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Archil", "canonical_name": "Archal", "source_record_id": "yc-30045", "match_method": "fuzzy", "confidence": 83.33333333333334}
+{"raw_name": "Vespper", "canonical_name": "Vespper", "source_record_id": "yc-30043", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Vortexify", "canonical_name": "Vortexify", "source_record_id": "yc-30042", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Revyl", "canonical_name": "Revyl", "source_record_id": "yc-30041", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Raycaster", "canonical_name": "Raycaster", "source_record_id": "yc-30039", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "HealthSpark", "canonical_name": "HealthSpark", "source_record_id": "yc-30034", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Openbenchmarks", "canonical_name": "Openbenchmarks", "source_record_id": "yc-30033", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Darkgrade", "canonical_name": "Darkgrade", "source_record_id": "yc-30032", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Candle", "canonical_name": "Candle", "source_record_id": "yc-30030", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Streamable", "canonical_name": "Streamable", "source_record_id": "yc-30023", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Symphony", "canonical_name": "Symphony", "source_record_id": "yc-30022", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Galini", "canonical_name": "Galini", "source_record_id": "yc-30018", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Riveter", "canonical_name": "Rivet", "source_record_id": "yc-30017", "match_method": "fuzzy", "confidence": 83.33333333333334}
+{"raw_name": "Onlook", "canonical_name": "Onlook", "source_record_id": "yc-29999", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "DreamRP", "canonical_name": "Dream", "source_record_id": "yc-29990", "match_method": "fuzzy", "confidence": 83.33333333333334}
+{"raw_name": "Conductor", "canonical_name": "Conductor", "source_record_id": "yc-29989", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Delineate", "canonical_name": "Delineate", "source_record_id": "yc-29988", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Syntra", "canonical_name": "Syntra", "source_record_id": "yc-29987", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "PathPilot", "canonical_name": "PathPilot", "source_record_id": "yc-29983", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Merlin AI", "canonical_name": "Merlin AI", "source_record_id": "yc-29977", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Freestyle", "canonical_name": "Freestyle", "source_record_id": "yc-29976", "match_method": "exact", "confidence": null}
+{"raw_name": "Arva AI", "canonical_name": "Tara AI", "source_record_id": "yc-29973", "match_method": "fuzzy", "confidence": 85.71428571428572}
+{"raw_name": "Affil.ai", "canonical_name": "Affil.ai", "source_record_id": "yc-29972", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Overlap", "canonical_name": "Overlap", "source_record_id": "yc-29964", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Capitol AI", "canonical_name": "Capitol AI", "source_record_id": "yc-29963", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Void", "canonical_name": "Void", "source_record_id": "yc-29960", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Anglera", "canonical_name": "Anglera", "source_record_id": "yc-29957", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "BrowserOS", "canonical_name": "BrowserOS", "source_record_id": "yc-29955", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Henry", "canonical_name": "Henry", "source_record_id": "yc-29954", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Ficra", "canonical_name": "Ficra", "source_record_id": "yc-29952", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Pipeshift", "canonical_name": "Pipeshift", "source_record_id": "yc-29950", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Vera Health", "canonical_name": "Vera Health", "source_record_id": "yc-29858", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Pharos", "canonical_name": "Pharos", "source_record_id": "yc-29857", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "et al.", "canonical_name": "et al.", "source_record_id": "yc-29856", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Keet", "canonical_name": "Keet", "source_record_id": "yc-29854", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "No Logo", "canonical_name": "No Logo", "source_record_id": "yc-29853", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Dayflow", "canonical_name": "Dayflow", "source_record_id": "yc-29852", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "SureBright", "canonical_name": "SureBright", "source_record_id": "yc-29850", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Usul", "canonical_name": "Usul", "source_record_id": "yc-29849", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Oway", "canonical_name": "Oway", "source_record_id": "yc-29844", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Elayne", "canonical_name": "Elayne", "source_record_id": "yc-29841", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Blaze", "canonical_name": "Blaze", "source_record_id": "yc-29840", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "TradeFlow", "canonical_name": "TradeFlow", "source_record_id": "yc-29836", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Voker", "canonical_name": "Voker", "source_record_id": "yc-29835", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Rastro", "canonical_name": "Astro", "source_record_id": "yc-29834", "match_method": "fuzzy", "confidence": 90.9090909090909}
+{"raw_name": "Quetzal", "canonical_name": "Quetzal", "source_record_id": "yc-29833", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Typa", "canonical_name": "Typa", "source_record_id": "yc-29830", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Draft The Record", "canonical_name": "Draft The Record", "source_record_id": "yc-29828", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Orca Client", "canonical_name": "Orca Client", "source_record_id": "yc-29826", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Assembly HOA", "canonical_name": "Assembly HOA", "source_record_id": "yc-29824", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "autarc", "canonical_name": "autarc", "source_record_id": "yc-29823", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Polymet", "canonical_name": "Polymet", "source_record_id": "yc-29821", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Propaya", "canonical_name": "Propaya", "source_record_id": "yc-29815", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "ZeroPath", "canonical_name": "ZeroPath", "source_record_id": "yc-29812", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Bluedoor", "canonical_name": "Bluedoor", "source_record_id": "yc-29810", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Starcloud", "canonical_name": "Starcloud", "source_record_id": "yc-29808", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Dataleap", "canonical_name": "Dataleap", "source_record_id": "yc-29807", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Handled", "canonical_name": "Handled", "source_record_id": "yc-29805", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Rescript", "canonical_name": "Rescript", "source_record_id": "yc-29801", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "HeroUI", "canonical_name": "HeroUI", "source_record_id": "yc-29800", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Haystack", "canonical_name": "Haystack", "source_record_id": "yc-29797", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Odo", "canonical_name": "Odo", "source_record_id": "yc-29795", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Cartage", "canonical_name": "Cartage", "source_record_id": "yc-29791", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "YouShift", "canonical_name": "YouShift", "source_record_id": "yc-29790", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Palmier", "canonical_name": "Palmier", "source_record_id": "yc-29786", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Simple AI", "canonical_name": "Besimple AI", "source_record_id": "yc-29785", "match_method": "fuzzy", "confidence": 90.0}
+{"raw_name": "Sensei", "canonical_name": "Sensei", "source_record_id": "yc-29784", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Laminar", "canonical_name": "Laminar", "source_record_id": "yc-29782", "match_method": "exact", "confidence": null}
+{"raw_name": "Presti AI", "canonical_name": "PARES AI", "source_record_id": "yc-29780", "match_method": "fuzzy", "confidence": 82.35294117647058}
+{"raw_name": "The Forecasting Company", "canonical_name": "The Forecasting Company", "source_record_id": "yc-29779", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Praxos", "canonical_name": "Praxos", "source_record_id": "yc-29778", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Zettascale", "canonical_name": "Zettascale", "source_record_id": "yc-29777", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Brighterway", "canonical_name": "Brighterway", "source_record_id": "yc-29775", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Soff", "canonical_name": "Soff", "source_record_id": "yc-29773", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Parley", "canonical_name": "Parley", "source_record_id": "yc-29772", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Thunder Compute", "canonical_name": "Thunder Compute", "source_record_id": "yc-29767", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Kura AI", "canonical_name": "Kura AI", "source_record_id": "yc-29766", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Emergent", "canonical_name": "Emergent", "source_record_id": "yc-29765", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Zeit AI", "canonical_name": "Zeit AI", "source_record_id": "yc-29764", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Piggy Robotics", "canonical_name": "Piggy Robotics", "source_record_id": "yc-29763", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Distro", "canonical_name": "Distro", "source_record_id": "yc-29761", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Mage Legal", "canonical_name": "Mage Legal", "source_record_id": "yc-29760", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Conductor Quantum", "canonical_name": "Conductor Quantum", "source_record_id": "yc-29754", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Opslane", "canonical_name": "Opslane", "source_record_id": "yc-29751", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "winfunc", "canonical_name": "winfunc", "source_record_id": "yc-29750", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Seals AI", "canonical_name": "Seals AI", "source_record_id": "yc-29748", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Drillbit", "canonical_name": "Drillbit", "source_record_id": "yc-29746", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Sharpe", "canonical_name": "Harper", "source_record_id": "yc-29745", "match_method": "fuzzy", "confidence": 83.33333333333334}
+{"raw_name": "Redouble AI", "canonical_name": "Redouble AI", "source_record_id": "yc-29740", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Planbase", "canonical_name": "Planbase", "source_record_id": "yc-29739", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Anara", "canonical_name": "Anara", "source_record_id": "yc-29738", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Vibe", "canonical_name": "Vibe", "source_record_id": "yc-29734", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Zoa Research", "canonical_name": "Zoa Research", "source_record_id": "yc-29731", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Clearly AI", "canonical_name": "Clearly AI", "source_record_id": "yc-29729", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Overstand Labs", "canonical_name": "Overstand Labs", "source_record_id": "yc-29727", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Ontra Mobility", "canonical_name": "Ontra Mobility", "source_record_id": "yc-29724", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Aluna", "canonical_name": "Aluna", "source_record_id": "yc-29723", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Panora", "canonical_name": "Panora", "source_record_id": "yc-29721", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "cmux", "canonical_name": "cmux", "source_record_id": "yc-29719", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "CreativeMode", "canonical_name": "CreativeMode", "source_record_id": "yc-29716", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Anthrogen", "canonical_name": "Anthrogen", "source_record_id": "yc-29713", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Benchify", "canonical_name": "Benchify", "source_record_id": "yc-29712", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Fazeshift", "canonical_name": "Fazeshift", "source_record_id": "yc-29711", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "TaxGPT", "canonical_name": "TaxGPT", "source_record_id": "yc-29710", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Mito Health", "canonical_name": "Mito Health", "source_record_id": "yc-29706", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Lighthouz AI", "canonical_name": "Lighthouz AI", "source_record_id": "yc-29705", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Modus", "canonical_name": "Modus", "source_record_id": "yc-29704", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "LedgerUp", "canonical_name": "LedgerUp", "source_record_id": "yc-29702", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Plume", "canonical_name": "Plume", "source_record_id": "yc-29701", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Stormy", "canonical_name": "Stormy", "source_record_id": "yc-29697", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Dench.com", "canonical_name": "Dench.com", "source_record_id": "yc-29695", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Gauge", "canonical_name": "Gauge", "source_record_id": "yc-29693", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Kenley", "canonical_name": "Kenley", "source_record_id": "yc-29690", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Tivara", "canonical_name": "Nivara", "source_record_id": "yc-29689", "match_method": "fuzzy", "confidence": 83.33333333333334}
+{"raw_name": "MinusX", "canonical_name": "MinusX", "source_record_id": "yc-29687", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Lore", "canonical_name": "Lore", "source_record_id": "yc-29685", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Parahelp", "canonical_name": "Parahelp", "source_record_id": "yc-29684", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "CodeViz", "canonical_name": "CodeViz", "source_record_id": "yc-29683", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "RunLocal AI", "canonical_name": "RunLocal AI", "source_record_id": "yc-29682", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Dodo", "canonical_name": "Dodo", "source_record_id": "yc-29679", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Elevate", "canonical_name": "Elevate", "source_record_id": "yc-29676", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Storia AI", "canonical_name": "Storia AI", "source_record_id": "yc-29673", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "DeepSim, Inc.", "canonical_name": "DeepSim, Inc.", "source_record_id": "yc-29672", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Scape", "canonical_name": "Scape", "source_record_id": "yc-29671", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Proxis", "canonical_name": "Proxis", "source_record_id": "yc-29668", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Willow", "canonical_name": "Willow", "source_record_id": "yc-29666", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Cloudglue", "canonical_name": "Cloudglue", "source_record_id": "yc-29665", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "NetworkOcean", "canonical_name": "NetworkOcean", "source_record_id": "yc-29663", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Silurian", "canonical_name": "Silurian", "source_record_id": "yc-29661", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Unbound", "canonical_name": "Unbound", "source_record_id": "yc-29659", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Decisional AI", "canonical_name": "Decisional AI", "source_record_id": "yc-29655", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Stardrift", "canonical_name": "Stardrift", "source_record_id": "yc-29654", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "FirstWork", "canonical_name": "FirstWork", "source_record_id": "yc-29651", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Sorcerer", "canonical_name": "Sorcerer", "source_record_id": "yc-29650", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Wordware", "canonical_name": "Wordware", "source_record_id": "yc-29649", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Maitai", "canonical_name": "Maitai", "source_record_id": "yc-29647", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Corgi Insurance", "canonical_name": "Corgi Insurance", "source_record_id": "yc-29646", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Sage Care", "canonical_name": "Sage Care", "source_record_id": "yc-29643", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Bayesline", "canonical_name": "Bayesline", "source_record_id": "yc-29636", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "DigitalCarbon", "canonical_name": "DigitalCarbon", "source_record_id": "yc-29635", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Random Labs", "canonical_name": "Random Labs", "source_record_id": "yc-29634", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Unsloth AI", "canonical_name": "Unsloth AI", "source_record_id": "yc-29633", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Codes Health", "canonical_name": "Codes Health", "source_record_id": "yc-29627", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Entangl", "canonical_name": "Entangl", "source_record_id": "yc-29623", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "ProhostAI", "canonical_name": "ProhostAI", "source_record_id": "yc-29607", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Educato", "canonical_name": "Educato", "source_record_id": "yc-29605", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Saphira AI", "canonical_name": "Saphira AI", "source_record_id": "yc-29588", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Mem0", "canonical_name": "Mem0", "source_record_id": "yc-29585", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Cheers", "canonical_name": "Cheers", "source_record_id": "yc-29582", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Understood Care", "canonical_name": "Understood Care", "source_record_id": "yc-29579", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Variant", "canonical_name": "Variant", "source_record_id": "yc-29577", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Doublezero", "canonical_name": "Doublezero", "source_record_id": "yc-29575", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Superunit", "canonical_name": "Superunit", "source_record_id": "yc-29574", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Undermind", "canonical_name": "Undermind", "source_record_id": "yc-29573", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Domu Technology Inc.", "canonical_name": "Domu Technology Inc.", "source_record_id": "yc-29572", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Ultra", "canonical_name": "Ultra", "source_record_id": "yc-29557", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "\u00c5ngstr\u00f6m AI", "canonical_name": "\u00c5ngstr\u00f6m AI", "source_record_id": "yc-29532", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Coval", "canonical_name": "Coval", "source_record_id": "yc-29524", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Marr Labs", "canonical_name": "Marr Labs", "source_record_id": "yc-29522", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Forge Rewards", "canonical_name": "Forge Rewards", "source_record_id": "yc-29519", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "RetailReady", "canonical_name": "RetailReady", "source_record_id": "yc-29517", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Million", "canonical_name": "Million", "source_record_id": "yc-29516", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "GetCrux", "canonical_name": "GetCrux", "source_record_id": "yc-29513", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "InspectMind AI", "canonical_name": "InspectMind AI", "source_record_id": "yc-29511", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Yarn", "canonical_name": "Yarn", "source_record_id": "yc-29510", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "kater.ai", "canonical_name": "kater.ai", "source_record_id": "yc-29507", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Mathos", "canonical_name": "Mathos", "source_record_id": "yc-29506", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Tower", "canonical_name": "Tower", "source_record_id": "yc-29505", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Dragoneye", "canonical_name": "Dragoneye", "source_record_id": "yc-29503", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Latted", "canonical_name": "Latted", "source_record_id": "yc-29501", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Forge", "canonical_name": "Forge", "source_record_id": "yc-29499", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Integuru", "canonical_name": "Integuru", "source_record_id": "yc-29498", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "VoxOps AI", "canonical_name": "VoxOps AI", "source_record_id": "yc-29496", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Reform", "canonical_name": "Sureform", "source_record_id": "yc-29478", "match_method": "fuzzy", "confidence": 85.71428571428572}
+{"raw_name": "Piramidal", "canonical_name": "Piramidal", "source_record_id": "yc-29477", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Evolvere BioSciences", "canonical_name": "Evolvere BioSciences", "source_record_id": "yc-29475", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Spur", "canonical_name": "Spur", "source_record_id": "yc-29474", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Silogy", "canonical_name": "Silogy", "source_record_id": "yc-29472", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Senso", "canonical_name": "Senso", "source_record_id": "yc-29471", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "OpenFoundry", "canonical_name": "OpenFoundry", "source_record_id": "yc-29466", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Magic Hour", "canonical_name": "Magic Hour", "source_record_id": "yc-29461", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Marblism", "canonical_name": "Marblism", "source_record_id": "yc-29456", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "CommodityAI", "canonical_name": "CommodityAI", "source_record_id": "yc-29455", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Veles", "canonical_name": "Veles", "source_record_id": "yc-29454", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Fluently", "canonical_name": "Fluently", "source_record_id": "yc-29452", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Basepilot", "canonical_name": "Basepilot", "source_record_id": "yc-29451", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Aqua Voice", "canonical_name": "Aqua Voice", "source_record_id": "yc-29450", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Deepnight", "canonical_name": "Deepnight", "source_record_id": "yc-29447", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Adapted", "canonical_name": "Adapted", "source_record_id": "yc-29443", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Ocular AI", "canonical_name": "Ocular AI", "source_record_id": "yc-29442", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Retell AI", "canonical_name": "Retell AI", "source_record_id": "yc-29441", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Rove", "canonical_name": "Rove", "source_record_id": "yc-29440", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "camelAI", "canonical_name": "camelAI", "source_record_id": "yc-29439", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Spark", "canonical_name": "Spark", "source_record_id": "yc-29438", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Downlink", "canonical_name": "Downlink", "source_record_id": "yc-29436", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Shepherd", "canonical_name": "Shepherd", "source_record_id": "yc-29432", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Zep AI", "canonical_name": "Zep AI", "source_record_id": "yc-29425", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Openmart", "canonical_name": "Openmart", "source_record_id": "yc-29424", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Alai", "canonical_name": "Alai", "source_record_id": "yc-29420", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Brainbase Labs", "canonical_name": "Brainbase Labs", "source_record_id": "yc-29417", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Focal", "canonical_name": "Focal", "source_record_id": "yc-29416", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Ligo Biosciences", "canonical_name": "Ligo Biosciences", "source_record_id": "yc-29412", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Model ML", "canonical_name": "Model ML", "source_record_id": "yc-29410", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "BetterBasket", "canonical_name": "BetterBasket", "source_record_id": "yc-29409", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "JustAI", "canonical_name": "JustAI", "source_record_id": "yc-29407", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Risotto", "canonical_name": "Risotto", "source_record_id": "yc-29405", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Diana", "canonical_name": "Diana", "source_record_id": "yc-29404", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Yondu", "canonical_name": "Yondu", "source_record_id": "yc-29402", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Raindrop", "canonical_name": "Raindrop", "source_record_id": "yc-29401", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Centauri AI", "canonical_name": "Centauri AI", "source_record_id": "yc-29399", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "ProSights", "canonical_name": "ProSights", "source_record_id": "yc-29398", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Manifold Freight", "canonical_name": "Manifold Freight", "source_record_id": "yc-29397", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "EdgeTrace", "canonical_name": "EdgeTrace", "source_record_id": "yc-29396", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Clarum", "canonical_name": "Clarm", "source_record_id": "yc-29395", "match_method": "fuzzy", "confidence": 90.9090909090909}
+{"raw_name": "OffDeal", "canonical_name": "OffDeal", "source_record_id": "yc-29390", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Overeasy", "canonical_name": "Overeasy", "source_record_id": "yc-29387", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Andy AI", "canonical_name": "Andy AI", "source_record_id": "yc-29386", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Hazel", "canonical_name": "Hazel", "source_record_id": "yc-29385", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Conduit", "canonical_name": "Conduit", "source_record_id": "yc-29380", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Whip", "canonical_name": "Whip", "source_record_id": "yc-29378", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Toma", "canonical_name": "Toma", "source_record_id": "yc-29377", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Carma", "canonical_name": "Carma", "source_record_id": "yc-29376", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Superagent", "canonical_name": "Superagent", "source_record_id": "yc-29374", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Sagaland", "canonical_name": "Sagaland", "source_record_id": "yc-29372", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Ellipsis", "canonical_name": "Ellipsis", "source_record_id": "yc-29365", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Solari AI", "canonical_name": "Solari AI", "source_record_id": "yc-29363", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Pazi", "canonical_name": "Pazi", "source_record_id": "yc-29362", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Salvy", "canonical_name": "Salvy", "source_record_id": "yc-29357", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Centralize", "canonical_name": "Centralize", "source_record_id": "yc-29356", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "NanoCorp", "canonical_name": "NanoCorp", "source_record_id": "yc-29355", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Firebender", "canonical_name": "Firebender", "source_record_id": "yc-29352", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Feldy", "canonical_name": "Feldy", "source_record_id": "yc-29350", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Fuse", "canonical_name": "Fuse", "source_record_id": "yc-29349", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Parallel", "canonical_name": "Parallel", "source_record_id": "yc-29348", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Vibrant Labs", "canonical_name": "Vibrant Labs", "source_record_id": "yc-29347", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "PandasAI", "canonical_name": "PandasAI", "source_record_id": "yc-29345", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "InQuery", "canonical_name": "InQuery", "source_record_id": "yc-29342", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "GloGlo", "canonical_name": "GloGlo", "source_record_id": "yc-29341", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Tamarind Bio", "canonical_name": "Tamarind Bio", "source_record_id": "yc-29340", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Clarion", "canonical_name": "Clarion", "source_record_id": "yc-29339", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Decipher AI", "canonical_name": "Decipher AI", "source_record_id": "yc-29334", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "LemonSlice", "canonical_name": "LemonLime", "source_record_id": "yc-29333", "match_method": "fuzzy", "confidence": 84.21052631578947}
+{"raw_name": "Polished", "canonical_name": "Polished", "source_record_id": "yc-29332", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Guide Labs", "canonical_name": "Guide Labs", "source_record_id": "yc-29328", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Monumint", "canonical_name": "Monumint", "source_record_id": "yc-29326", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Respan", "canonical_name": "Respan", "source_record_id": "yc-29325", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "PromptArmor", "canonical_name": "PromptArmor", "source_record_id": "yc-29324", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Meticulate", "canonical_name": "Meticulate", "source_record_id": "yc-29319", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Attunement", "canonical_name": "Attunement", "source_record_id": "yc-29315", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Copper Health", "canonical_name": "Copper Health", "source_record_id": "yc-29306", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Panelytic", "canonical_name": "Panelytic", "source_record_id": "yc-29303", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Topo", "canonical_name": "Topo", "source_record_id": "yc-29301", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Trellis AI", "canonical_name": "Trellis AI", "source_record_id": "yc-29300", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Ecliptor", "canonical_name": "Ecliptor", "source_record_id": "yc-29299", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Greenboard", "canonical_name": "Greenboard", "source_record_id": "yc-29298", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Eggnog", "canonical_name": "Eggnog", "source_record_id": "yc-29297", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Simplex", "canonical_name": "Simplex", "source_record_id": "yc-29296", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Artisan", "canonical_name": "Artisan", "source_record_id": "yc-29295", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Arini", "canonical_name": "Arini", "source_record_id": "yc-29288", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "PointOne", "canonical_name": "PointOne", "source_record_id": "yc-29286", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "AveryIQ", "canonical_name": "AveryIQ", "source_record_id": "yc-29284", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Breez Labs", "canonical_name": "Breez Labs", "source_record_id": "yc-29281", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Basalt", "canonical_name": "Basalt", "source_record_id": "yc-29277", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Agentic Labs", "canonical_name": "Agentic Labs", "source_record_id": "yc-29275", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Pivot Robotics", "canonical_name": "Pivot Robotics", "source_record_id": "yc-29273", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Keystroke", "canonical_name": "Keystroke", "source_record_id": "yc-29270", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "nCompass Technologies", "canonical_name": "nCompass Technologies", "source_record_id": "yc-29266", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Pretzel AI", "canonical_name": "Retell AI", "source_record_id": "yc-29265", "match_method": "fuzzy", "confidence": 84.21052631578947}
+{"raw_name": "Alex", "canonical_name": "Alex", "source_record_id": "yc-29263", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Saga AI", "canonical_name": "Saga AI", "source_record_id": "yc-29258", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Tuesday Labs", "canonical_name": "Tuesday Labs", "source_record_id": "yc-29257", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Momentic", "canonical_name": "Momentic", "source_record_id": "yc-29256", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Reducto", "canonical_name": "Educato", "source_record_id": "yc-29254", "match_method": "fuzzy", "confidence": 85.71428571428572}
+{"raw_name": "Andon Labs", "canonical_name": "Random Labs", "source_record_id": "yc-29253", "match_method": "fuzzy", "confidence": 85.71428571428572}
+{"raw_name": "Poka Labs", "canonical_name": "Poka Labs", "source_record_id": "yc-29251", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Nuanced", "canonical_name": "Nuanced", "source_record_id": "yc-29249", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Precip", "canonical_name": "Precip", "source_record_id": "yc-29247", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Tracecat", "canonical_name": "Tracecat", "source_record_id": "yc-29246", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Kabilah", "canonical_name": "Kabilah", "source_record_id": "yc-29245", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Sonia", "canonical_name": "Sonia", "source_record_id": "yc-29244", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Tekton Dynamics", "canonical_name": "Tekton Dynamics", "source_record_id": "yc-29241", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "ion design", "canonical_name": "ion design", "source_record_id": "yc-29239", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Duckie", "canonical_name": "Duckie", "source_record_id": "yc-29238", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Happenstance", "canonical_name": "Happenstance", "source_record_id": "yc-29233", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Ubicloud", "canonical_name": "Ubicloud", "source_record_id": "yc-29231", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Greptile", "canonical_name": "Greptile", "source_record_id": "yc-29226", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Cora", "canonical_name": "Cora", "source_record_id": "yc-29207", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "ego", "canonical_name": "ego", "source_record_id": "yc-29205", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Legora", "canonical_name": "Legora", "source_record_id": "yc-29201", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Scritch", "canonical_name": "Scritch", "source_record_id": "yc-29196", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "DryMerge", "canonical_name": "DryMerge", "source_record_id": "yc-29184", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Navier AI", "canonical_name": "Navier AI", "source_record_id": "yc-29183", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Upsolve AI", "canonical_name": "Upsolve AI", "source_record_id": "yc-29182", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Event Horizon Labs", "canonical_name": "Event Horizon Labs", "source_record_id": "yc-29181", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Goldbridge", "canonical_name": "Goldbridge", "source_record_id": "yc-29161", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Letterbook", "canonical_name": "Letterbook", "source_record_id": "yc-29160", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Orbio Earth", "canonical_name": "Orbio Earth", "source_record_id": "yc-29157", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Tempo", "canonical_name": "Tempo", "source_record_id": "yc-29150", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Opensteer", "canonical_name": "Opensteer", "source_record_id": "yc-29137", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Cognitio Labs", "canonical_name": "Cognitio Labs", "source_record_id": "yc-29134", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "truemetrics", "canonical_name": "truemetrics", "source_record_id": "yc-29125", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Wattson Health", "canonical_name": "Wattson Health", "source_record_id": "yc-29122", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Constructable", "canonical_name": "Constructable", "source_record_id": "yc-29121", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Morph", "canonical_name": "Morph", "source_record_id": "yc-29120", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Nowadays", "canonical_name": "Nowadays", "source_record_id": "yc-29119", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Twine", "canonical_name": "Twine", "source_record_id": "yc-29117", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Simbie AI", "canonical_name": "Imbue", "source_record_id": "yc-29113", "match_method": "fuzzy", "confidence": 82.35294117647058}
+{"raw_name": "AiSDR", "canonical_name": "AiSDR", "source_record_id": "yc-29110", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Giga", "canonical_name": "Giga", "source_record_id": "yc-29108", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Inconvo", "canonical_name": "Inconvo", "source_record_id": "yc-29103", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Roame", "canonical_name": "Roame", "source_record_id": "yc-29093", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "dili", "canonical_name": "dili", "source_record_id": "yc-29092", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Webhound", "canonical_name": "Webhound", "source_record_id": "yc-29091", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Cair Health", "canonical_name": "Cair Health", "source_record_id": "yc-29088", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Quill Bills", "canonical_name": "Quill Bills", "source_record_id": "yc-29085", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Strada", "canonical_name": "Strada", "source_record_id": "yc-29082", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Minded", "canonical_name": "Minded", "source_record_id": "yc-29081", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Tiptap", "canonical_name": "Tiptap", "source_record_id": "yc-29079", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Fiber AI", "canonical_name": "Fiber AI", "source_record_id": "yc-29074", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Terracotta AI", "canonical_name": "Terracotta AI", "source_record_id": "yc-29073", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Cedalio", "canonical_name": "Cedalio", "source_record_id": "yc-29071", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Elythea", "canonical_name": "Elythea", "source_record_id": "yc-29046", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Langdock", "canonical_name": "Langdock", "source_record_id": "yc-29041", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Inventive AI", "canonical_name": "Inventive AI", "source_record_id": "yc-29040", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "sudocode", "canonical_name": "sudocode", "source_record_id": "yc-29018", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Sweep", "canonical_name": "Sweep", "source_record_id": "yc-29013", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Silimate", "canonical_name": "Silimate", "source_record_id": "yc-29010", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Andromeda Surgical", "canonical_name": "Andromeda Surgical", "source_record_id": "yc-29008", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "DisputeNinja", "canonical_name": "DisputeNinja", "source_record_id": "yc-29003", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "VectorShift", "canonical_name": "VectorShift", "source_record_id": "yc-29001", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Baserun", "canonical_name": "Baserun", "source_record_id": "yc-28999", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Automorphic", "canonical_name": "Automorphic", "source_record_id": "yc-28998", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Sola", "canonical_name": "Sola", "source_record_id": "yc-28996", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Rankai", "canonical_name": "Rankai", "source_record_id": "yc-28992", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Flint", "canonical_name": "Flint", "source_record_id": "yc-28982", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Slicker", "canonical_name": "Slicker", "source_record_id": "yc-28979", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Bolto", "canonical_name": "Bolto", "source_record_id": "yc-28976", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Gleam", "canonical_name": "Gleam", "source_record_id": "yc-28974", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Studdy", "canonical_name": "Studdy", "source_record_id": "yc-28969", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "sizeless", "canonical_name": "sizeless", "source_record_id": "yc-28959", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Glade", "canonical_name": "Glade", "source_record_id": "yc-28938", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Empirical Health", "canonical_name": "Empirical Health", "source_record_id": "yc-28936", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "AgentCollect", "canonical_name": "AgentCollect", "source_record_id": "yc-28932", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Midrender", "canonical_name": "Midrender", "source_record_id": "yc-28930", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Bretton AI", "canonical_name": "Bretton AI", "source_record_id": "yc-28929", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "MediSearch", "canonical_name": "MediSearch", "source_record_id": "yc-28928", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Surface Labs", "canonical_name": "Surface Labs", "source_record_id": "yc-28921", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Epsilla", "canonical_name": "Epsilla", "source_record_id": "yc-28900", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "VetRec", "canonical_name": "VetRec", "source_record_id": "yc-28893", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Numen", "canonical_name": "Numen", "source_record_id": "yc-28891", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Decoda Health", "canonical_name": "Decoda Health", "source_record_id": "yc-28890", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Skyvern", "canonical_name": "Skyvern", "source_record_id": "yc-28887", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Cardinal Gray", "canonical_name": "Cardinal Gray", "source_record_id": "yc-28886", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Dialtone", "canonical_name": "Dialtone", "source_record_id": "yc-28884", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Repaint", "canonical_name": "Repaint", "source_record_id": "yc-28882", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "FleetWorks", "canonical_name": "FleetWorks", "source_record_id": "yc-28880", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Health Harbor", "canonical_name": "Health Harbor", "source_record_id": "yc-28869", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Shasta Health", "canonical_name": "Shasta Health", "source_record_id": "yc-28867", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Outset", "canonical_name": "Outset", "source_record_id": "yc-28864", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Serra", "canonical_name": "Serra", "source_record_id": "yc-28863", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Corgea", "canonical_name": "Corgea", "source_record_id": "yc-28862", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Arcimus", "canonical_name": "Arcimus", "source_record_id": "yc-28857", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Docsum", "canonical_name": "Docsum", "source_record_id": "yc-28854", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Obento Health", "canonical_name": "Obento Health", "source_record_id": "yc-28853", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Kite", "canonical_name": "Kite", "source_record_id": "yc-28852", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Bronco AI", "canonical_name": "Bronco AI", "source_record_id": "yc-28851", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Punchcard", "canonical_name": "Punchcard", "source_record_id": "yc-28849", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Venta AI", "canonical_name": "Venta AI", "source_record_id": "yc-28847", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Campfire", "canonical_name": "Campfire", "source_record_id": "yc-28845", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Alguna", "canonical_name": "Aluna", "source_record_id": "yc-28844", "match_method": "fuzzy", "confidence": 90.9090909090909}
+{"raw_name": "SID", "canonical_name": "SID", "source_record_id": "yc-28843", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Baud", "canonical_name": "Baud", "source_record_id": "yc-28841", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Spine AI", "canonical_name": "Spine AI", "source_record_id": "yc-28839", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Subsets", "canonical_name": "Subsets", "source_record_id": "yc-28837", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "CORE", "canonical_name": "CORE", "source_record_id": "yc-28836", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Talc", "canonical_name": "Talc", "source_record_id": "yc-28826", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Prosper", "canonical_name": "Prosper", "source_record_id": "yc-28821", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Mandel AI", "canonical_name": "Mandel AI", "source_record_id": "yc-28818", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Contour", "canonical_name": "Contour", "source_record_id": "yc-28816", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "OpenTools", "canonical_name": "OpenTools", "source_record_id": "yc-28814", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Cedana", "canonical_name": "Cedana", "source_record_id": "yc-28812", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Casca", "canonical_name": "Casca", "source_record_id": "yc-28811", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Readily", "canonical_name": "Readily", "source_record_id": "yc-28809", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Pointhound", "canonical_name": "Pointhound", "source_record_id": "yc-28807", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Diligent", "canonical_name": "Diligent", "source_record_id": "yc-28805", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Sohar Health", "canonical_name": "Sohar Health", "source_record_id": "yc-28802", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Axon", "canonical_name": "Axon", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/axon/software-engineer-ii-c-rust-kassel-hesse-452567", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "CesiumAstro", "canonical_name": "CesiumAstro", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/cesiumastro/product-manager-munich-germany-492918", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Insider One", "canonical_name": "Insider One", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/insider-one/product-manager-b2b-saas-martech-europe-berlin-germany-34094", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Kiwigrid", "canonical_name": "Kiwigrid", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/kiwigrid/product-manager-platform-dresden-32512", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Solvares", "canonical_name": "Solvares", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/solvares/werkstudent-im-bereich-marketing-operations-munchen-25134", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Solvares", "canonical_name": "Solvares", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/solvares/ausbildung-fachinformatiker-fur-systemintegration-hamburg-313275", "match_method": "exact", "confidence": null}
+{"raw_name": "Steadforce", "canonical_name": "Steadforce", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/steadforce/senior-software-engineer-teilprojektleitung-munchen-195012", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "tink GmbH", "canonical_name": "tink GmbH", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/tink-gmbh/e-commerce-product-ownerin-all-genders-berlin-359227", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "ZDF Digital Medienproduktion GmbH", "canonical_name": "ZDF Digital Medienproduktion GmbH", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/zdf-digital-medienproduktion-gmbh/werkstudentin-community-management-mainz-oder-berlin-16948", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "42Watt", "canonical_name": "42Watt", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/42watt/automation-engineer-gn-40-std-hybrid-munchen-90580", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Skalbach GmbH", "canonical_name": "Skalbach GmbH", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/skalbach-gmbh/senior-bauleiter-rohbau-stuttgart-229946", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Skalbach GmbH", "canonical_name": "Skalbach GmbH", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/skalbach-gmbh/senior-bauleiter-stuttgart-munchen-karlsruhe-134938", "match_method": "exact", "confidence": null}
+{"raw_name": "Skalbach GmbH", "canonical_name": "Skalbach GmbH", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/skalbach-gmbh/senior-bauleiter-tiefbau-munchen-214808", "match_method": "exact", "confidence": null}
+{"raw_name": "Skalbach GmbH", "canonical_name": "Skalbach GmbH", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/skalbach-gmbh/senior-bauleiter-hochbau-munchen-392599", "match_method": "exact", "confidence": null}
+{"raw_name": "Capmo", "canonical_name": "Capmo", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/capmo/werkstudent-bauexperte-fur-saas-software-munich-46226", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Capmo", "canonical_name": "Capmo", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/capmo/senior-security-engineer-all-genders-munich-5553", "match_method": "exact", "confidence": null}
+{"raw_name": "FTAPI GmbH", "canonical_name": "FTAPI GmbH", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/ftapi-gmbh/senior-sales-strategy-operations-managerin-munchen-355743", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Mayflower", "canonical_name": "Mayflower", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/mayflower/senior-ai-architect-consultant-munchen-91359", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Fulfin", "canonical_name": "Fulfin", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/fulfin/senior-engineer-on-site-vollzeit-munchen-379894", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Jedox GmbH", "canonical_name": "Jedox GmbH", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/jedox-gmbh/product-manager-platform-experience-cloud-administration-freiburg-im-breisgau-76129", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Jedox GmbH", "canonical_name": "Jedox GmbH", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/jedox-gmbh/head-of-product-marketing-germany-235846", "match_method": "exact", "confidence": null}
 {"raw_name": "Superchat", "canonical_name": "Superchat", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/superchat/tech-lead-berlin-berlin-420831", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "gropyus", "canonical_name": "gropyus", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/gropyus/senior-architektin-lp2-lp4-befristet-bis-juli-2027-berlin-berlin-245212", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "mewssystems", "canonical_name": "mewssystems", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/mewssystems/director-of-product-marketing-and-market-research-381380", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Prior Labs", "canonical_name": "Prior Labs", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/prior-labs/technical-product-manager-integrations-berlin-379113", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Hypertrics GmbH", "canonical_name": "Hypertrics GmbH", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/hypertrics-gmbh/softwareentwickler-schutterwald-95592", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "Norman AI GmbH", "canonical_name": "OpenAI", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/norman-ai-gmbh/customer-success-manager-berlin-250802", "match_method": "fuzzy", "confidence": 85.5}
+{"raw_name": "Norman AI GmbH", "canonical_name": "Norman AI GmbH", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/norman-ai-gmbh/customer-success-manager-berlin-250802", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "idealo internet GmbH", "canonical_name": "idealo internet GmbH", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/senior-performance-marketing-manager-mwd-css-berlin-73910", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Allbranded", "canonical_name": "Allbranded", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/allbranded/senior-seo-onsite-manager-befristet-elternzeitvertretung-all-genders-hamburg-288975", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "360T", "canonical_name": "360T", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/360t/data-protection-officer-deputy-frankfurt-am-main-208223", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Aer Group", "canonical_name": "Aer Group", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/aer-group/senior-devops-engineer-berlin-boppstr-258760", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "Hypatos Gmbh", "canonical_name": "idealo internet GmbH", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/hypatos-gmbh/working-student-it-germany-berlin-392490", "match_method": "fuzzy", "confidence": 85.5}
+{"raw_name": "Hypatos Gmbh", "canonical_name": "Hypatos Gmbh", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/hypatos-gmbh/working-student-it-germany-berlin-392490", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "TWAICE", "canonical_name": "TWAICE", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/twaice/working-student-accounting-finance-munich-hybrid-314557", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Xempus AG", "canonical_name": "Xempus AG", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/xempus-ag/senior-java-engineer-munchen-171261", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "RedMimicry GmbH", "canonical_name": "RedMimicry GmbH", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/redmimicry-gmbh/software-developer-go-security-analytics-berlin-146655", "match_method": "manual_seed", "confidence": null}
@@ -220,17 +1041,17 @@
 {"raw_name": "Heavenhr", "canonical_name": "Heavenhr", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/heavenhr/sales-manager-software-vertrieb-berlin-104195", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "KoRo Handels GmbH", "canonical_name": "KoRo Handels GmbH", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/koro-handels-gmbh/senior-product-manager-outbound-logistics-returns-berlin-242768", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "KoRo Handels GmbH", "canonical_name": "KoRo Handels GmbH", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/koro-handels-gmbh/director-supply-chain-planning-berlin-218210", "match_method": "exact", "confidence": null}
-{"raw_name": "Platoapp", "canonical_name": "LATO", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/platoapp/founding-gtm-engineer-berlin-490106", "match_method": "fuzzy", "confidence": 90.0}
-{"raw_name": "Wvm Immobilien Projektentwicklung Gmbh", "canonical_name": "Hypertrics GmbH", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/wvm-immobilien-projektentwicklung-gmbh/werkstudent-im-unternehmensmarketing-wvm-koln-444640", "match_method": "fuzzy", "confidence": 85.5}
-{"raw_name": "Become 1 Gmbh", "canonical_name": "idealo internet GmbH", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/become-1-gmbh/werkstudent-operations-heidelberg-320796", "match_method": "fuzzy", "confidence": 85.5}
+{"raw_name": "Platoapp", "canonical_name": "Platoapp", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/platoapp/founding-gtm-engineer-berlin-490106", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Wvm Immobilien Projektentwicklung Gmbh", "canonical_name": "Wvm Immobilien Projektentwicklung Gmbh", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/wvm-immobilien-projektentwicklung-gmbh/werkstudent-im-unternehmensmarketing-wvm-koln-444640", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Become 1 Gmbh", "canonical_name": "Become 1 Gmbh", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/become-1-gmbh/werkstudent-operations-heidelberg-320796", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Zebragroup", "canonical_name": "Zebragroup", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/zebragroup/senior-online-marketing-manager-fokus-media-und-performance-dresden-498805", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "Webgo Gmbh", "canonical_name": "Hypertrics GmbH", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/webgo-gmbh/senior-system-engineer-infrastructure-specialist-hamburg-372682", "match_method": "fuzzy", "confidence": 85.5}
+{"raw_name": "Webgo Gmbh", "canonical_name": "Webgo Gmbh", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/webgo-gmbh/senior-system-engineer-infrastructure-specialist-hamburg-372682", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Pmone", "canonical_name": "Pmone", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/pmone/senior-managing-consultant-data-analytics-munchen-89412", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Neuplaner", "canonical_name": "Neuplaner", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/neuplaner/praktikant-werkstudent-im-ma-investment-team-berlin-165457", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Neuplaner", "canonical_name": "Neuplaner", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/neuplaner/praktikant-werkstudent-im-group-transformation-team-berlin-302552", "match_method": "exact", "confidence": null}
 {"raw_name": "IP Dynamics GmbH", "canonical_name": "IP Dynamics GmbH", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/ip-dynamics-gmbh/cloud-platform-engineer-stuttgart-174177", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "IP Dynamics GmbH", "canonical_name": "IP Dynamics GmbH", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/ip-dynamics-gmbh/cloud-platform-engineer-hannover-397327", "match_method": "exact", "confidence": null}
-{"raw_name": "Lpe Immobilien Management Gmbh", "canonical_name": "Hypertrics GmbH", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/lpe-immobilien-management-gmbh/immobilienmakler-schwerpunkt-vermietung-werkstudent-oder-teilzeit-munchen-220652", "match_method": "fuzzy", "confidence": 85.5}
+{"raw_name": "Lpe Immobilien Management Gmbh", "canonical_name": "Lpe Immobilien Management Gmbh", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/lpe-immobilien-management-gmbh/immobilienmakler-schwerpunkt-vermietung-werkstudent-oder-teilzeit-munchen-220652", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Tractebel", "canonical_name": "Tractebel", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/tractebel/senior-projektleitung-wasserbau-kusteningenieurwesen-hamburg-gotenstrasse-461784", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Deltavision", "canonical_name": "Deltavision", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/deltavision/head-of-production-produktionsleiter-munchen-324031", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Deltavision", "canonical_name": "Deltavision", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/deltavision/fluidic-system-engineer-architect-munchen-235120", "match_method": "exact", "confidence": null}
@@ -238,8 +1059,8 @@
 {"raw_name": "Yoursquares", "canonical_name": "Yoursquares", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/yoursquares/account-executive-berlin-251473", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Proglove", "canonical_name": "Proglove", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/proglove/senior-product-manager-software-solutions-munich-office-12203", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Nuuenergy", "canonical_name": "Nuuenergy", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/nuuenergy/praktikant-werkstudent-people-culture-munchen-330784", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "Fraser Gmbh", "canonical_name": "idealo internet GmbH", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/fraser-gmbh/senior-finance-manager-all-genders-berlin-135153", "match_method": "fuzzy", "confidence": 85.5}
-{"raw_name": "Fraser Gmbh", "canonical_name": "idealo internet GmbH", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/fraser-gmbh/senior-accountant-30h-all-genders-berlin-267243", "match_method": "fuzzy", "confidence": 85.5}
+{"raw_name": "Fraser Gmbh", "canonical_name": "Fraser Gmbh", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/fraser-gmbh/senior-finance-manager-all-genders-berlin-135153", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Fraser Gmbh", "canonical_name": "Fraser Gmbh", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/fraser-gmbh/senior-accountant-30h-all-genders-berlin-267243", "match_method": "exact", "confidence": null}
 {"raw_name": "Hoppe Marine Gmbh", "canonical_name": "Hoppe Marine Gmbh", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/hoppe-marine-gmbh/software-developer-full-stack-hamburg-109254", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Talents2Germany GmbH", "canonical_name": "Talents2Germany GmbH", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/talents2germany-gmbh/senior-product-manager-markt-trendanalyse-plattform-frankfurt-am-main-334830", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Taxtalente.de", "canonical_name": "Taxtalente.de", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-eberswalde-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-234404", "match_method": "manual_seed", "confidence": null}
@@ -257,19 +1078,19 @@
 {"raw_name": "wppmedia", "canonical_name": "wppmedia", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/wppmedia/senior-digital-campaign-manager-mensch-dusseldorf-46365", "match_method": "exact", "confidence": null}
 {"raw_name": "wppmedia", "canonical_name": "wppmedia", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/wppmedia/senior-digital-campaign-manager-mensch-frankfurt-150884", "match_method": "exact", "confidence": null}
 {"raw_name": "Clovirtualfashion", "canonical_name": "Clovirtualfashion", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/clovirtualfashion/working-student-brand-communications-munich-284962", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "Apex Ai", "canonical_name": "Mistral AI", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/apex-ai/software-engineer-software-platform-middleware-early-career-munich-409502", "match_method": "fuzzy", "confidence": 85.5}
-{"raw_name": "Apex Ai", "canonical_name": "Mistral AI", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/apex-ai/senior-software-engineer-software-platform-middleware-munich-251904", "match_method": "fuzzy", "confidence": 85.5}
-{"raw_name": "Apex Ai", "canonical_name": "Mistral AI", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/apex-ai/senior-application-engineer-munich-404648", "match_method": "fuzzy", "confidence": 85.5}
+{"raw_name": "Apex Ai", "canonical_name": "Apex Ai", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/apex-ai/software-engineer-software-platform-middleware-early-career-munich-409502", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Apex Ai", "canonical_name": "Apex Ai", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/apex-ai/senior-software-engineer-software-platform-middleware-munich-251904", "match_method": "exact", "confidence": null}
+{"raw_name": "Apex Ai", "canonical_name": "Apex Ai", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/apex-ai/senior-application-engineer-munich-404648", "match_method": "exact", "confidence": null}
 {"raw_name": "Synvert", "canonical_name": "Synvert", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/synvert/senior-bid-pursuit-manager-proposal-manager-cloud-data-ai-consulting-hamburg-258249", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Shyftplan", "canonical_name": "Shyftplan", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/shyftplan/remote-werkstudent-vertrieb-stuttgart-411812", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "And E", "canonical_name": "Weights & Biases", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/and-e/werkstudent-marketing-digital-experiences-koln-247411", "match_method": "fuzzy", "confidence": 85.5}
-{"raw_name": "Tawo Gmbh", "canonical_name": "Hypertrics GmbH", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/tawo-gmbh/werkstudent-b2b-sales-berlin-472606", "match_method": "fuzzy", "confidence": 85.5}
+{"raw_name": "And E", "canonical_name": "And E", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/and-e/werkstudent-marketing-digital-experiences-koln-247411", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Tawo Gmbh", "canonical_name": "Tawo Gmbh", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/tawo-gmbh/werkstudent-b2b-sales-berlin-472606", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Probis Software Gmbh", "canonical_name": "Probis Software Gmbh", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/probis-software-gmbh/werkstudent-projektmanagement-operations-munchen-80459", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Athereon", "canonical_name": "Athereon", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/athereon/technical-project-manager-software-development-saarbrucken-384502", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Athereon", "canonical_name": "Athereon", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/athereon/senior-software-developer-frontend-react-saarbrucken-42438", "match_method": "exact", "confidence": null}
 {"raw_name": "Feld Energy", "canonical_name": "Feld Energy", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/feld-energy/talent-acquisition-manager-office-munchen-419040", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Feld Energy", "canonical_name": "Feld Energy", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/feld-energy/projektmanager-projektentwickler-pv-green-energy-office-munchen-120931", "match_method": "exact", "confidence": null}
-{"raw_name": "Syte Gmbh", "canonical_name": "Hypertrics GmbH", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/syte-gmbh/werkstudent-data-qa-algorithm-benchmarking-munster-166697", "match_method": "fuzzy", "confidence": 85.5}
+{"raw_name": "Syte Gmbh", "canonical_name": "Syte Gmbh", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/syte-gmbh/werkstudent-data-qa-algorithm-benchmarking-munster-166697", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Simovative", "canonical_name": "Simovative", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/simovative/werkstudent-marketing-sales-b2b-software-munchen-central-tower-334369", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "celonis", "canonical_name": "celonis", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/celonis/lead-principal-deployment-engineer-munich-436883", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "celonis", "canonical_name": "celonis", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/celonis/lead-deployment-architect-munich-326905", "match_method": "exact", "confidence": null}
@@ -277,27 +1098,10 @@
 {"raw_name": "Zukunftsmotor Gmbh", "canonical_name": "Zukunftsmotor Gmbh", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/zukunftsmotor-gmbh/senior-program-operations-managerin-berlin-51712", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Zukunftsmotor Gmbh", "canonical_name": "Zukunftsmotor Gmbh", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/zukunftsmotor-gmbh/senior-course-operations-managerin-berlin-167926", "match_method": "exact", "confidence": null}
 {"raw_name": "Doo", "canonical_name": "Doo", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/doo/werkstudentin-finance-schwerpunkt-accounting-controlling-munchen-473621", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "Esanum", "canonical_name": "Esanum", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/esanum/werkstudent-online-marketing-berlin-56419", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "Avenit Ag", "canonical_name": "Avenit Ag", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/avenit-ag/remote-senior-software-engineer-fullstack-fur-ki-produkte-294858", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "Pub Tech", "canonical_name": "Pub Tech", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/pub-tech/data-analyst-munchen-36665", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "Snke", "canonical_name": "Snke", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/snke/senior-software-engineer-full-stack-healthcare-applications-munchen-41995", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "Snke", "canonical_name": "Snke", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/snke/senior-machine-learning-engineer-video-ai-munchen-98891", "match_method": "exact", "confidence": null}
-{"raw_name": "Snke", "canonical_name": "Snke", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/snke/senior-accountant-voll-oder-teilzeit-munchen-481342", "match_method": "exact", "confidence": null}
-{"raw_name": "Real Digital", "canonical_name": "Real Digital", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-full-stack-engineer-all-genders-backend-or-frontend-focus-485295", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "Real Digital", "canonical_name": "Real Digital", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-devops-engineer-all-genders-data-platform-426742", "match_method": "exact", "confidence": null}
-{"raw_name": "Real Digital", "canonical_name": "Real Digital", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-ux-researcher-all-genders-453027", "match_method": "exact", "confidence": null}
-{"raw_name": "Real Digital", "canonical_name": "Real Digital", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-business-automation-developer-all-genders-i-international-107411", "match_method": "exact", "confidence": null}
-{"raw_name": "Arculus", "canonical_name": "Arculus", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/arculus/infrastructure-engineer-deployments-munich-109466", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "Sti", "canonical_name": "Sti", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/sti/senior-business-consultant-servicenow-mit-schwerpunkt-crm-csm-munchen-276065", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "Simcon", "canonical_name": "Simcon", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/simcon/remote-werkstudentin-simulation-application-engineering-119465", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "Oh So", "canonical_name": "Oh So", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/oh-so/senior-product-owner-program-manager-hamburg-333911", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "Zvoove", "canonical_name": "Zvoove", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/zvoove/senior-ai-native-fullstack-engineer-de-munchen-265224", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "Peakpeak", "canonical_name": "Peakpeak", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/peakpeak/senior-salesforce-developer-german-speaking-berlin-germany-454637", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "Friendventure", "canonical_name": "Friendventure", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/friendventure/senior-social-media-video-editor-berlin-33204", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "Friendventure", "canonical_name": "Friendventure", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/friendventure/senior-social-media-video-editor-koln-212219", "match_method": "exact", "confidence": null}
-{"raw_name": "Friendventure", "canonical_name": "Friendventure", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/friendventure/senior-account-manager-berlin-440633", "match_method": "exact", "confidence": null}
-{"raw_name": "Friendventure", "canonical_name": "Friendventure", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/friendventure/senior-account-manager-koln-301020", "match_method": "exact", "confidence": null}
-{"raw_name": "autoscout24", "canonical_name": "autoscout24", "source_record_id": "Arbeitnow-https://www.arbeitnow.com/jobs/companies/autoscout24/senior-sales-analyst-460456", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "intercom", "canonical_name": "intercom", "source_record_id": "Arbeitnow-https://www.arbeitnow.co.uk/jobs/companies/intercom/staff-engineer-web-platform-london-232412", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "intercom", "canonical_name": "intercom", "source_record_id": "Arbeitnow-https://www.arbeitnow.co.uk/jobs/companies/intercom/senior-product-marketing-manager-london-237132", "match_method": "exact", "confidence": null}
+{"raw_name": "intercom", "canonical_name": "intercom", "source_record_id": "Arbeitnow-https://www.arbeitnow.co.uk/jobs/companies/intercom/senior-product-marketing-manager-london-55894", "match_method": "exact", "confidence": null}
+{"raw_name": "hubspotjobs", "canonical_name": "hubspotjobs", "source_record_id": "Arbeitnow-https://www.arbeitnow.co.uk/jobs/companies/hubspotjobs/staff-technical-lead-marketing-studio-intelligence-482884", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Sungrow Emea", "canonical_name": "Sungrow Emea", "source_record_id": "Arbeitnow-https://www.arbeitnow.co.uk/jobs/companies/sungrow-emea/senior-om-asset-manager-europe-uk-london-292920", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Lab54 LTD", "canonical_name": "Lab54 LTD", "source_record_id": "Arbeitnow-https://www.arbeitnow.co.uk/jobs/companies/lab54-ltd/bookkeeper-london-339192", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Apothecom", "canonical_name": "Apothecom", "source_record_id": "Arbeitnow-https://www.arbeitnow.co.uk/jobs/companies/apothecom/senior-medical-writer-london-485009", "match_method": "manual_seed", "confidence": null}
@@ -315,20 +1119,26 @@
 {"raw_name": "Perk", "canonical_name": "Perk", "source_record_id": "Arbeitnow-https://www.arbeitnow.co.uk/jobs/companies/perk/senior-frontend-engineer-london-423081", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Perk", "canonical_name": "Perk", "source_record_id": "Arbeitnow-https://www.arbeitnow.co.uk/jobs/companies/perk/director-of-go-to-market-engineering-london-457240", "match_method": "exact", "confidence": null}
 {"raw_name": "Checkout.com", "canonical_name": "Checkout.com", "source_record_id": "Arbeitnow-https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/principal-ceo-office-london-14315", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "Pno Group Europe", "canonical_name": "Aer Group", "source_record_id": "Arbeitnow-https://www.arbeitnow.co.uk/jobs/companies/pno-group-europe/senior-innovation-consultant-uk-450905", "match_method": "fuzzy", "confidence": 85.5}
+{"raw_name": "Pno Group Europe", "canonical_name": "Pno Group Europe", "source_record_id": "Arbeitnow-https://www.arbeitnow.co.uk/jobs/companies/pno-group-europe/senior-innovation-consultant-uk-450905", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Everway", "canonical_name": "Everway", "source_record_id": "Arbeitnow-https://www.arbeitnow.co.uk/jobs/companies/everway/senior-product-designer-21354", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Wppproduction", "canonical_name": "Wppproduction", "source_record_id": "Arbeitnow-https://www.arbeitnow.co.uk/jobs/companies/wppproduction/senior-account-manager-4-month-ftc-watford-456436", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Form3", "canonical_name": "Form3", "source_record_id": "Arbeitnow-https://www.arbeitnow.co.uk/jobs/companies/form3/senior-software-engineer-go-402117", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Airwallex", "canonical_name": "Airwallex", "source_record_id": "Arbeitnow-https://www.arbeitnow.co.uk/jobs/companies/airwallex/account-manager-enterprise-london-140046", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Guidepoint", "canonical_name": "Guidepoint", "source_record_id": "Arbeitnow-https://www.arbeitnow.co.uk/jobs/companies/guidepoint/product-manager-ai-product-engineering-london-227150", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Excelgens Consulting Sverige Ab", "canonical_name": "Excelgens Consulting Sverige Ab", "source_record_id": "Arbeitnow-https://www.arbeitnow.co.uk/jobs/companies/excelgens-consulting-sverige-ab/axiomsl-implementation-consultant-london-425025", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "Alphasense", "canonical_name": "Alphasense", "source_record_id": "Arbeitnow-https://www.arbeitnow.co.uk/jobs/companies/alphasense/account-executive-high-growth-london-greater-london-19410", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "Graphcore", "canonical_name": "Graphcore", "source_record_id": "Arbeitnow-https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-systems-engineer-bristol-461847", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "Graphcore", "canonical_name": "Graphcore", "source_record_id": "Arbeitnow-https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-software-engineer-cambridge-296220", "match_method": "exact", "confidence": null}
-{"raw_name": "Addepar1", "canonical_name": "Addepar1", "source_record_id": "Arbeitnow-https://www.arbeitnow.co.uk/jobs/companies/addepar1/sr-software-engineer-investor-solutions-edinburgh-383916", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "Addepar1", "canonical_name": "Addepar1", "source_record_id": "Arbeitnow-https://www.arbeitnow.co.uk/jobs/companies/addepar1/sr-software-engineer-ai-ml-ai-platform-london-276160", "match_method": "exact", "confidence": null}
-{"raw_name": "Legora", "canonical_name": "Legora", "source_record_id": "Arbeitnow-https://www.arbeitnow.co.uk/jobs/companies/legora/value-engineer-london-3330", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "Wordsmith", "canonical_name": "Wordsmith", "source_record_id": "Arbeitnow-https://www.arbeitnow.co.uk/jobs/companies/wordsmith/sales-development-representative-sdr-edinburgh-307356", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Vmlenterprisesolutions", "canonical_name": "Vmlenterprisesolutions", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/vmlenterprisesolutions/senior-manager-martech-sales-oriented-paris-112887", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Vmlenterprisesolutions", "canonical_name": "Vmlenterprisesolutions", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/vmlenterprisesolutions/head-of-b2b-energy-f-h-senior-manager-paris-26468", "match_method": "exact", "confidence": null}
+{"raw_name": "Vmlenterprisesolutions", "canonical_name": "Vmlenterprisesolutions", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/vmlenterprisesolutions/consultante-senior-transformation-marketing-experience-client-paris-35583", "match_method": "exact", "confidence": null}
+{"raw_name": "Vmlenterprisesolutions", "canonical_name": "Vmlenterprisesolutions", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/vmlenterprisesolutions/consultant-developpeur-marketing-technology-crm-data-3-a-5-ans-dexperience-paris-295267", "match_method": "exact", "confidence": null}
+{"raw_name": "Vmlenterprisesolutions", "canonical_name": "Vmlenterprisesolutions", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/vmlenterprisesolutions/consultant-data-analyst-marketing-f-h-paris-449933", "match_method": "exact", "confidence": null}
+{"raw_name": "Parity", "canonical_name": "Parity", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/parity/remote-core-developer-platform-60113", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Parity", "canonical_name": "Parity", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/parity/remote-chief-of-staff-for-engineering-1581", "match_method": "exact", "confidence": null}
+{"raw_name": "Parity", "canonical_name": "Parity", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/parity/remote-core-developer-node-28104", "match_method": "exact", "confidence": null}
+{"raw_name": "Parity", "canonical_name": "Parity", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/parity/remote-senior-experience-engineer-126529", "match_method": "exact", "confidence": null}
+{"raw_name": "Parity", "canonical_name": "Parity", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/parity/senior-security-engineer-remote-301763", "match_method": "exact", "confidence": null}
+{"raw_name": "Livestorm", "canonical_name": "Livestorm", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/livestorm/remote-account-executive-enterprise-paris-382462", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Livestorm", "canonical_name": "Livestorm", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/livestorm/remote-account-executive-enterprise-paris-149681", "match_method": "exact", "confidence": null}
+{"raw_name": "Searoutes", "canonical_name": "Searoutes", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/searoutes/remote-chief-of-staff-business-ops-france-115880", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Wundermanthompson", "canonical_name": "Wundermanthompson", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/wundermanthompson/senior-manager-martech-sales-oriented-paris-54368", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Wundermanthompson", "canonical_name": "Wundermanthompson", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/wundermanthompson/head-of-b2b-energy-f-h-senior-manager-paris-112873", "match_method": "exact", "confidence": null}
 {"raw_name": "Wundermanthompson", "canonical_name": "Wundermanthompson", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/wundermanthompson/consultante-senior-transformation-marketing-experience-client-paris-156346", "match_method": "exact", "confidence": null}
@@ -391,36 +1201,23 @@
 {"raw_name": "Whitecircle", "canonical_name": "Whitecircle", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/whitecircle/remote-recruiter-research-108565", "match_method": "manual_seed", "confidence": null}
 {"raw_name": "Whitecircle", "canonical_name": "Whitecircle", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/whitecircle/senior-data-labeler-paris-63823", "match_method": "exact", "confidence": null}
 {"raw_name": "Whitecircle", "canonical_name": "Whitecircle", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/whitecircle/research-scientist-engineer-agentic-systems-paris-217452", "match_method": "exact", "confidence": null}
-{"raw_name": "Whitecircle", "canonical_name": "Whitecircle", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/whitecircle/research-scientist-ai-behaviours-paris-183446", "match_method": "exact", "confidence": null}
-{"raw_name": "Whitecircle", "canonical_name": "Whitecircle", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/whitecircle/research-engineer-evals-paris-388716", "match_method": "exact", "confidence": null}
-{"raw_name": "Whitecircle", "canonical_name": "Whitecircle", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/whitecircle/devops-engineer-paris-46248", "match_method": "exact", "confidence": null}
-{"raw_name": "Whitecircle", "canonical_name": "Whitecircle", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/whitecircle/product-engineer-backend-paris-126655", "match_method": "exact", "confidence": null}
-{"raw_name": "Whitecircle", "canonical_name": "Whitecircle", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/whitecircle/multimodal-ml-engineer-paris-374661", "match_method": "exact", "confidence": null}
-{"raw_name": "Whitecircle", "canonical_name": "Whitecircle", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/whitecircle/ml-research-engineer-paris-21219", "match_method": "exact", "confidence": null}
-{"raw_name": "Whitecircle", "canonical_name": "Whitecircle", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/whitecircle/ml-infrastructure-engineer-paris-407148", "match_method": "exact", "confidence": null}
-{"raw_name": "Xm", "canonical_name": "Xm", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/xm/remote-software-development-engineers-in-test-python-226133", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "Xm", "canonical_name": "Xm", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/xm/remote-site-reliability-engineers-sre-314013", "match_method": "exact", "confidence": null}
-{"raw_name": "Xm", "canonical_name": "Xm", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/xm/remote-qa-software-test-automation-engineers-java-233007", "match_method": "exact", "confidence": null}
-{"raw_name": "Exotec", "canonical_name": "Exotec", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/exotec/senior-software-integration-engineer-warehouse-automation-lille-241230", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "Exotec", "canonical_name": "Exotec", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/exotec/senior-network-rd-engineer-wasquehal-448311", "match_method": "exact", "confidence": null}
-{"raw_name": "DiliTrust", "canonical_name": "DiliTrust", "source_record_id": "Arbeitnow-https://www.arbeitnow.fr/jobs/companies/dilitrust/software-engineer-ai-platform-frontend-paris-la-defense-30686", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "RecruitMyMom", "canonical_name": "RecruitMyMom", "source_record_id": "Himalayas-https://himalayas.app/companies/recruitmymom/jobs/outbound-lead-cold-email", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "Rede Consulting Services", "canonical_name": "Rede Consulting Services", "source_record_id": "Himalayas-https://himalayas.app/companies/rede-consulting-services/jobs/marketing-interns-sept-dec-26", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "BOS Staffing", "canonical_name": "BOS Staffing", "source_record_id": "Himalayas-https://himalayas.app/companies/bos-staffing/jobs/bilingual-legal-assistant", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "Productive Playhouse", "canonical_name": "Productive Playhouse", "source_record_id": "Himalayas-https://himalayas.app/companies/productive-playhouse/jobs/spanish-mexico-ai-product-evaluator", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "Banner Health", "canonical_name": "Banner Health", "source_record_id": "Himalayas-https://himalayas.app/companies/banner-health/jobs/director-service-optimization", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "The Access Group", "canonical_name": "Aer Group", "source_record_id": "Himalayas-https://himalayas.app/companies/the-access-group/jobs/lead-mobile-engineer", "match_method": "fuzzy", "confidence": 85.5}
-{"raw_name": "Coalfire", "canonical_name": "Coalfire", "source_record_id": "Himalayas-https://himalayas.app/companies/coalfire/jobs/operational-technology-security-consultant-3562202906", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "Parallels", "canonical_name": "Parallels", "source_record_id": "Himalayas-https://himalayas.app/companies/parallels/jobs/principal-backend-engineer-947455065", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "Stefanini", "canonical_name": "Stefanini", "source_record_id": "Himalayas-https://himalayas.app/companies/stefanini/jobs/analista-de-testes-sr-8906208110", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "Abbott", "canonical_name": "Abbott", "source_record_id": "Himalayas-https://himalayas.app/companies/abbott/jobs/key-account-senior-clinical-specialist", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "Deutscher Hilfsbund", "canonical_name": "Deutscher Hilfsbund", "source_record_id": "Himalayas-https://himalayas.app/companies/deutscher-hilfsbund/jobs/verbandskoordinator-in-m-w-d-100-ehrenamt", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "Gilytics AG", "canonical_name": "Gilytics AG", "source_record_id": "Himalayas-https://himalayas.app/companies/gilytics-ag/jobs/lead-generation-specialist-americas-318792006", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "HumanSignal", "canonical_name": "HumanSignal", "source_record_id": "Himalayas-https://himalayas.app/companies/humansignal/jobs/solutions-architect", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "Remotual", "canonical_name": "Remotual", "source_record_id": "Himalayas-https://himalayas.app/companies/remotual/jobs/remote-project-manager-7215554367", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "MedWatch", "canonical_name": "MedWatch", "source_record_id": "Himalayas-https://himalayas.app/companies/urmedwatch/jobs/concierge-customer-service-representative-ii-7111451810", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "Hireframe", "canonical_name": "Hireframe", "source_record_id": "Himalayas-https://himalayas.app/companies/hireframe/jobs/entry-level-accountant", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "CI&T", "canonical_name": "CI&T", "source_record_id": "Himalayas-https://himalayas.app/companies/ci-t/jobs/job-31399-mid-level-qa-automation", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "Our Sunday Visitor (OSV)", "canonical_name": "Our Sunday Visitor (OSV)", "source_record_id": "Himalayas-https://himalayas.app/companies/our-sunday-visitor-osv/jobs/senior-account-executive-digital-sales-6661407692", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "Emergent Software", "canonical_name": "Emergent Software", "source_record_id": "Himalayas-https://himalayas.app/companies/emergent-software/jobs/ai-director", "match_method": "manual_seed", "confidence": null}
-{"raw_name": "The HALO Trust", "canonical_name": "The HALO Trust", "source_record_id": "Himalayas-https://himalayas.app/companies/the-halo-trust/jobs/head-of-hr-programmes", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "TripleTen", "canonical_name": "TripleTen", "source_record_id": "Himalayas-https://himalayas.app/companies/tripleten/jobs/ai-for-qa-teaching-experts-5673286170", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "NVIDIA", "canonical_name": "NVIDIA", "source_record_id": "Himalayas-https://himalayas.app/companies/nvidia/jobs/senior-program-manager-odm-and-oem-partner-operations", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "PeopleGrove", "canonical_name": "PeopleGrove", "source_record_id": "Himalayas-https://himalayas.app/companies/peoplegrove/jobs/automation-qa-engineer-9207438948", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Kyivstar", "canonical_name": "Kyivstar", "source_record_id": "Himalayas-https://himalayas.app/companies/kyivstar/jobs/business-analyst-microsoft-power-platform-7349176409", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "FxPro", "canonical_name": "FxPro", "source_record_id": "Himalayas-https://himalayas.app/companies/fxpro/jobs/lead-seo-5148988845", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Monnoyeur", "canonical_name": "Monnoyeur", "source_record_id": "Himalayas-https://himalayas.app/companies/monnoyeur/jobs/bim-engineer-ii", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "CaptivateIQ", "canonical_name": "CaptivateIQ", "source_record_id": "Himalayas-https://himalayas.app/companies/captivateiq/jobs/director-of-product-management-product-platform", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Bloom Equity Partners", "canonical_name": "Bloom Equity Partners", "source_record_id": "Himalayas-https://himalayas.app/companies/bloom-equity-partners/jobs/enterprise-account-executive", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Lifelancer", "canonical_name": "Lifelancer", "source_record_id": "Himalayas-https://himalayas.app/companies/lifelancer/jobs/program-manager-ii-cell-lab-4604648229", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Lithic", "canonical_name": "Lithic", "source_record_id": "Himalayas-https://himalayas.app/companies/lithic/jobs/senior-software-engineer-treasury-7377921816", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Stride, Inc.", "canonical_name": "Stride, Inc.", "source_record_id": "Himalayas-https://himalayas.app/companies/stride-inc/jobs/ese-coordinator", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Generation UK & Ireland", "canonical_name": "Generation UK & Ireland", "source_record_id": "Himalayas-https://himalayas.app/companies/generation/jobs/global-c-i-curriculum-design-consultant", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Gameloft", "canonical_name": "Gameloft", "source_record_id": "Himalayas-https://himalayas.app/companies/gameloft/jobs/manual-qa", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Remote Talent LATAM", "canonical_name": "Remote Talent LATAM", "source_record_id": "Himalayas-https://himalayas.app/companies/remote-talent-latam/jobs/seo-strategist-remote-latam-only-88143", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "Insense", "canonical_name": "Insense", "source_record_id": "Himalayas-https://himalayas.app/companies/insense/jobs/product-manager-platform-9571544808", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "mercor", "canonical_name": "mercor", "source_record_id": "Himalayas-https://himalayas.app/companies/mercor/jobs/croatian-science-expert-fully-remote-upto-52-hr-part-time", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "MooreCo", "canonical_name": "MooreCo", "source_record_id": "Himalayas-https://himalayas.app/companies/mooreco/jobs/business-development-manager-k-12-furniture-nc-sc-va-tn", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "TripleTen", "canonical_name": "TripleTen", "source_record_id": "Himalayas-https://himalayas.app/companies/tripleten/jobs/ai-for-business-transformation-teaching-experts-9703334638", "match_method": "exact", "confidence": null}
+{"raw_name": "Fundraise Up", "canonical_name": "Fundraise Up", "source_record_id": "Himalayas-https://himalayas.app/companies/fundraise-up/jobs/product-manager-in-person-giving-7271446446", "match_method": "manual_seed", "confidence": null}
+{"raw_name": "CACI International Inc", "canonical_name": "CACI International Inc", "source_record_id": "Himalayas-https://himalayas.app/companies/caci-international-inc/jobs/procurement-policy-specialist", "match_method": "manual_seed", "confidence": null}

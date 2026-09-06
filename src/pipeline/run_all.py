@@ -41,8 +41,8 @@ from src.scrapers.yc_startups import (
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(name)s: %(message)s")
 logger = logging.getLogger("run_all")
 
-STARTUP_TARGET = 200          # within TRD's 150-300 trial target
-PAPER_TARGET = 300            # within TRD's 200-400 trial target
+STARTUP_TARGET = 1000         # brief's full target (1,732 AI-tagged available on YC/Algolia)
+PAPER_TARGET = 1000           # brief's full target
 ARXIV_CATEGORIES = ["cs.AI", "cs.LG"]
 
 OUTPUT_DIR = Path("output")

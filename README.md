@@ -6,18 +6,34 @@ traces to a working, verified source URL.
 
 ## Final record counts (this run)
 
-| Entity | Trial target | Achieved | Notes |
-|---|---:|---:|---|
-| Startups | 150–300 | **200** | Live YC/Algolia, AI-tagged (1,732 available) |
-| Products | 150–300 | **200** | One per startup; `pricingModel` UNKNOWN by design — see below |
-| Research Papers | 200–400 | **300** | Live arXiv (`cs.AI`+`cs.LG`); 113 GitHub-matched, 187 honest `null` |
-| Jobs (24h fresh) | uncapped | **226** | Out of 413 raw across RemoteOK + 4 boards |
-| News (24h fresh) | uncapped | **3** | Out of 66 raw across all 5 feeds — see "Why only 3 news records" below |
-| Entity Mapping Log | — | **426** | Every canonicalization decision, method + confidence logged |
+Startups/Products/Research Papers are scaled to the brief's full stated
+targets (1,000 each), not the trial's reduced 150–300/200–400 range —
+verified achievable given 1,732 AI-tagged YC companies are available, and
+GitHub's search-endpoint rate limit (~30 req/min) was the binding constraint
+on papers, not availability.
 
-All 6 tabs are live in the target Google Sheet (`GOOGLE_SHEET_ID` in `.env`)
-via `src/output/to_sheets.py`, and mirrored as `output/*.jsonl` + `.csv`.
-Zero records were rejected by schema validation across any entity type.
+| Entity | Brief's target | Achieved | Notes |
+|---|---:|---:|---|
+| Startups | 1,000 | **1,000** | Live YC/Algolia, AI-tagged (1,732 available) |
+| Products | 1,000 | **1,000** | One per startup; `pricingModel` UNKNOWN by design — see below |
+| Research Papers | 1,000 | **1,000** | Live arXiv (`cs.AI`+`cs.LG`); 321 GitHub-matched, 679 honest `null`. GitHub enrichment took 69 min (~30 req/min search-endpoint ceiling is the bottleneck — see `architecture.md` §2) |
+| Jobs (24h fresh) | uncapped | **223** | Out of ~413 raw across RemoteOK + 4 boards (226 → 224 → 223 across three separate live runs — normal run-to-run variance in a 24h freshness window, not a regression) |
+| News (24h fresh) | uncapped | **3** | Same 3 TechCrunch articles as the prior run — see "Why only 3 news records" below |
+| Entity Mapping Log | — | **1,223** | Every canonicalization decision, method + confidence logged (scales with the 1,000 startups + jobs, up from 426 at the 200-startup volume) |
+
+Mirrored as `output/*.jsonl` + `.csv`. Zero records were rejected by schema
+validation across any entity type, at this or the prior volume.
+
+**Google Sheets push status:** `src/output/to_sheets.py` is written and was
+verified working at the earlier (200/200/300) volume, but a re-run at this
+volume hit a live blocker — the Google Drive API is disabled on the linked
+GCP project (`ai-signals-507813`), which `gspread` needs even for a
+by-ID open. This needs to be enabled at
+`console.developers.google.com/apis/api/drive.googleapis.com` and the
+target Sheet needs to be shared with the service account
+(`ai-signal@ai-signals-507813.iam.gserviceaccount.com`) before the push can
+be re-verified. `output/*.jsonl` + `.csv` are the authoritative 1,000-scale
+outputs in the meantime.
 
 ## No source substitutions were needed for News or Jobs
 
@@ -54,7 +70,7 @@ increase volume, but neither was requested by the brief, which asks for
 | `src/scrapers/news_feeds.py` | ✅ Live, all 5 feeds, `trafilatura` full-text extraction |
 | `src/scrapers/jobs_remoteok.py` / `jobs_other.py` | ✅ Live, all JSON/RSS APIs, no HTML scraping needed |
 | `src/output/writer.py` | ✅ JSONL + CSV, schema-validates every record, rejects (doesn't drop) invalid ones |
-| `src/output/to_sheets.py` | ✅ Pushes `output/*.jsonl` to 6 Google Sheet tabs; row counts verified by reading back from the Sheet |
+| `src/output/to_sheets.py` | ✅ Pushes `output/*.jsonl` to 6 Google Sheet tabs; row counts verified by reading back from the Sheet at the 200/200/300 volume. ⚠️ Blocked at the current 1,000/1,000/1,000 volume by a Drive API config issue on the linked GCP project — see "Google Sheets push status" above |
 | `src/pipeline/run_all.py` | ✅ Orchestrates all of the above, prints a verification pass with spot-checked source URLs |
 | `architecture.md` / `architecture.pdf` | ✅ 3 pages, covers all 4 required talking points with real tested numbers |
 
@@ -84,9 +100,28 @@ python -m src.output.writer
   forcing every product into FREE/FREEMIUM/PAID/ENTERPRISE would mean
   guessing, which risks the brief's disqualification clause.
 - **Fuzzy match threshold is 82, not a rounder number like 85 or 90** —
-  tuned against a real typo case ("OpenAl" vs "OpenAI" scores 83.3 on
-  rapidfuzz's WRatio). The Entity Mapping Log exists specifically so a
-  human can audit fuzzy matches after the fact.
+  tuned against a real typo case ("OpenAl" vs "OpenAI" scores 83.3). The
+  Entity Mapping Log exists specifically so a human can audit fuzzy
+  matches after the fact.
+- **The fuzzy-match scorer was fixed after scaling to 1,000 startups
+  surfaced a real bug**: `rapidfuzz.fuzz.WRatio` (the original scorer)
+  combines several heuristics including partial/token-overlap matching,
+  which inflates scores for short multi-word names sharing only a
+  generic token. At the 200-startup trial scale this never surfaced —
+  only one genuine fuzzy case existed (the OpenAl typo above). At
+  1,000-startup scale it produced systematic false positives: 46
+  unrelated companies scored >82 against "Mistral AI", 21 against
+  "OpenAI", 17 against "Meta AI", purely from sharing the token "AI"
+  (e.g. "Tara AI" incorrectly merged into "Mistral AI"). Fixed by
+  switching to plain `fuzz.ratio` (no token tricks) plus a minimum
+  6-character length guard on fuzzy matching (very short names like
+  "Rex"/"Glen" remain collision-prone under *any* string-similarity
+  scorer, since a 1-2 character edit is a large fraction of a short
+  string). Fuzzy matches dropped from 187 to 25 after the fix, with the
+  bulk-collision pattern gone entirely — the remaining 25 are
+  individually plausible small-edit-distance pairs between genuinely
+  similar short names, exactly the borderline calls the Entity Mapping
+  Log exists to let a human audit.
 - **The GitHub paper→repo matcher was rebuilt through 3 rounds of live
   sense-checking**, not just "ran once and looked plausible": it initially
   matched the same aggregator/"awesome-list" repo to multiple unrelated

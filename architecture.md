@@ -2,16 +2,17 @@
 
 **Scope:** 3-day take-home trial. This run collected real records from 5 live,
 first-party APIs/feeds (YC/Algolia, arXiv, GitHub, 5 RSS news feeds, RemoteOK
-+ 4 job-board APIs/feeds) at the trial's reduced volume. This document argues
-how the same architecture scales to the brief's full 500k+ target, and
++ 4 job-board APIs/feeds), at the brief's full stated targets for
+Startups/Products/Research Papers (1,000 each). This document argues how the
+same architecture scales further to the brief's full 500k+ target, and
 documents the real numbers this run actually produced.
 
-| Entity | Trial target (TRD.md) | This run |
+| Entity | Brief's target | This run |
 |---|---|---|
-| Startups | 150–300 | 200 |
-| Products | 150–300 | 200 |
-| Research Papers | 200–400 | 300 (113 GitHub-matched, 187 honest `null`) |
-| Jobs (24h fresh) | uncapped | 226 (out of 413 raw across RemoteOK + 4 boards) |
+| Startups | 1,000 | 1,000 |
+| Products | 1,000 | 1,000 |
+| Research Papers | 1,000 | 1,000 (321 GitHub-matched, 679 honest `null`) |
+| Jobs (24h fresh) | uncapped | 224 (out of ~410 raw across RemoteOK + 4 boards) |
 | News (24h fresh) | uncapped | 3 (out of 66 raw across all 5 feeds) |
 
 The News count is genuinely small, not under-filtering: checked at write time, only
@@ -19,6 +20,8 @@ TechCrunch had anything under 24h old (newest 15.3h); The Verge's newest was 26.
 (just outside the window), Ars Technica and MIT Tech Review were 40+h stale, and
 VentureBeat intermittently returns zero entries under its WAF. A quiet 24h window
 across 5 outlets is a real characteristic of this run, not a bug — see README.md.
+Jobs/News are uncapped by the brief ("all found" within 24h), so neither was
+re-targeted when Startups/Products/Papers were scaled up to 1,000.
 
 Per the brief's own instruction, this trial deliberately does not attempt to
 scrape 500k records — it proves the pipeline is real end-to-end at a
@@ -102,8 +105,9 @@ exact fallthrough order):
   its own ~30 req/min ceiling separate from the core API's 5,000/hr, which
   the pre-built module hadn't accounted for. Fixed by adding an explicit
   **2.2s delay between paper-enrichment iterations** (`src/scrapers/arxiv_papers.py`), sized to stay
-  under that endpoint-specific limit — at 300 papers this adds ~11 minutes
-  to a full run, which is an acceptable trial-scale cost for correctness.
+  under that endpoint-specific limit — at 1,000 papers this adds ~69 minutes
+  to a full run (observed directly), the binding bottleneck on scaling
+  papers further within a single process — see §1's token round-robin fix.
 
 ---
 
@@ -181,7 +185,12 @@ of the "Intelligence Graph" relationships the brief's own name implies:
   directory never exposes pricing; forcing a guess into one of 4 real
   values would be exactly the hallucination the brief disqualifies for.
 - Fuzzy match threshold is 82.0, tuned against a real typo case, not a
-  round number — see §3 above.
+  round number — see §3 above. The scorer itself was fixed after scaling
+  to 1,000 startups: `WRatio`'s token-overlap heuristic inflated scores
+  for short names sharing a generic word (46 companies falsely merged
+  into "Mistral AI" alone). Switched to plain `fuzz.ratio` + a 6-char
+  minimum-length guard — fuzzy matches dropped 187→25, bulk-collision
+  pattern gone. Full detail in README.md.
 - Papers with Code was considered as an additional source alongside
   Arxiv; Arxiv+GitHub was used since it produces equivalent schema output
   for this pipeline's purposes.
@@ -209,7 +218,9 @@ of the "Intelligence Graph" relationships the brief's own name implies:
      auto-generation markers in the README's opening 500 characters —
      deliberately content-based rather than name-based, since it
      generalizes to aggregators regardless of what they're called.
-  Final state: 113/300 papers (37.7%) matched to a repo, 187 left `null`.
+  Final state at 1,000-paper scale: 321/1,000 papers (32.1%) matched to a
+  repo, 679 left `null` — consistent with the 37.7% rate at the earlier
+  300-paper run (normal variance).
   This trades recall for precision deliberately — TRD §2.2 is explicit
   that a wrong repo mapped to a paper is worse than `null` — and the
   three rounds above are the concrete evidence that precision was
