@@ -24,16 +24,13 @@ on papers, not availability.
 Mirrored as `output/*.jsonl` + `.csv`. Zero records were rejected by schema
 validation across any entity type, at this or the prior volume.
 
-**Google Sheets push status:** `src/output/to_sheets.py` is written and was
-verified working at the earlier (200/200/300) volume, but a re-run at this
-volume hit a live blocker — the Google Drive API is disabled on the linked
-GCP project (`ai-signals-507813`), which `gspread` needs even for a
-by-ID open. This needs to be enabled at
-`console.developers.google.com/apis/api/drive.googleapis.com` and the
-target Sheet needs to be shared with the service account
-(`ai-signal@ai-signals-507813.iam.gserviceaccount.com`) before the push can
-be re-verified. `output/*.jsonl` + `.csv` are the authoritative 1,000-scale
-outputs in the meantime.
+**Google Sheets push status:** ✅ All 6 tabs are live in the target Sheet via
+`src/output/to_sheets.py`. Row counts were independently verified by reading
+each tab back directly from the Sheet (not just trusting the writer's own
+log output) and match `output/*.jsonl` exactly: Startups 1,000, Products
+1,000, Research Papers 1,000, Jobs 223, News 3, Entity Mapping Log 1,223. An
+earlier run at this volume hit a live blocker (Google Drive API disabled on
+the linked GCP project), which has since been resolved.
 
 ## No source substitutions were needed for News or Jobs
 
@@ -70,7 +67,7 @@ increase volume, but neither was requested by the brief, which asks for
 | `src/scrapers/news_feeds.py` | ✅ Live, all 5 feeds, `trafilatura` full-text extraction |
 | `src/scrapers/jobs_remoteok.py` / `jobs_other.py` | ✅ Live, all JSON/RSS APIs, no HTML scraping needed |
 | `src/output/writer.py` | ✅ JSONL + CSV, schema-validates every record, rejects (doesn't drop) invalid ones |
-| `src/output/to_sheets.py` | ✅ Pushes `output/*.jsonl` to 6 Google Sheet tabs; row counts verified by reading back from the Sheet at the 200/200/300 volume. ⚠️ Blocked at the current 1,000/1,000/1,000 volume by a Drive API config issue on the linked GCP project — see "Google Sheets push status" above |
+| `src/output/to_sheets.py` | ✅ Pushes `output/*.jsonl` to 6 Google Sheet tabs; row counts independently verified by reading back from the Sheet at the full 1,000/1,000/1,000/223/3 volume — see "Google Sheets push status" above |
 | `src/pipeline/run_all.py` | ✅ Orchestrates all of the above, prints a verification pass with spot-checked source URLs |
 | `architecture.md` / `architecture.pdf` | ✅ 3 pages, covers all 4 required talking points with real tested numbers |
 
